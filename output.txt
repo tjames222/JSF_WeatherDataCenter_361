@@ -1,548 +1,347 @@
-DME Timestamp: 2021-05-31 21:08:35.030076 -- Humidity: 40.9351075785 -- Pressure: 996.896586357 -- Temperature: 26.6469174762DME Timestamp: 2021-05-31 21:19:06.535407 -- Humidity: 39.3141957247 -- Pressure: 996.892460738 -- Temperature: 26.6775155202DME Timestamp: 2021-05-31 21:19:08.231072 -- Humidity: 39.527174691 -- Pressure: 996.900793937 -- Temperature: 26.6826151952DME Timestamp: 2021-05-31 21:19:09.840677 -- Humidity: 39.9886810617 -- Pressure: 996.884127566 -- Temperature: 26.6724158454DME Timestamp: 2021-05-31 21:20:00.135385 -- Humidity: 39.5869372113 -- Pressure: 996.908937705 -- Temperature: 26.555123407DME Timestamp: 2021-05-31 21:21:30.583189 -- Humidity: 39.3983255586 -- Pressure: 996.935728546 -- Temperature: 26.4225321403DME Timestamp: 2021-05-31 21:21:33.191261 -- Humidity: 39.8535894654 -- Pressure: 996.871240628 -- Temperature: 26.4327314615DME Timestamp: 2021-05-31 21:21:34.604280 -- Humidity: 40.4743491573 -- Pressure: 996.887910571 -- Temperature: 26.4429307839DME Timestamp: 2021-05-31 21:21:43.908194 -- Humidity: 39.6466355648 -- Pressure: 996.925346665 -- Temperature: 26.4327314615DME Timestamp: 2021-05-31 21:21:46.071411 -- Humidity: 39.4692861377 -- Pressure: 996.854570797 -- Temperature: 26.4225321403DME Timestamp: 2021-05-31 21:24:01.078206 -- Humidity: 39.5061625014 -- Pressure: 996.857911732 -- Temperature: 26.1267523312DME Timestamp: 2021-05-31 21:24:01.078206 -- Humidity: 39.5061625014 -- Pressure: 996.857911732 -- Temperature: 26.1267523312GPS Timestamp: 01:24:01 -- Lat: 3326.90683 N -- Lon: 08405.70746 W -- Altitude: 241.8 M --Satellites: 10DME Timestamp: 2021-05-31 21:24:01.078206 -- Humidity: 39.5061625014 -- Pressure: 996.857911732 -- Temperature: 26.1267523312DME Timestamp: 2021-05-31 21:24:01.078206 -- Humidity: 39.5061625014 -- Pressure: 996.857911732 -- Temperature: 26.1267523312DME Timestamp: 2021-05-31 21:24:01.078206 -- Humidity: 39.5061625014 -- Pressure: 996.857911732 -- Temperature: 26.1267523312DME Timestamp: 2021-05-31 21:24:01.078206 -- Humidity: 39.5061625014 -- Pressure: 996.857911732 -- Temperature: 26.1267523312DME Timestamp: 2021-05-31 21:24:01.078206 -- Humidity: 39.5061625014 -- Pressure: 996.857911732 -- Temperature: 26.1267523312DME Timestamp: 2021-05-31 21:24:01.078206 -- Humidity: 39.5061625014 -- Pressure: 996.857911732 -- Temperature: 26.1267523312DME Timestamp: 2021-05-31 21:24:01.078206 -- Humidity: 39.5061625014 -- Pressure: 996.857911732 -- Temperature: 26.1267523312DME Timestamp: 2021-05-31 21:24:01.078206 -- Humidity: 39.5061625014 -- Pressure: 996.857911732 -- Temperature: 26.1267523312DME Timestamp: 2021-05-31 21:24:01.078206 -- Humidity: 39.5061625014 -- Pressure: 996.857911732 -- Temperature: 26.1267523312DME Timestamp: 2021-05-31 21:27:41.785187 -- Humidity: 39.2173455008 -- Pressure: 996.894818422 -- Temperature: 25.9839624289 
-DME Timestamp: 2021-05-31 21:27:41.785187 -- Humidity: 39.2173455008 -- Pressure: 996.894818422 -- Temperature: 25.9839624289 
-DME Timestamp: 2021-05-31 21:27:41.785187 -- Humidity: 39.2173455008 -- Pressure: 996.894818422 -- Temperature: 25.9839624289 
-GPS Timestamp: 01:27:42 -- Lat: 3326.90603 N -- Lon: 08405.70764 W -- Altitude: 267.5 M --Satellites: 10
-DME Timestamp: 2021-05-31 21:27:41.785187 -- Humidity: 39.2173455008 -- Pressure: 996.894818422 -- Temperature: 25.9839624289 
-DME Timestamp: 2021-05-31 21:27:41.785187 -- Humidity: 39.2173455008 -- Pressure: 996.894818422 -- Temperature: 25.9839624289 
-DME Timestamp: 2021-05-31 21:27:41.785187 -- Humidity: 39.2173455008 -- Pressure: 996.894818422 -- Temperature: 25.9839624289 
-DME Timestamp: 2021-05-31 21:27:41.785187 -- Humidity: 39.2173455008 -- Pressure: 996.894818422 -- Temperature: 25.9839624289 
-DME Timestamp: 2021-05-31 21:27:41.785187 -- Humidity: 39.2173455008 -- Pressure: 996.894818422 -- Temperature: 25.9839624289 
-DME Timestamp: 2021-05-31 21:27:41.785187 -- Humidity: 39.2173455008 -- Pressure: 996.894818422 -- Temperature: 25.9839624289 
-DME Timestamp: 2021-05-31 21:27:41.785187 -- Humidity: 39.2173455008 -- Pressure: 996.894818422 -- Temperature: 25.9839624289 
-DME Timestamp: 2021-05-31 21:27:41.785187 -- Humidity: 39.2173455008 -- Pressure: 996.894818422 -- Temperature: 25.9839624289 
-DME Timestamp: 2021-05-31 21:27:41.785187 -- Humidity: 39.2173455008 -- Pressure: 996.894818422 -- Temperature: 25.9839624289 
-DME Timestamp: 2021-05-31 21:27:41.785187 -- Humidity: 39.2173455008 -- Pressure: 996.894818422 -- Temperature: 25.9839624289 
-DME Timestamp: 2021-05-31 21:27:41.785187 -- Humidity: 39.2173455008 -- Pressure: 996.894818422 -- Temperature: 25.9839624289 
-DME Timestamp: 2021-05-31 21:27:41.785187 -- Humidity: 39.2173455008 -- Pressure: 996.894818422 -- Temperature: 25.9839624289 
-DME Timestamp: 2021-05-31 21:27:41.785187 -- Humidity: 39.2173455008 -- Pressure: 996.894818422 -- Temperature: 25.9839624289 
-GPS Timestamp: 01:27:43 -- Lat: 3326.90611 N -- Lon: 08405.70757 W -- Altitude: 267.5 M --Satellites: 10
-DME Timestamp: 2021-05-31 21:27:41.785187 -- Humidity: 39.2173455008 -- Pressure: 996.894818422 -- Temperature: 25.9839624289 
-DME Timestamp: 2021-05-31 21:27:41.785187 -- Humidity: 39.2173455008 -- Pressure: 996.894818422 -- Temperature: 25.9839624289 
-DME Timestamp: 2021-05-31 21:27:41.785187 -- Humidity: 39.2173455008 -- Pressure: 996.894818422 -- Temperature: 25.9839624289 
-DME Timestamp: 2021-05-31 21:27:41.785187 -- Humidity: 39.2173455008 -- Pressure: 996.894818422 -- Temperature: 25.9839624289 
-DME Timestamp: 2021-05-31 21:27:41.785187 -- Humidity: 39.2173455008 -- Pressure: 996.894818422 -- Temperature: 25.9839624289 
-DME Timestamp: 2021-05-31 21:27:41.785187 -- Humidity: 39.2173455008 -- Pressure: 996.894818422 -- Temperature: 25.9839624289 
-DME Timestamp: 2021-05-31 21:27:41.785187 -- Humidity: 39.2173455008 -- Pressure: 996.894818422 -- Temperature: 25.9839624289 
-DME Timestamp: 2021-05-31 21:27:41.785187 -- Humidity: 39.2173455008 -- Pressure: 996.894818422 -- Temperature: 25.9839624289 
-DME Timestamp: 2021-05-31 21:27:41.785187 -- Humidity: 39.2173455008 -- Pressure: 996.894818422 -- Temperature: 25.9839624289 
-DME Timestamp: 2021-05-31 21:27:41.785187 -- Humidity: 39.2173455008 -- Pressure: 996.894818422 -- Temperature: 25.9839624289 
-DME Timestamp: 2021-05-31 21:27:41.785187 -- Humidity: 39.2173455008 -- Pressure: 996.894818422 -- Temperature: 25.9839624289 
-DME Timestamp: 2021-05-31 21:27:41.785187 -- Humidity: 39.2173455008 -- Pressure: 996.894818422 -- Temperature: 25.9839624289 
-DME Timestamp: 2021-05-31 21:27:41.785187 -- Humidity: 39.2173455008 -- Pressure: 996.894818422 -- Temperature: 25.9839624289 
-GPS Timestamp: 01:27:44 -- Lat: 3326.90624 N -- Lon: 08405.70748 W -- Altitude: 267.8 M --Satellites: 10
-DME Timestamp: 2021-05-31 21:27:41.785187 -- Humidity: 39.2173455008 -- Pressure: 996.894818422 -- Temperature: 25.9839624289 
-DME Timestamp: 2021-05-31 21:27:41.785187 -- Humidity: 39.2173455008 -- Pressure: 996.894818422 -- Temperature: 25.9839624289 
-DME Timestamp: 2021-05-31 21:27:41.785187 -- Humidity: 39.2173455008 -- Pressure: 996.894818422 -- Temperature: 25.9839624289 
-DME Timestamp: 2021-05-31 21:27:41.785187 -- Humidity: 39.2173455008 -- Pressure: 996.894818422 -- Temperature: 25.9839624289 
-DME Timestamp: 2021-05-31 21:27:41.785187 -- Humidity: 39.2173455008 -- Pressure: 996.894818422 -- Temperature: 25.9839624289 
-DME Timestamp: 2021-05-31 21:27:41.785187 -- Humidity: 39.2173455008 -- Pressure: 996.894818422 -- Temperature: 25.9839624289 
-DME Timestamp: 2021-05-31 21:27:41.785187 -- Humidity: 39.2173455008 -- Pressure: 996.894818422 -- Temperature: 25.9839624289 
-DME Timestamp: 2021-05-31 21:27:41.785187 -- Humidity: 39.2173455008 -- Pressure: 996.894818422 -- Temperature: 25.9839624289 
-DME Timestamp: 2021-05-31 21:27:41.785187 -- Humidity: 39.2173455008 -- Pressure: 996.894818422 -- Temperature: 25.9839624289 
-DME Timestamp: 2021-05-31 21:27:41.785187 -- Humidity: 39.2173455008 -- Pressure: 996.894818422 -- Temperature: 25.9839624289 
-DME Timestamp: 2021-05-31 21:27:41.785187 -- Humidity: 39.2173455008 -- Pressure: 996.894818422 -- Temperature: 25.9839624289 
-DME Timestamp: 2021-05-31 21:27:41.785187 -- Humidity: 39.2173455008 -- Pressure: 996.894818422 -- Temperature: 25.9839624289 
-DME Timestamp: 2021-05-31 21:27:41.785187 -- Humidity: 39.2173455008 -- Pressure: 996.894818422 -- Temperature: 25.9839624289 
-GPS Timestamp: 01:27:45 -- Lat: 3326.90640 N -- Lon: 08405.70743 W -- Altitude: 267.9 M --Satellites: 10
-DME Timestamp: 2021-05-31 21:27:41.785187 -- Humidity: 39.2173455008 -- Pressure: 996.894818422 -- Temperature: 25.9839624289 
-DME Timestamp: 2021-05-31 21:27:41.785187 -- Humidity: 39.2173455008 -- Pressure: 996.894818422 -- Temperature: 25.9839624289 
-DME Timestamp: 2021-05-31 21:27:41.785187 -- Humidity: 39.2173455008 -- Pressure: 996.894818422 -- Temperature: 25.9839624289 
-DME Timestamp: 2021-05-31 21:27:41.785187 -- Humidity: 39.2173455008 -- Pressure: 996.894818422 -- Temperature: 25.9839624289 
-DME Timestamp: 2021-05-31 21:27:41.785187 -- Humidity: 39.2173455008 -- Pressure: 996.894818422 -- Temperature: 25.9839624289 
-DME Timestamp: 2021-05-31 21:27:41.785187 -- Humidity: 39.2173455008 -- Pressure: 996.894818422 -- Temperature: 25.9839624289 
-DME Timestamp: 2021-05-31 21:27:41.785187 -- Humidity: 39.2173455008 -- Pressure: 996.894818422 -- Temperature: 25.9839624289 
-DME Timestamp: 2021-05-31 21:27:41.785187 -- Humidity: 39.2173455008 -- Pressure: 996.894818422 -- Temperature: 25.9839624289 
-DME Timestamp: 2021-05-31 21:27:41.785187 -- Humidity: 39.2173455008 -- Pressure: 996.894818422 -- Temperature: 25.9839624289 
-DME Timestamp: 2021-05-31 21:27:41.785187 -- Humidity: 39.2173455008 -- Pressure: 996.894818422 -- Temperature: 25.9839624289 
-DME Timestamp: 2021-05-31 21:27:41.785187 -- Humidity: 39.2173455008 -- Pressure: 996.894818422 -- Temperature: 25.9839624289 
-DME Timestamp: 2021-05-31 21:27:41.785187 -- Humidity: 39.2173455008 -- Pressure: 996.894818422 -- Temperature: 25.9839624289 
-DME Timestamp: 2021-05-31 21:27:41.785187 -- Humidity: 39.2173455008 -- Pressure: 996.894818422 -- Temperature: 25.9839624289 
-DME Timestamp: 2021-05-31 21:30:23.623267 -- Humidity: 32.7051581084 -- Pressure: 996.941686472 -- Temperature: 29.5333790839 
-DME Timestamp: 2021-05-31 21:30:23.623267 -- Humidity: 32.7051581084 -- Pressure: 996.941686472 -- Temperature: 29.5333790839 
-DME Timestamp: 2021-05-31 21:30:23.623267 -- Humidity: 32.7051581084 -- Pressure: 996.941686472 -- Temperature: 29.5333790839 
-DME Timestamp: 2021-05-31 21:30:23.623267 -- Humidity: 32.7051581084 -- Pressure: 996.941686472 -- Temperature: 29.5333790839 
-DME Timestamp: 2021-05-31 21:30:23.623267 -- Humidity: 32.7051581084 -- Pressure: 996.941686472 -- Temperature: 29.5333790839 
-DME Timestamp: 2021-05-31 21:30:23.623267 -- Humidity: 32.7051581084 -- Pressure: 996.941686472 -- Temperature: 29.5333790839 
-GPS Timestamp: 01:30:24 -- Lat: 3326.90546 N -- Lon: 08405.70256 W -- Altitude: 260.1 M --Satellites: 11
-DME Timestamp: 2021-05-31 21:30:23.623267 -- Humidity: 32.7051581084 -- Pressure: 996.941686472 -- Temperature: 29.5333790839 
-DME Timestamp: 2021-05-31 21:30:23.623267 -- Humidity: 32.7051581084 -- Pressure: 996.941686472 -- Temperature: 29.5333790839 
-DME Timestamp: 2021-05-31 21:30:23.623267 -- Humidity: 32.7051581084 -- Pressure: 996.941686472 -- Temperature: 29.5333790839 
-DME Timestamp: 2021-05-31 21:30:23.623267 -- Humidity: 32.7051581084 -- Pressure: 996.941686472 -- Temperature: 29.5333790839 
-DME Timestamp: 2021-05-31 21:30:23.623267 -- Humidity: 32.7051581084 -- Pressure: 996.941686472 -- Temperature: 29.5333790839 
-DME Timestamp: 2021-05-31 21:30:23.623267 -- Humidity: 32.7051581084 -- Pressure: 996.941686472 -- Temperature: 29.5333790839 
-DME Timestamp: 2021-05-31 21:30:23.623267 -- Humidity: 32.7051581084 -- Pressure: 996.941686472 -- Temperature: 29.5333790839 
-DME Timestamp: 2021-05-31 21:30:23.623267 -- Humidity: 32.7051581084 -- Pressure: 996.941686472 -- Temperature: 29.5333790839 
-DME Timestamp: 2021-05-31 21:30:23.623267 -- Humidity: 32.7051581084 -- Pressure: 996.941686472 -- Temperature: 29.5333790839 
-DME Timestamp: 2021-05-31 21:30:23.623267 -- Humidity: 32.7051581084 -- Pressure: 996.941686472 -- Temperature: 29.5333790839 
-DME Timestamp: 2021-05-31 21:30:23.623267 -- Humidity: 32.7051581084 -- Pressure: 996.941686472 -- Temperature: 29.5333790839 
-DME Timestamp: 2021-05-31 21:30:23.623267 -- Humidity: 32.7051581084 -- Pressure: 996.941686472 -- Temperature: 29.5333790839 
-DME Timestamp: 2021-05-31 21:30:23.623267 -- Humidity: 32.7051581084 -- Pressure: 996.941686472 -- Temperature: 29.5333790839 
-GPS Timestamp: 01:30:25 -- Lat: 3326.90531 N -- Lon: 08405.70235 W -- Altitude: 260.2 M --Satellites: 11
-DME Timestamp: 2021-05-31 21:30:23.623267 -- Humidity: 32.7051581084 -- Pressure: 996.941686472 -- Temperature: 29.5333790839 
-DME Timestamp: 2021-05-31 21:30:23.623267 -- Humidity: 32.7051581084 -- Pressure: 996.941686472 -- Temperature: 29.5333790839 
-DME Timestamp: 2021-05-31 21:30:23.623267 -- Humidity: 32.7051581084 -- Pressure: 996.941686472 -- Temperature: 29.5333790839 
-DME Timestamp: 2021-05-31 21:30:23.623267 -- Humidity: 32.7051581084 -- Pressure: 996.941686472 -- Temperature: 29.5333790839 
-DME Timestamp: 2021-05-31 21:30:23.623267 -- Humidity: 32.7051581084 -- Pressure: 996.941686472 -- Temperature: 29.5333790839 
-DME Timestamp: 2021-05-31 21:30:23.623267 -- Humidity: 32.7051581084 -- Pressure: 996.941686472 -- Temperature: 29.5333790839 
-DME Timestamp: 2021-05-31 21:30:23.623267 -- Humidity: 32.7051581084 -- Pressure: 996.941686472 -- Temperature: 29.5333790839 
-DME Timestamp: 2021-05-31 21:30:23.623267 -- Humidity: 32.7051581084 -- Pressure: 996.941686472 -- Temperature: 29.5333790839 
-DME Timestamp: 2021-05-31 21:30:23.623267 -- Humidity: 32.7051581084 -- Pressure: 996.941686472 -- Temperature: 29.5333790839 
-DME Timestamp: 2021-05-31 21:30:23.623267 -- Humidity: 32.7051581084 -- Pressure: 996.941686472 -- Temperature: 29.5333790839 
-DME Timestamp: 2021-05-31 21:30:23.623267 -- Humidity: 32.7051581084 -- Pressure: 996.941686472 -- Temperature: 29.5333790839 
-DME Timestamp: 2021-05-31 21:30:23.623267 -- Humidity: 32.7051581084 -- Pressure: 996.941686472 -- Temperature: 29.5333790839 
-GPS Timestamp: 01:30:26 -- Lat: 3326.90564 N -- Lon: 08405.70229 W -- Altitude: 260.6 M --Satellites: 11
-DME Timestamp: 2021-05-31 21:30:23.623267 -- Humidity: 32.7051581084 -- Pressure: 996.941686472 -- Temperature: 29.5333790839 
-DME Timestamp: 2021-05-31 21:30:23.623267 -- Humidity: 32.7051581084 -- Pressure: 996.941686472 -- Temperature: 29.5333790839 
-DME Timestamp: 2021-05-31 21:30:23.623267 -- Humidity: 32.7051581084 -- Pressure: 996.941686472 -- Temperature: 29.5333790839 
-DME Timestamp: 2021-05-31 21:30:23.623267 -- Humidity: 32.7051581084 -- Pressure: 996.941686472 -- Temperature: 29.5333790839 
-DME Timestamp: 2021-05-31 21:30:23.623267 -- Humidity: 32.7051581084 -- Pressure: 996.941686472 -- Temperature: 29.5333790839 
-DME Timestamp: 2021-05-31 21:30:23.623267 -- Humidity: 32.7051581084 -- Pressure: 996.941686472 -- Temperature: 29.5333790839 
-DME Timestamp: 2021-05-31 21:30:23.623267 -- Humidity: 32.7051581084 -- Pressure: 996.941686472 -- Temperature: 29.5333790839 
-DME Timestamp: 2021-05-31 21:30:23.623267 -- Humidity: 32.7051581084 -- Pressure: 996.941686472 -- Temperature: 29.5333790839 
-DME Timestamp: 2021-05-31 21:30:23.623267 -- Humidity: 32.7051581084 -- Pressure: 996.941686472 -- Temperature: 29.5333790839 
-DME Timestamp: 2021-05-31 21:30:23.623267 -- Humidity: 32.7051581084 -- Pressure: 996.941686472 -- Temperature: 29.5333790839 
-DME Timestamp: 2021-05-31 21:30:23.623267 -- Humidity: 32.7051581084 -- Pressure: 996.941686472 -- Temperature: 29.5333790839 
-DME Timestamp: 2021-05-31 21:30:23.623267 -- Humidity: 32.7051581084 -- Pressure: 996.941686472 -- Temperature: 29.5333790839 
-DME Timestamp: 2021-05-31 21:30:23.623267 -- Humidity: 32.7051581084 -- Pressure: 996.941686472 -- Temperature: 29.5333790839 
-GPS Timestamp: 01:30:27 -- Lat: 3326.90554 N -- Lon: 08405.70230 W -- Altitude: 260.6 M --Satellites: 11
-DME Timestamp: 2021-05-31 21:30:23.623267 -- Humidity: 32.7051581084 -- Pressure: 996.941686472 -- Temperature: 29.5333790839 
-DME Timestamp: 2021-05-31 21:30:23.623267 -- Humidity: 32.7051581084 -- Pressure: 996.941686472 -- Temperature: 29.5333790839 
-DME Timestamp: 2021-05-31 21:30:23.623267 -- Humidity: 32.7051581084 -- Pressure: 996.941686472 -- Temperature: 29.5333790839 
-DME Timestamp: 2021-05-31 21:30:23.623267 -- Humidity: 32.7051581084 -- Pressure: 996.941686472 -- Temperature: 29.5333790839 
-DME Timestamp: 2021-05-31 21:30:23.623267 -- Humidity: 32.7051581084 -- Pressure: 996.941686472 -- Temperature: 29.5333790839 
-DME Timestamp: 2021-05-31 21:30:23.623267 -- Humidity: 32.7051581084 -- Pressure: 996.941686472 -- Temperature: 29.5333790839 
-DME Timestamp: 2021-05-31 21:30:23.623267 -- Humidity: 32.7051581084 -- Pressure: 996.941686472 -- Temperature: 29.5333790839 
-DME Timestamp: 2021-05-31 21:30:23.623267 -- Humidity: 32.7051581084 -- Pressure: 996.941686472 -- Temperature: 29.5333790839 
-DME Timestamp: 2021-05-31 21:30:23.623267 -- Humidity: 32.7051581084 -- Pressure: 996.941686472 -- Temperature: 29.5333790839 
-DME Timestamp: 2021-05-31 21:30:23.623267 -- Humidity: 32.7051581084 -- Pressure: 996.941686472 -- Temperature: 29.5333790839 
-DME Timestamp: 2021-05-31 21:30:23.623267 -- Humidity: 32.7051581084 -- Pressure: 996.941686472 -- Temperature: 29.5333790839 
-DME Timestamp: 2021-05-31 21:30:23.623267 -- Humidity: 32.7051581084 -- Pressure: 996.941686472 -- Temperature: 29.5333790839 
-DME Timestamp: 2021-05-31 21:30:23.623267 -- Humidity: 32.7051581084 -- Pressure: 996.941686472 -- Temperature: 29.5333790839 
-GPS Timestamp: 01:30:28 -- Lat: 3326.90524 N -- Lon: 08405.70208 W -- Altitude: 260.7 M --Satellites: 11
-DME Timestamp: 2021-05-31 21:30:23.623267 -- Humidity: 32.7051581084 -- Pressure: 996.941686472 -- Temperature: 29.5333790839 
-DME Timestamp: 2021-05-31 21:30:23.623267 -- Humidity: 32.7051581084 -- Pressure: 996.941686472 -- Temperature: 29.5333790839 
-DME Timestamp: 2021-05-31 21:30:23.623267 -- Humidity: 32.7051581084 -- Pressure: 996.941686472 -- Temperature: 29.5333790839 
-DME Timestamp: 2021-05-31 21:30:23.623267 -- Humidity: 32.7051581084 -- Pressure: 996.941686472 -- Temperature: 29.5333790839 
-DME Timestamp: 2021-05-31 21:30:23.623267 -- Humidity: 32.7051581084 -- Pressure: 996.941686472 -- Temperature: 29.5333790839 
-DME Timestamp: 2021-05-31 21:30:23.623267 -- Humidity: 32.7051581084 -- Pressure: 996.941686472 -- Temperature: 29.5333790839 
-DME Timestamp: 2021-05-31 21:30:23.623267 -- Humidity: 32.7051581084 -- Pressure: 996.941686472 -- Temperature: 29.5333790839 
-DME Timestamp: 2021-05-31 21:30:23.623267 -- Humidity: 32.7051581084 -- Pressure: 996.941686472 -- Temperature: 29.5333790839 
-DME Timestamp: 2021-05-31 21:30:23.623267 -- Humidity: 32.7051581084 -- Pressure: 996.941686472 -- Temperature: 29.5333790839 
-DME Timestamp: 2021-05-31 21:30:23.623267 -- Humidity: 32.7051581084 -- Pressure: 996.941686472 -- Temperature: 29.5333790839 
-DME Timestamp: 2021-05-31 21:30:23.623267 -- Humidity: 32.7051581084 -- Pressure: 996.941686472 -- Temperature: 29.5333790839 
-DME Timestamp: 2021-05-31 21:30:23.623267 -- Humidity: 32.7051581084 -- Pressure: 996.941686472 -- Temperature: 29.5333790839 
-DME Timestamp: 2021-05-31 21:30:23.623267 -- Humidity: 32.7051581084 -- Pressure: 996.941686472 -- Temperature: 29.5333790839 
-GPS Timestamp: 01:30:29 -- Lat: 3326.90508 N -- Lon: 08405.70172 W -- Altitude: 261.2 M --Satellites: 11
-DME Timestamp: 2021-05-31 21:30:23.623267 -- Humidity: 32.7051581084 -- Pressure: 996.941686472 -- Temperature: 29.5333790839 
-DME Timestamp: 2021-05-31 21:30:23.623267 -- Humidity: 32.7051581084 -- Pressure: 996.941686472 -- Temperature: 29.5333790839 
-DME Timestamp: 2021-05-31 21:30:23.623267 -- Humidity: 32.7051581084 -- Pressure: 996.941686472 -- Temperature: 29.5333790839 
-DME Timestamp: 2021-05-31 21:30:23.623267 -- Humidity: 32.7051581084 -- Pressure: 996.941686472 -- Temperature: 29.5333790839 
-DME Timestamp: 2021-05-31 21:30:23.623267 -- Humidity: 32.7051581084 -- Pressure: 996.941686472 -- Temperature: 29.5333790839 
-DME Timestamp: 2021-05-31 21:30:23.623267 -- Humidity: 32.7051581084 -- Pressure: 996.941686472 -- Temperature: 29.5333790839 
-DME Timestamp: 2021-05-31 21:30:23.623267 -- Humidity: 32.7051581084 -- Pressure: 996.941686472 -- Temperature: 29.5333790839 
-DME Timestamp: 2021-05-31 21:30:23.623267 -- Humidity: 32.7051581084 -- Pressure: 996.941686472 -- Temperature: 29.5333790839 
-DME Timestamp: 2021-05-31 21:30:23.623267 -- Humidity: 32.7051581084 -- Pressure: 996.941686472 -- Temperature: 29.5333790839 
-DME Timestamp: 2021-05-31 21:30:23.623267 -- Humidity: 32.7051581084 -- Pressure: 996.941686472 -- Temperature: 29.5333790839 
-DME Timestamp: 2021-05-31 21:30:23.623267 -- Humidity: 32.7051581084 -- Pressure: 996.941686472 -- Temperature: 29.5333790839 
-DME Timestamp: 2021-05-31 21:30:23.623267 -- Humidity: 32.7051581084 -- Pressure: 996.941686472 -- Temperature: 29.5333790839 
-DME Timestamp: 2021-05-31 21:30:23.623267 -- Humidity: 32.7051581084 -- Pressure: 996.941686472 -- Temperature: 29.5333790839 
-GPS Timestamp: 01:30:30 -- Lat: 3326.90498 N -- Lon: 08405.70182 W -- Altitude: 261.5 M --Satellites: 11
-DME Timestamp: 2021-05-31 21:30:23.623267 -- Humidity: 32.7051581084 -- Pressure: 996.941686472 -- Temperature: 29.5333790839 
-DME Timestamp: 2021-05-31 21:30:23.623267 -- Humidity: 32.7051581084 -- Pressure: 996.941686472 -- Temperature: 29.5333790839 
-DME Timestamp: 2021-05-31 21:30:23.623267 -- Humidity: 32.7051581084 -- Pressure: 996.941686472 -- Temperature: 29.5333790839 
-DME Timestamp: 2021-05-31 21:30:23.623267 -- Humidity: 32.7051581084 -- Pressure: 996.941686472 -- Temperature: 29.5333790839 
-DME Timestamp: 2021-05-31 21:30:23.623267 -- Humidity: 32.7051581084 -- Pressure: 996.941686472 -- Temperature: 29.5333790839 
-DME Timestamp: 2021-05-31 21:30:23.623267 -- Humidity: 32.7051581084 -- Pressure: 996.941686472 -- Temperature: 29.5333790839 
-DME Timestamp: 2021-05-31 21:30:23.623267 -- Humidity: 32.7051581084 -- Pressure: 996.941686472 -- Temperature: 29.5333790839 
-DME Timestamp: 2021-05-31 21:30:23.623267 -- Humidity: 32.7051581084 -- Pressure: 996.941686472 -- Temperature: 29.5333790839 
-DME Timestamp: 2021-05-31 21:30:23.623267 -- Humidity: 32.7051581084 -- Pressure: 996.941686472 -- Temperature: 29.5333790839 
-DME Timestamp: 2021-05-31 21:30:23.623267 -- Humidity: 32.7051581084 -- Pressure: 996.941686472 -- Temperature: 29.5333790839 
-DME Timestamp: 2021-05-31 21:30:23.623267 -- Humidity: 32.7051581084 -- Pressure: 996.941686472 -- Temperature: 29.5333790839 
-DME Timestamp: 2021-05-31 21:30:23.623267 -- Humidity: 32.7051581084 -- Pressure: 996.941686472 -- Temperature: 29.5333790839 
-DME Timestamp: 2021-05-31 21:30:23.623267 -- Humidity: 32.7051581084 -- Pressure: 996.941686472 -- Temperature: 29.5333790839 
-GPS Timestamp: 01:30:31 -- Lat: 3326.90494 N -- Lon: 08405.70224 W -- Altitude: 262.0 M --Satellites: 11
-DME Timestamp: 2021-05-31 21:30:23.623267 -- Humidity: 32.7051581084 -- Pressure: 996.941686472 -- Temperature: 29.5333790839 
-DME Timestamp: 2021-05-31 21:30:23.623267 -- Humidity: 32.7051581084 -- Pressure: 996.941686472 -- Temperature: 29.5333790839 
-DME Timestamp: 2021-05-31 21:30:23.623267 -- Humidity: 32.7051581084 -- Pressure: 996.941686472 -- Temperature: 29.5333790839 
-DME Timestamp: 2021-05-31 21:30:23.623267 -- Humidity: 32.7051581084 -- Pressure: 996.941686472 -- Temperature: 29.5333790839 
-DME Timestamp: 2021-05-31 21:30:23.623267 -- Humidity: 32.7051581084 -- Pressure: 996.941686472 -- Temperature: 29.5333790839 
-DME Timestamp: 2021-05-31 21:30:23.623267 -- Humidity: 32.7051581084 -- Pressure: 996.941686472 -- Temperature: 29.5333790839 
-DME Timestamp: 2021-05-31 21:30:23.623267 -- Humidity: 32.7051581084 -- Pressure: 996.941686472 -- Temperature: 29.5333790839 
-DME Timestamp: 2021-05-31 21:30:23.623267 -- Humidity: 32.7051581084 -- Pressure: 996.941686472 -- Temperature: 29.5333790839 
-DME Timestamp: 2021-05-31 21:30:23.623267 -- Humidity: 32.7051581084 -- Pressure: 996.941686472 -- Temperature: 29.5333790839 
-DME Timestamp: 2021-05-31 21:30:23.623267 -- Humidity: 32.7051581084 -- Pressure: 996.941686472 -- Temperature: 29.5333790839 
-DME Timestamp: 2021-05-31 21:30:23.623267 -- Humidity: 32.7051581084 -- Pressure: 996.941686472 -- Temperature: 29.5333790839 
-DME Timestamp: 2021-05-31 21:30:23.623267 -- Humidity: 32.7051581084 -- Pressure: 996.941686472 -- Temperature: 29.5333790839 
-DME Timestamp: 2021-05-31 21:30:23.623267 -- Humidity: 32.7051581084 -- Pressure: 996.941686472 -- Temperature: 29.5333790839 
-GPS Timestamp: 01:30:32 -- Lat: 3326.90504 N -- Lon: 08405.70244 W -- Altitude: 262.4 M --Satellites: 11
-DME Timestamp: 2021-05-31 21:30:23.623267 -- Humidity: 32.7051581084 -- Pressure: 996.941686472 -- Temperature: 29.5333790839 
-DME Timestamp: 2021-05-31 21:30:23.623267 -- Humidity: 32.7051581084 -- Pressure: 996.941686472 -- Temperature: 29.5333790839 
-DME Timestamp: 2021-05-31 21:30:23.623267 -- Humidity: 32.7051581084 -- Pressure: 996.941686472 -- Temperature: 29.5333790839 
-DME Timestamp: 2021-05-31 21:30:23.623267 -- Humidity: 32.7051581084 -- Pressure: 996.941686472 -- Temperature: 29.5333790839 
-DME Timestamp: 2021-05-31 21:30:46.600011 -- Humidity: 31.7783141978 -- Pressure: 996.95457266 -- Temperature: 29.8750688734 
-DME Timestamp: 2021-05-31 21:31:27.994597 -- Humidity: 31.1031497025 -- Pressure: 996.926336221 -- Temperature: 30.1249622331 
-DME Timestamp: 2021-05-31 21:31:27.994597 -- Humidity: 31.1031497025 -- Pressure: 996.926336221 -- Temperature: 30.1249622331 
-GPS Timestamp: 01:31:28 -- Lat: 3326.90941 N -- Lon: 08405.69971 W -- Altitude: 271.1 M --Satellites: 11
-DME Timestamp: 2021-05-31 21:31:27.994597 -- Humidity: 31.1031497025 -- Pressure: 996.926336221 -- Temperature: 30.1249622331 
-DME Timestamp: 2021-05-31 21:31:27.994597 -- Humidity: 31.1031497025 -- Pressure: 996.926336221 -- Temperature: 30.1249622331 
-DME Timestamp: 2021-05-31 21:31:27.994597 -- Humidity: 31.1031497025 -- Pressure: 996.926336221 -- Temperature: 30.1249622331 
-DME Timestamp: 2021-05-31 21:31:27.994597 -- Humidity: 31.1031497025 -- Pressure: 996.926336221 -- Temperature: 30.1249622331 
-DME Timestamp: 2021-05-31 21:31:27.994597 -- Humidity: 31.1031497025 -- Pressure: 996.926336221 -- Temperature: 30.1249622331 
-DME Timestamp: 2021-05-31 21:31:27.994597 -- Humidity: 31.1031497025 -- Pressure: 996.926336221 -- Temperature: 30.1249622331 
-DME Timestamp: 2021-05-31 21:31:27.994597 -- Humidity: 31.1031497025 -- Pressure: 996.926336221 -- Temperature: 30.1249622331 
-DME Timestamp: 2021-05-31 21:31:27.994597 -- Humidity: 31.1031497025 -- Pressure: 996.926336221 -- Temperature: 30.1249622331 
-DME Timestamp: 2021-05-31 21:31:27.994597 -- Humidity: 31.1031497025 -- Pressure: 996.926336221 -- Temperature: 30.1249622331 
-DME Timestamp: 2021-05-31 21:31:27.994597 -- Humidity: 31.1031497025 -- Pressure: 996.926336221 -- Temperature: 30.1249622331 
-DME Timestamp: 2021-05-31 21:31:27.994597 -- Humidity: 31.1031497025 -- Pressure: 996.926336221 -- Temperature: 30.1249622331 
-DME Timestamp: 2021-05-31 21:31:27.994597 -- Humidity: 31.1031497025 -- Pressure: 996.926336221 -- Temperature: 30.1249622331 
-DME Timestamp: 2021-05-31 21:31:27.994597 -- Humidity: 31.1031497025 -- Pressure: 996.926336221 -- Temperature: 30.1249622331 
-DME Timestamp: 2021-05-31 21:31:27.994597 -- Humidity: 31.1031497025 -- Pressure: 996.926336221 -- Temperature: 30.1249622331 
-DME Timestamp: 2021-05-31 21:31:27.994597 -- Humidity: 31.1031497025 -- Pressure: 996.926336221 -- Temperature: 30.1249622331 
-DME Timestamp: 2021-05-31 21:31:27.994597 -- Humidity: 31.1031497025 -- Pressure: 996.926336221 -- Temperature: 30.1249622331 
-DME Timestamp: 2021-05-31 21:31:27.994597 -- Humidity: 31.1031497025 -- Pressure: 996.926336221 -- Temperature: 30.1249622331 
-DME Timestamp: 2021-05-31 21:31:27.994597 -- Humidity: 31.1031497025 -- Pressure: 996.926336221 -- Temperature: 30.1249622331 
-DME Timestamp: 2021-05-31 21:31:27.994597 -- Humidity: 31.1031497025 -- Pressure: 996.926336221 -- Temperature: 30.1249622331 
-DME Timestamp: 2021-05-31 21:31:27.994597 -- Humidity: 31.1031497025 -- Pressure: 996.926336221 -- Temperature: 30.1249622331 
-GPS Timestamp: 01:31:29 -- Lat: 3326.90979 N -- Lon: 08405.69979 W -- Altitude: 269.8 M --Satellites: 11
-DME Timestamp: 2021-05-31 21:31:27.994597 -- Humidity: 31.1031497025 -- Pressure: 996.926336221 -- Temperature: 30.1249622331 
-DME Timestamp: 2021-05-31 21:31:27.994597 -- Humidity: 31.1031497025 -- Pressure: 996.926336221 -- Temperature: 30.1249622331 
-DME Timestamp: 2021-05-31 21:31:27.994597 -- Humidity: 31.1031497025 -- Pressure: 996.926336221 -- Temperature: 30.1249622331 
-DME Timestamp: 2021-05-31 21:31:27.994597 -- Humidity: 31.1031497025 -- Pressure: 996.926336221 -- Temperature: 30.1249622331 
-DME Timestamp: 2021-05-31 21:31:27.994597 -- Humidity: 31.1031497025 -- Pressure: 996.926336221 -- Temperature: 30.1249622331 
-DME Timestamp: 2021-05-31 21:31:27.994597 -- Humidity: 31.1031497025 -- Pressure: 996.926336221 -- Temperature: 30.1249622331 
-DME Timestamp: 2021-05-31 21:31:27.994597 -- Humidity: 31.1031497025 -- Pressure: 996.926336221 -- Temperature: 30.1249622331 
-DME Timestamp: 2021-05-31 21:31:27.994597 -- Humidity: 31.1031497025 -- Pressure: 996.926336221 -- Temperature: 30.1249622331 
-DME Timestamp: 2021-05-31 21:31:27.994597 -- Humidity: 31.1031497025 -- Pressure: 996.926336221 -- Temperature: 30.1249622331 
-DME Timestamp: 2021-05-31 21:31:27.994597 -- Humidity: 31.1031497025 -- Pressure: 996.926336221 -- Temperature: 30.1249622331 
-DME Timestamp: 2021-05-31 21:31:27.994597 -- Humidity: 31.1031497025 -- Pressure: 996.926336221 -- Temperature: 30.1249622331 
-DME Timestamp: 2021-05-31 21:31:27.994597 -- Humidity: 31.1031497025 -- Pressure: 996.926336221 -- Temperature: 30.1249622331 
-DME Timestamp: 2021-05-31 21:31:27.994597 -- Humidity: 31.1031497025 -- Pressure: 996.926336221 -- Temperature: 30.1249622331 
-DME Timestamp: 2021-05-31 21:31:27.994597 -- Humidity: 31.1031497025 -- Pressure: 996.926336221 -- Temperature: 30.1249622331 
-DME Timestamp: 2021-05-31 21:31:27.994597 -- Humidity: 31.1031497025 -- Pressure: 996.926336221 -- Temperature: 30.1249622331 
-DME Timestamp: 2021-05-31 21:31:27.994597 -- Humidity: 31.1031497025 -- Pressure: 996.926336221 -- Temperature: 30.1249622331 
-DME Timestamp: 2021-05-31 21:31:27.994597 -- Humidity: 31.1031497025 -- Pressure: 996.926336221 -- Temperature: 30.1249622331 
-DME Timestamp: 2021-05-31 21:31:27.994597 -- Humidity: 31.1031497025 -- Pressure: 996.926336221 -- Temperature: 30.1249622331 
-DME Timestamp: 2021-05-31 21:31:27.994597 -- Humidity: 31.1031497025 -- Pressure: 996.926336221 -- Temperature: 30.1249622331 
-DME Timestamp: 2021-05-31 21:31:27.994597 -- Humidity: 31.1031497025 -- Pressure: 996.926336221 -- Temperature: 30.1249622331 
-DME Timestamp: 2021-05-31 21:31:27.994597 -- Humidity: 31.1031497025 -- Pressure: 996.926336221 -- Temperature: 30.1249622331 
-DME Timestamp: 2021-05-31 21:31:27.994597 -- Humidity: 31.1031497025 -- Pressure: 996.926336221 -- Temperature: 30.1249622331 
-DME Timestamp: 2021-05-31 21:31:27.994597 -- Humidity: 31.1031497025 -- Pressure: 996.926336221 -- Temperature: 30.1249622331 
-DME Timestamp: 2021-05-31 21:31:27.994597 -- Humidity: 31.1031497025 -- Pressure: 996.926336221 -- Temperature: 30.1249622331 
-DME Timestamp: 2021-05-31 21:31:27.994597 -- Humidity: 31.1031497025 -- Pressure: 996.926336221 -- Temperature: 30.1249622331 
-DME Timestamp: 2021-05-31 21:31:27.994597 -- Humidity: 31.1031497025 -- Pressure: 996.926336221 -- Temperature: 30.1249622331 
-GPS Timestamp: 01:31:30 -- Lat: 3326.90995 N -- Lon: 08405.69989 W -- Altitude: 269.4 M --Satellites: 11
-DME Timestamp: 2021-05-31 21:31:27.994597 -- Humidity: 31.1031497025 -- Pressure: 996.926336221 -- Temperature: 30.1249622331 
-DME Timestamp: 2021-05-31 21:31:27.994597 -- Humidity: 31.1031497025 -- Pressure: 996.926336221 -- Temperature: 30.1249622331 
-DME Timestamp: 2021-05-31 21:31:27.994597 -- Humidity: 31.1031497025 -- Pressure: 996.926336221 -- Temperature: 30.1249622331 
-DME Timestamp: 2021-05-31 21:31:27.994597 -- Humidity: 31.1031497025 -- Pressure: 996.926336221 -- Temperature: 30.1249622331 
-DME Timestamp: 2021-05-31 21:31:27.994597 -- Humidity: 31.1031497025 -- Pressure: 996.926336221 -- Temperature: 30.1249622331 
-DME Timestamp: 2021-05-31 21:31:27.994597 -- Humidity: 31.1031497025 -- Pressure: 996.926336221 -- Temperature: 30.1249622331 
-DME Timestamp: 2021-05-31 21:31:27.994597 -- Humidity: 31.1031497025 -- Pressure: 996.926336221 -- Temperature: 30.1249622331 
-DME Timestamp: 2021-05-31 21:31:27.994597 -- Humidity: 31.1031497025 -- Pressure: 996.926336221 -- Temperature: 30.1249622331 
-DME Timestamp: 2021-05-31 21:31:27.994597 -- Humidity: 31.1031497025 -- Pressure: 996.926336221 -- Temperature: 30.1249622331 
-DME Timestamp: 2021-05-31 21:31:27.994597 -- Humidity: 31.1031497025 -- Pressure: 996.926336221 -- Temperature: 30.1249622331 
-DME Timestamp: 2021-05-31 21:31:27.994597 -- Humidity: 31.1031497025 -- Pressure: 996.926336221 -- Temperature: 30.1249622331 
-DME Timestamp: 2021-05-31 21:31:27.994597 -- Humidity: 31.1031497025 -- Pressure: 996.926336221 -- Temperature: 30.1249622331 
-DME Timestamp: 2021-05-31 21:31:27.994597 -- Humidity: 31.1031497025 -- Pressure: 996.926336221 -- Temperature: 30.1249622331 
-DME Timestamp: 2021-05-31 21:31:27.994597 -- Humidity: 31.1031497025 -- Pressure: 996.926336221 -- Temperature: 30.1249622331 
-DME Timestamp: 2021-05-31 21:31:27.994597 -- Humidity: 31.1031497025 -- Pressure: 996.926336221 -- Temperature: 30.1249622331 
-DME Timestamp: 2021-05-31 21:31:27.994597 -- Humidity: 31.1031497025 -- Pressure: 996.926336221 -- Temperature: 30.1249622331 
-DME Timestamp: 2021-05-31 21:31:27.994597 -- Humidity: 31.1031497025 -- Pressure: 996.926336221 -- Temperature: 30.1249622331 
-DME Timestamp: 2021-05-31 21:31:27.994597 -- Humidity: 31.1031497025 -- Pressure: 996.926336221 -- Temperature: 30.1249622331 
-DME Timestamp: 2021-05-31 21:31:27.994597 -- Humidity: 31.1031497025 -- Pressure: 996.926336221 -- Temperature: 30.1249622331 
-DME Timestamp: 2021-05-31 21:31:27.994597 -- Humidity: 31.1031497025 -- Pressure: 996.926336221 -- Temperature: 30.1249622331 
-DME Timestamp: 2021-05-31 21:31:27.994597 -- Humidity: 31.1031497025 -- Pressure: 996.926336221 -- Temperature: 30.1249622331 
-DME Timestamp: 2021-05-31 21:31:27.994597 -- Humidity: 31.1031497025 -- Pressure: 996.926336221 -- Temperature: 30.1249622331 
-DME Timestamp: 2021-05-31 21:31:27.994597 -- Humidity: 31.1031497025 -- Pressure: 996.926336221 -- Temperature: 30.1249622331 
-DME Timestamp: 2021-05-31 21:31:27.994597 -- Humidity: 31.1031497025 -- Pressure: 996.926336221 -- Temperature: 30.1249622331 
-DME Timestamp: 2021-05-31 21:31:27.994597 -- Humidity: 31.1031497025 -- Pressure: 996.926336221 -- Temperature: 30.1249622331 
-DME Timestamp: 2021-05-31 21:31:27.994597 -- Humidity: 31.1031497025 -- Pressure: 996.926336221 -- Temperature: 30.1249622331 
-GPS Timestamp: 01:31:31 -- Lat: 3326.91022 N -- Lon: 08405.69988 W -- Altitude: 268.8 M --Satellites: 11
-DME Timestamp: 2021-05-31 21:31:27.994597 -- Humidity: 31.1031497025 -- Pressure: 996.926336221 -- Temperature: 30.1249622331 
-DME Timestamp: 2021-05-31 21:31:27.994597 -- Humidity: 31.1031497025 -- Pressure: 996.926336221 -- Temperature: 30.1249622331 
-DME Timestamp: 2021-05-31 21:31:27.994597 -- Humidity: 31.1031497025 -- Pressure: 996.926336221 -- Temperature: 30.1249622331 
-DME Timestamp: 2021-05-31 21:31:27.994597 -- Humidity: 31.1031497025 -- Pressure: 996.926336221 -- Temperature: 30.1249622331 
-DME Timestamp: 2021-05-31 21:31:27.994597 -- Humidity: 31.1031497025 -- Pressure: 996.926336221 -- Temperature: 30.1249622331 
-DME Timestamp: 2021-05-31 21:31:27.994597 -- Humidity: 31.1031497025 -- Pressure: 996.926336221 -- Temperature: 30.1249622331 
-DME Timestamp: 2021-05-31 21:31:27.994597 -- Humidity: 31.1031497025 -- Pressure: 996.926336221 -- Temperature: 30.1249622331 
-DME Timestamp: 2021-05-31 21:31:27.994597 -- Humidity: 31.1031497025 -- Pressure: 996.926336221 -- Temperature: 30.1249622331 
-DME Timestamp: 2021-05-31 21:31:27.994597 -- Humidity: 31.1031497025 -- Pressure: 996.926336221 -- Temperature: 30.1249622331 
-DME Timestamp: 2021-05-31 21:31:27.994597 -- Humidity: 31.1031497025 -- Pressure: 996.926336221 -- Temperature: 30.1249622331 
-DME Timestamp: 2021-05-31 21:31:27.994597 -- Humidity: 31.1031497025 -- Pressure: 996.926336221 -- Temperature: 30.1249622331 
-DME Timestamp: 2021-05-31 21:31:27.994597 -- Humidity: 31.1031497025 -- Pressure: 996.926336221 -- Temperature: 30.1249622331 
-DME Timestamp: 2021-05-31 21:31:27.994597 -- Humidity: 31.1031497025 -- Pressure: 996.926336221 -- Temperature: 30.1249622331 
-DME Timestamp: 2021-05-31 21:31:27.994597 -- Humidity: 31.1031497025 -- Pressure: 996.926336221 -- Temperature: 30.1249622331 
-DME Timestamp: 2021-05-31 21:31:27.994597 -- Humidity: 31.1031497025 -- Pressure: 996.926336221 -- Temperature: 30.1249622331 
-DME Timestamp: 2021-05-31 21:31:27.994597 -- Humidity: 31.1031497025 -- Pressure: 996.926336221 -- Temperature: 30.1249622331 
-DME Timestamp: 2021-05-31 21:31:27.994597 -- Humidity: 31.1031497025 -- Pressure: 996.926336221 -- Temperature: 30.1249622331 
-DME Timestamp: 2021-05-31 21:31:27.994597 -- Humidity: 31.1031497025 -- Pressure: 996.926336221 -- Temperature: 30.1249622331 
-DME Timestamp: 2021-05-31 21:31:27.994597 -- Humidity: 31.1031497025 -- Pressure: 996.926336221 -- Temperature: 30.1249622331 
-DME Timestamp: 2021-05-31 21:31:27.994597 -- Humidity: 31.1031497025 -- Pressure: 996.926336221 -- Temperature: 30.1249622331 
-DME Timestamp: 2021-05-31 21:31:27.994597 -- Humidity: 31.1031497025 -- Pressure: 996.926336221 -- Temperature: 30.1249622331 
-DME Timestamp: 2021-05-31 21:31:27.994597 -- Humidity: 31.1031497025 -- Pressure: 996.926336221 -- Temperature: 30.1249622331 
-DME Timestamp: 2021-05-31 21:31:27.994597 -- Humidity: 31.1031497025 -- Pressure: 996.926336221 -- Temperature: 30.1249622331 
-DME Timestamp: 2021-05-31 21:31:27.994597 -- Humidity: 31.1031497025 -- Pressure: 996.926336221 -- Temperature: 30.1249622331 
-DME Timestamp: 2021-05-31 21:31:27.994597 -- Humidity: 31.1031497025 -- Pressure: 996.926336221 -- Temperature: 30.1249622331 
-DME Timestamp: 2021-05-31 21:31:27.994597 -- Humidity: 31.1031497025 -- Pressure: 996.926336221 -- Temperature: 30.1249622331 
-GPS Timestamp: 01:31:32 -- Lat: 3326.91042 N -- Lon: 08405.69986 W -- Altitude: 268.5 M --Satellites: 10
-DME Timestamp: 2021-05-31 21:31:27.994597 -- Humidity: 31.1031497025 -- Pressure: 996.926336221 -- Temperature: 30.1249622331 
-DME Timestamp: 2021-05-31 21:31:27.994597 -- Humidity: 31.1031497025 -- Pressure: 996.926336221 -- Temperature: 30.1249622331 
-DME Timestamp: 2021-05-31 21:31:27.994597 -- Humidity: 31.1031497025 -- Pressure: 996.926336221 -- Temperature: 30.1249622331 
-DME Timestamp: 2021-05-31 21:31:27.994597 -- Humidity: 31.1031497025 -- Pressure: 996.926336221 -- Temperature: 30.1249622331 
-DME Timestamp: 2021-05-31 21:31:27.994597 -- Humidity: 31.1031497025 -- Pressure: 996.926336221 -- Temperature: 30.1249622331 
-DME Timestamp: 2021-05-31 21:31:27.994597 -- Humidity: 31.1031497025 -- Pressure: 996.926336221 -- Temperature: 30.1249622331 
-DME Timestamp: 2021-05-31 21:31:27.994597 -- Humidity: 31.1031497025 -- Pressure: 996.926336221 -- Temperature: 30.1249622331 
-DME Timestamp: 2021-05-31 21:31:27.994597 -- Humidity: 31.1031497025 -- Pressure: 996.926336221 -- Temperature: 30.1249622331 
-DME Timestamp: 2021-05-31 21:31:27.994597 -- Humidity: 31.1031497025 -- Pressure: 996.926336221 -- Temperature: 30.1249622331 
-DME Timestamp: 2021-05-31 21:31:27.994597 -- Humidity: 31.1031497025 -- Pressure: 996.926336221 -- Temperature: 30.1249622331 
-DME Timestamp: 2021-05-31 21:31:27.994597 -- Humidity: 31.1031497025 -- Pressure: 996.926336221 -- Temperature: 30.1249622331 
-DME Timestamp: 2021-05-31 21:31:27.994597 -- Humidity: 31.1031497025 -- Pressure: 996.926336221 -- Temperature: 30.1249622331 
-DME Timestamp: 2021-05-31 21:31:27.994597 -- Humidity: 31.1031497025 -- Pressure: 996.926336221 -- Temperature: 30.1249622331 
-DME Timestamp: 2021-05-31 21:31:27.994597 -- Humidity: 31.1031497025 -- Pressure: 996.926336221 -- Temperature: 30.1249622331 
-DME Timestamp: 2021-05-31 21:31:27.994597 -- Humidity: 31.1031497025 -- Pressure: 996.926336221 -- Temperature: 30.1249622331 
-DME Timestamp: 2021-05-31 21:31:27.994597 -- Humidity: 31.1031497025 -- Pressure: 996.926336221 -- Temperature: 30.1249622331 
-DME Timestamp: 2021-05-31 21:31:27.994597 -- Humidity: 31.1031497025 -- Pressure: 996.926336221 -- Temperature: 30.1249622331 
-DME Timestamp: 2021-05-31 21:31:27.994597 -- Humidity: 31.1031497025 -- Pressure: 996.926336221 -- Temperature: 30.1249622331 
-DME Timestamp: 2021-05-31 21:31:27.994597 -- Humidity: 31.1031497025 -- Pressure: 996.926336221 -- Temperature: 30.1249622331 
-DME Timestamp: 2021-05-31 21:31:27.994597 -- Humidity: 31.1031497025 -- Pressure: 996.926336221 -- Temperature: 30.1249622331 
-DME Timestamp: 2021-05-31 21:31:27.994597 -- Humidity: 31.1031497025 -- Pressure: 996.926336221 -- Temperature: 30.1249622331 
-DME Timestamp: 2021-05-31 21:31:27.994597 -- Humidity: 31.1031497025 -- Pressure: 996.926336221 -- Temperature: 30.1249622331 
-DME Timestamp: 2021-05-31 21:31:27.994597 -- Humidity: 31.1031497025 -- Pressure: 996.926336221 -- Temperature: 30.1249622331 
-DME Timestamp: 2021-05-31 21:31:27.994597 -- Humidity: 31.1031497025 -- Pressure: 996.926336221 -- Temperature: 30.1249622331 
-DME Timestamp: 2021-05-31 21:31:27.994597 -- Humidity: 31.1031497025 -- Pressure: 996.926336221 -- Temperature: 30.1249622331 
-DME Timestamp: 2021-05-31 21:32:01.033848 -- Humidity: 31.136097143 -- Pressure: 996.89965568 -- Temperature: 30.2422593572 
-DME Timestamp: 2021-05-31 21:32:01.033848 -- Humidity: 31.136097143 -- Pressure: 996.89965568 -- Temperature: 30.2422593572 
-DME Timestamp: 2021-05-31 21:32:01.033848 -- Humidity: 31.136097143 -- Pressure: 996.89965568 -- Temperature: 30.2422593572 
-DME Timestamp: 2021-05-31 21:32:01.033848 -- Humidity: 31.136097143 -- Pressure: 996.89965568 -- Temperature: 30.2422593572 
-DME Timestamp: 2021-05-31 21:32:01.033848 -- Humidity: 31.136097143 -- Pressure: 996.89965568 -- Temperature: 30.2422593572 
-DME Timestamp: 2021-05-31 21:32:01.033848 -- Humidity: 31.136097143 -- Pressure: 996.89965568 -- Temperature: 30.2422593572 
-DME Timestamp: 2021-05-31 21:32:01.033848 -- Humidity: 31.136097143 -- Pressure: 996.89965568 -- Temperature: 30.2422593572 
-DME Timestamp: 2021-05-31 21:32:01.033848 -- Humidity: 31.136097143 -- Pressure: 996.89965568 -- Temperature: 30.2422593572 
-DME Timestamp: 2021-05-31 21:32:01.033848 -- Humidity: 31.136097143 -- Pressure: 996.89965568 -- Temperature: 30.2422593572 
-DME Timestamp: 2021-05-31 21:32:01.033848 -- Humidity: 31.136097143 -- Pressure: 996.89965568 -- Temperature: 30.2422593572 
-DME Timestamp: 2021-05-31 21:32:01.033848 -- Humidity: 31.136097143 -- Pressure: 996.89965568 -- Temperature: 30.2422593572 
-DME Timestamp: 2021-05-31 21:32:01.033848 -- Humidity: 31.136097143 -- Pressure: 996.89965568 -- Temperature: 30.2422593572 
-DME Timestamp: 2021-05-31 21:32:01.033848 -- Humidity: 31.136097143 -- Pressure: 996.89965568 -- Temperature: 30.2422593572 
-DME Timestamp: 2021-05-31 21:32:01.033848 -- Humidity: 31.136097143 -- Pressure: 996.89965568 -- Temperature: 30.2422593572 
-DME Timestamp: 2021-05-31 21:32:01.033848 -- Humidity: 31.136097143 -- Pressure: 996.89965568 -- Temperature: 30.2422593572 
-DME Timestamp: 2021-05-31 21:32:01.033848 -- Humidity: 31.136097143 -- Pressure: 996.89965568 -- Temperature: 30.2422593572 
-DME Timestamp: 2021-05-31 21:32:01.033848 -- Humidity: 31.136097143 -- Pressure: 996.89965568 -- Temperature: 30.2422593572 
-DME Timestamp: 2021-05-31 21:32:01.033848 -- Humidity: 31.136097143 -- Pressure: 996.89965568 -- Temperature: 30.2422593572 
-DME Timestamp: 2021-05-31 21:32:01.033848 -- Humidity: 31.136097143 -- Pressure: 996.89965568 -- Temperature: 30.2422593572 
-DME Timestamp: 2021-05-31 21:32:01.033848 -- Humidity: 31.136097143 -- Pressure: 996.89965568 -- Temperature: 30.2422593572 
-DME Timestamp: 2021-05-31 21:32:01.033848 -- Humidity: 31.136097143 -- Pressure: 996.89965568 -- Temperature: 30.2422593572 
-DME Timestamp: 2021-05-31 21:32:01.033848 -- Humidity: 31.136097143 -- Pressure: 996.89965568 -- Temperature: 30.2422593572 
-DME Timestamp: 2021-05-31 21:32:01.033848 -- Humidity: 31.136097143 -- Pressure: 996.89965568 -- Temperature: 30.2422593572 
-DME Timestamp: 2021-05-31 21:32:01.033848 -- Humidity: 31.136097143 -- Pressure: 996.89965568 -- Temperature: 30.2422593572 
-DME Timestamp: 2021-05-31 21:32:01.033848 -- Humidity: 31.136097143 -- Pressure: 996.89965568 -- Temperature: 30.2422593572 
-DME Timestamp: 2021-05-31 21:32:01.033848 -- Humidity: 31.136097143 -- Pressure: 996.89965568 -- Temperature: 30.2422593572 
-DME Timestamp: 2021-05-31 21:32:01.033848 -- Humidity: 31.136097143 -- Pressure: 996.89965568 -- Temperature: 30.2422593572 
-DME Timestamp: 2021-05-31 21:32:01.033848 -- Humidity: 31.136097143 -- Pressure: 996.89965568 -- Temperature: 30.2422593572 
-DME Timestamp: 2021-05-31 21:32:01.033848 -- Humidity: 31.136097143 -- Pressure: 996.89965568 -- Temperature: 30.2422593572 
-GPS Timestamp: 01:32:02 -- Lat: 3326.91128 N -- Lon: 08405.70197 W -- Altitude: 264.0 M --Satellites: 11
-DME Timestamp: 2021-05-31 21:32:01.033848 -- Humidity: 31.136097143 -- Pressure: 996.89965568 -- Temperature: 30.2422593572 
-DME Timestamp: 2021-05-31 21:32:01.033848 -- Humidity: 31.136097143 -- Pressure: 996.89965568 -- Temperature: 30.2422593572 
-DME Timestamp: 2021-05-31 21:32:01.033848 -- Humidity: 31.136097143 -- Pressure: 996.89965568 -- Temperature: 30.2422593572 
-DME Timestamp: 2021-05-31 21:32:01.033848 -- Humidity: 31.136097143 -- Pressure: 996.89965568 -- Temperature: 30.2422593572 
-DME Timestamp: 2021-05-31 21:32:01.033848 -- Humidity: 31.136097143 -- Pressure: 996.89965568 -- Temperature: 30.2422593572 
-DME Timestamp: 2021-05-31 21:32:01.033848 -- Humidity: 31.136097143 -- Pressure: 996.89965568 -- Temperature: 30.2422593572 
-DME Timestamp: 2021-05-31 21:32:01.033848 -- Humidity: 31.136097143 -- Pressure: 996.89965568 -- Temperature: 30.2422593572 
-DME Timestamp: 2021-05-31 21:32:01.033848 -- Humidity: 31.136097143 -- Pressure: 996.89965568 -- Temperature: 30.2422593572 
-DME Timestamp: 2021-05-31 21:32:01.033848 -- Humidity: 31.136097143 -- Pressure: 996.89965568 -- Temperature: 30.2422593572 
-DME Timestamp: 2021-05-31 21:32:01.033848 -- Humidity: 31.136097143 -- Pressure: 996.89965568 -- Temperature: 30.2422593572 
-DME Timestamp: 2021-05-31 21:32:01.033848 -- Humidity: 31.136097143 -- Pressure: 996.89965568 -- Temperature: 30.2422593572 
-DME Timestamp: 2021-05-31 21:32:01.033848 -- Humidity: 31.136097143 -- Pressure: 996.89965568 -- Temperature: 30.2422593572 
-DME Timestamp: 2021-05-31 21:32:01.033848 -- Humidity: 31.136097143 -- Pressure: 996.89965568 -- Temperature: 30.2422593572 
-DME Timestamp: 2021-05-31 21:32:01.033848 -- Humidity: 31.136097143 -- Pressure: 996.89965568 -- Temperature: 30.2422593572 
-DME Timestamp: 2021-05-31 21:32:01.033848 -- Humidity: 31.136097143 -- Pressure: 996.89965568 -- Temperature: 30.2422593572 
-DME Timestamp: 2021-05-31 21:32:01.033848 -- Humidity: 31.136097143 -- Pressure: 996.89965568 -- Temperature: 30.2422593572 
-DME Timestamp: 2021-05-31 21:32:01.033848 -- Humidity: 31.136097143 -- Pressure: 996.89965568 -- Temperature: 30.2422593572 
-DME Timestamp: 2021-05-31 21:32:01.033848 -- Humidity: 31.136097143 -- Pressure: 996.89965568 -- Temperature: 30.2422593572 
-DME Timestamp: 2021-05-31 21:32:01.033848 -- Humidity: 31.136097143 -- Pressure: 996.89965568 -- Temperature: 30.2422593572 
-DME Timestamp: 2021-05-31 21:32:01.033848 -- Humidity: 31.136097143 -- Pressure: 996.89965568 -- Temperature: 30.2422593572 
-DME Timestamp: 2021-05-31 21:32:01.033848 -- Humidity: 31.136097143 -- Pressure: 996.89965568 -- Temperature: 30.2422593572 
-DME Timestamp: 2021-05-31 21:32:01.033848 -- Humidity: 31.136097143 -- Pressure: 996.89965568 -- Temperature: 30.2422593572 
-DME Timestamp: 2021-05-31 21:32:01.033848 -- Humidity: 31.136097143 -- Pressure: 996.89965568 -- Temperature: 30.2422593572 
-DME Timestamp: 2021-05-31 21:32:01.033848 -- Humidity: 31.136097143 -- Pressure: 996.89965568 -- Temperature: 30.2422593572 
-DME Timestamp: 2021-05-31 21:32:01.033848 -- Humidity: 31.136097143 -- Pressure: 996.89965568 -- Temperature: 30.2422593572 
-DME Timestamp: 2021-05-31 21:32:01.033848 -- Humidity: 31.136097143 -- Pressure: 996.89965568 -- Temperature: 30.2422593572 
-GPS Timestamp: 01:32:03 -- Lat: 3326.91104 N -- Lon: 08405.70202 W -- Altitude: 265.2 M --Satellites: 11
-DME Timestamp: 2021-05-31 21:32:01.033848 -- Humidity: 31.136097143 -- Pressure: 996.89965568 -- Temperature: 30.2422593572 
-DME Timestamp: 2021-05-31 21:32:01.033848 -- Humidity: 31.136097143 -- Pressure: 996.89965568 -- Temperature: 30.2422593572 
-DME Timestamp: 2021-05-31 21:32:01.033848 -- Humidity: 31.136097143 -- Pressure: 996.89965568 -- Temperature: 30.2422593572 
-DME Timestamp: 2021-05-31 21:32:01.033848 -- Humidity: 31.136097143 -- Pressure: 996.89965568 -- Temperature: 30.2422593572 
-DME Timestamp: 2021-05-31 21:32:01.033848 -- Humidity: 31.136097143 -- Pressure: 996.89965568 -- Temperature: 30.2422593572 
-DME Timestamp: 2021-05-31 21:32:01.033848 -- Humidity: 31.136097143 -- Pressure: 996.89965568 -- Temperature: 30.2422593572 
-DME Timestamp: 2021-05-31 21:32:01.033848 -- Humidity: 31.136097143 -- Pressure: 996.89965568 -- Temperature: 30.2422593572 
-DME Timestamp: 2021-05-31 21:32:01.033848 -- Humidity: 31.136097143 -- Pressure: 996.89965568 -- Temperature: 30.2422593572 
-DME Timestamp: 2021-05-31 21:32:01.033848 -- Humidity: 31.136097143 -- Pressure: 996.89965568 -- Temperature: 30.2422593572 
-DME Timestamp: 2021-05-31 21:32:01.033848 -- Humidity: 31.136097143 -- Pressure: 996.89965568 -- Temperature: 30.2422593572 
-DME Timestamp: 2021-05-31 21:32:01.033848 -- Humidity: 31.136097143 -- Pressure: 996.89965568 -- Temperature: 30.2422593572 
-DME Timestamp: 2021-05-31 21:32:01.033848 -- Humidity: 31.136097143 -- Pressure: 996.89965568 -- Temperature: 30.2422593572 
-DME Timestamp: 2021-05-31 21:32:01.033848 -- Humidity: 31.136097143 -- Pressure: 996.89965568 -- Temperature: 30.2422593572 
-DME Timestamp: 2021-05-31 21:32:01.033848 -- Humidity: 31.136097143 -- Pressure: 996.89965568 -- Temperature: 30.2422593572 
-DME Timestamp: 2021-05-31 21:32:01.033848 -- Humidity: 31.136097143 -- Pressure: 996.89965568 -- Temperature: 30.2422593572 
-DME Timestamp: 2021-05-31 21:32:01.033848 -- Humidity: 31.136097143 -- Pressure: 996.89965568 -- Temperature: 30.2422593572 
-DME Timestamp: 2021-05-31 21:32:01.033848 -- Humidity: 31.136097143 -- Pressure: 996.89965568 -- Temperature: 30.2422593572 
-DME Timestamp: 2021-05-31 21:32:01.033848 -- Humidity: 31.136097143 -- Pressure: 996.89965568 -- Temperature: 30.2422593572 
-DME Timestamp: 2021-05-31 21:32:01.033848 -- Humidity: 31.136097143 -- Pressure: 996.89965568 -- Temperature: 30.2422593572 
-DME Timestamp: 2021-05-31 21:32:01.033848 -- Humidity: 31.136097143 -- Pressure: 996.89965568 -- Temperature: 30.2422593572 
-DME Timestamp: 2021-05-31 21:32:01.033848 -- Humidity: 31.136097143 -- Pressure: 996.89965568 -- Temperature: 30.2422593572 
-DME Timestamp: 2021-05-31 21:32:01.033848 -- Humidity: 31.136097143 -- Pressure: 996.89965568 -- Temperature: 30.2422593572 
-DME Timestamp: 2021-05-31 21:32:01.033848 -- Humidity: 31.136097143 -- Pressure: 996.89965568 -- Temperature: 30.2422593572 
-DME Timestamp: 2021-05-31 21:32:01.033848 -- Humidity: 31.136097143 -- Pressure: 996.89965568 -- Temperature: 30.2422593572 
-DME Timestamp: 2021-05-31 21:32:01.033848 -- Humidity: 31.136097143 -- Pressure: 996.89965568 -- Temperature: 30.2422593572 
-DME Timestamp: 2021-05-31 21:32:01.033848 -- Humidity: 31.136097143 -- Pressure: 996.89965568 -- Temperature: 30.2422593572 
-GPS Timestamp: 01:32:04 -- Lat: 3326.91085 N -- Lon: 08405.70184 W -- Altitude: 265.6 M --Satellites: 11
-DME Timestamp: 2021-05-31 21:32:01.033848 -- Humidity: 31.136097143 -- Pressure: 996.89965568 -- Temperature: 30.2422593572 
-DME Timestamp: 2021-05-31 21:32:01.033848 -- Humidity: 31.136097143 -- Pressure: 996.89965568 -- Temperature: 30.2422593572 
-DME Timestamp: 2021-05-31 21:32:01.033848 -- Humidity: 31.136097143 -- Pressure: 996.89965568 -- Temperature: 30.2422593572 
-DME Timestamp: 2021-05-31 21:32:01.033848 -- Humidity: 31.136097143 -- Pressure: 996.89965568 -- Temperature: 30.2422593572 
-DME Timestamp: 2021-05-31 21:32:01.033848 -- Humidity: 31.136097143 -- Pressure: 996.89965568 -- Temperature: 30.2422593572 
-DME Timestamp: 2021-05-31 21:32:01.033848 -- Humidity: 31.136097143 -- Pressure: 996.89965568 -- Temperature: 30.2422593572 
-DME Timestamp: 2021-05-31 21:32:01.033848 -- Humidity: 31.136097143 -- Pressure: 996.89965568 -- Temperature: 30.2422593572 
-DME Timestamp: 2021-05-31 21:32:01.033848 -- Humidity: 31.136097143 -- Pressure: 996.89965568 -- Temperature: 30.2422593572 
-DME Timestamp: 2021-05-31 21:32:01.033848 -- Humidity: 31.136097143 -- Pressure: 996.89965568 -- Temperature: 30.2422593572 
-DME Timestamp: 2021-05-31 21:32:01.033848 -- Humidity: 31.136097143 -- Pressure: 996.89965568 -- Temperature: 30.2422593572 
-DME Timestamp: 2021-05-31 21:32:01.033848 -- Humidity: 31.136097143 -- Pressure: 996.89965568 -- Temperature: 30.2422593572 
-DME Timestamp: 2021-05-31 21:32:01.033848 -- Humidity: 31.136097143 -- Pressure: 996.89965568 -- Temperature: 30.2422593572 
-DME Timestamp: 2021-05-31 21:32:01.033848 -- Humidity: 31.136097143 -- Pressure: 996.89965568 -- Temperature: 30.2422593572 
-DME Timestamp: 2021-05-31 21:32:01.033848 -- Humidity: 31.136097143 -- Pressure: 996.89965568 -- Temperature: 30.2422593572 
-DME Timestamp: 2021-05-31 21:32:01.033848 -- Humidity: 31.136097143 -- Pressure: 996.89965568 -- Temperature: 30.2422593572 
-DME Timestamp: 2021-05-31 21:32:01.033848 -- Humidity: 31.136097143 -- Pressure: 996.89965568 -- Temperature: 30.2422593572 
-DME Timestamp: 2021-05-31 21:32:01.033848 -- Humidity: 31.136097143 -- Pressure: 996.89965568 -- Temperature: 30.2422593572 
-DME Timestamp: 2021-05-31 21:32:01.033848 -- Humidity: 31.136097143 -- Pressure: 996.89965568 -- Temperature: 30.2422593572 
-DME Timestamp: 2021-05-31 21:32:01.033848 -- Humidity: 31.136097143 -- Pressure: 996.89965568 -- Temperature: 30.2422593572 
-DME Timestamp: 2021-05-31 21:32:01.033848 -- Humidity: 31.136097143 -- Pressure: 996.89965568 -- Temperature: 30.2422593572 
-DME Timestamp: 2021-05-31 21:32:01.033848 -- Humidity: 31.136097143 -- Pressure: 996.89965568 -- Temperature: 30.2422593572 
-DME Timestamp: 2021-05-31 21:32:01.033848 -- Humidity: 31.136097143 -- Pressure: 996.89965568 -- Temperature: 30.2422593572 
-DME Timestamp: 2021-05-31 21:32:01.033848 -- Humidity: 31.136097143 -- Pressure: 996.89965568 -- Temperature: 30.2422593572 
-DME Timestamp: 2021-05-31 21:32:01.033848 -- Humidity: 31.136097143 -- Pressure: 996.89965568 -- Temperature: 30.2422593572 
-DME Timestamp: 2021-05-31 21:32:01.033848 -- Humidity: 31.136097143 -- Pressure: 996.89965568 -- Temperature: 30.2422593572 
-DME Timestamp: 2021-05-31 21:32:01.033848 -- Humidity: 31.136097143 -- Pressure: 996.89965568 -- Temperature: 30.2422593572 
-DME Timestamp: 2021-05-31 21:32:01.033848 -- Humidity: 31.136097143 -- Pressure: 996.89965568 -- Temperature: 30.2422593572 
-DME Timestamp: 2021-05-31 21:32:01.033848 -- Humidity: 31.136097143 -- Pressure: 996.89965568 -- Temperature: 30.2422593572 
-DME Timestamp: 2021-05-31 21:32:01.033848 -- Humidity: 31.136097143 -- Pressure: 996.89965568 -- Temperature: 30.2422593572 
-DME Timestamp: 2021-05-31 21:32:01.033848 -- Humidity: 31.136097143 -- Pressure: 996.89965568 -- Temperature: 30.2422593572 
-DME Timestamp: 2021-05-31 21:32:01.033848 -- Humidity: 31.136097143 -- Pressure: 996.89965568 -- Temperature: 30.2422593572 
-DME Timestamp: 2021-05-31 21:32:01.033848 -- Humidity: 31.136097143 -- Pressure: 996.89965568 -- Temperature: 30.2422593572 
-DME Timestamp: 2021-05-31 21:32:01.033848 -- Humidity: 31.136097143 -- Pressure: 996.89965568 -- Temperature: 30.2422593572 
-DME Timestamp: 2021-05-31 21:32:01.033848 -- Humidity: 31.136097143 -- Pressure: 996.89965568 -- Temperature: 30.2422593572 
-DME Timestamp: 2021-05-31 21:32:01.033848 -- Humidity: 31.136097143 -- Pressure: 996.89965568 -- Temperature: 30.2422593572 
-DME Timestamp: 2021-05-31 21:32:01.033848 -- Humidity: 31.136097143 -- Pressure: 996.89965568 -- Temperature: 30.2422593572 
-DME Timestamp: 2021-05-31 21:32:01.033848 -- Humidity: 31.136097143 -- Pressure: 996.89965568 -- Temperature: 30.2422593572 
-DME Timestamp: 2021-05-31 21:32:01.033848 -- Humidity: 31.136097143 -- Pressure: 996.89965568 -- Temperature: 30.2422593572 
-DME Timestamp: 2021-05-31 21:32:01.033848 -- Humidity: 31.136097143 -- Pressure: 996.89965568 -- Temperature: 30.2422593572 
-DME Timestamp: 2021-05-31 21:32:01.033848 -- Humidity: 31.136097143 -- Pressure: 996.89965568 -- Temperature: 30.2422593572 
-DME Timestamp: 2021-05-31 21:32:01.033848 -- Humidity: 31.136097143 -- Pressure: 996.89965568 -- Temperature: 30.2422593572 
-DME Timestamp: 2021-05-31 21:32:01.033848 -- Humidity: 31.136097143 -- Pressure: 996.89965568 -- Temperature: 30.2422593572 
-DME Timestamp: 2021-05-31 21:32:01.033848 -- Humidity: 31.136097143 -- Pressure: 996.89965568 -- Temperature: 30.2422593572 
-DME Timestamp: 2021-05-31 21:32:01.033848 -- Humidity: 31.136097143 -- Pressure: 996.89965568 -- Temperature: 30.2422593572 
-DME Timestamp: 2021-05-31 21:32:01.033848 -- Humidity: 31.136097143 -- Pressure: 996.89965568 -- Temperature: 30.2422593572 
-DME Timestamp: 2021-05-31 21:32:01.033848 -- Humidity: 31.136097143 -- Pressure: 996.89965568 -- Temperature: 30.2422593572 
-DME Timestamp: 2021-05-31 21:32:01.033848 -- Humidity: 31.136097143 -- Pressure: 996.89965568 -- Temperature: 30.2422593572 
-DME Timestamp: 2021-05-31 21:32:01.033848 -- Humidity: 31.136097143 -- Pressure: 996.89965568 -- Temperature: 30.2422593572 
-DME Timestamp: 2021-05-31 21:32:01.033848 -- Humidity: 31.136097143 -- Pressure: 996.89965568 -- Temperature: 30.2422593572 
-DME Timestamp: 2021-05-31 21:32:01.033848 -- Humidity: 31.136097143 -- Pressure: 996.89965568 -- Temperature: 30.2422593572 
-GPS Timestamp: 01:32:06 -- Lat: 3326.91034 N -- Lon: 08405.70145 W -- Altitude: 266.3 M --Satellites: 11
-DME Timestamp: 2021-05-31 21:32:01.033848 -- Humidity: 31.136097143 -- Pressure: 996.89965568 -- Temperature: 30.2422593572 
-DME Timestamp: 2021-05-31 21:32:01.033848 -- Humidity: 31.136097143 -- Pressure: 996.89965568 -- Temperature: 30.2422593572 
-DME Timestamp: 2021-05-31 21:32:01.033848 -- Humidity: 31.136097143 -- Pressure: 996.89965568 -- Temperature: 30.2422593572 
-DME Timestamp: 2021-05-31 21:32:01.033848 -- Humidity: 31.136097143 -- Pressure: 996.89965568 -- Temperature: 30.2422593572 
-DME Timestamp: 2021-05-31 21:32:01.033848 -- Humidity: 31.136097143 -- Pressure: 996.89965568 -- Temperature: 30.2422593572 
-DME Timestamp: 2021-05-31 21:32:01.033848 -- Humidity: 31.136097143 -- Pressure: 996.89965568 -- Temperature: 30.2422593572 
-DME Timestamp: 2021-05-31 21:32:01.033848 -- Humidity: 31.136097143 -- Pressure: 996.89965568 -- Temperature: 30.2422593572 
-DME Timestamp: 2021-05-31 21:32:01.033848 -- Humidity: 31.136097143 -- Pressure: 996.89965568 -- Temperature: 30.2422593572 
-DME Timestamp: 2021-05-31 21:32:01.033848 -- Humidity: 31.136097143 -- Pressure: 996.89965568 -- Temperature: 30.2422593572 
-DME Timestamp: 2021-05-31 21:32:01.033848 -- Humidity: 31.136097143 -- Pressure: 996.89965568 -- Temperature: 30.2422593572 
-DME Timestamp: 2021-05-31 21:32:01.033848 -- Humidity: 31.136097143 -- Pressure: 996.89965568 -- Temperature: 30.2422593572 
-DME Timestamp: 2021-05-31 21:32:01.033848 -- Humidity: 31.136097143 -- Pressure: 996.89965568 -- Temperature: 30.2422593572 
-DME Timestamp: 2021-05-31 21:32:01.033848 -- Humidity: 31.136097143 -- Pressure: 996.89965568 -- Temperature: 30.2422593572 
-DME Timestamp: 2021-05-31 21:32:01.033848 -- Humidity: 31.136097143 -- Pressure: 996.89965568 -- Temperature: 30.2422593572 
-DME Timestamp: 2021-05-31 21:32:01.033848 -- Humidity: 31.136097143 -- Pressure: 996.89965568 -- Temperature: 30.2422593572 
-DME Timestamp: 2021-05-31 21:32:01.033848 -- Humidity: 31.136097143 -- Pressure: 996.89965568 -- Temperature: 30.2422593572 
-DME Timestamp: 2021-05-31 21:32:01.033848 -- Humidity: 31.136097143 -- Pressure: 996.89965568 -- Temperature: 30.2422593572 
-DME Timestamp: 2021-05-31 21:32:01.033848 -- Humidity: 31.136097143 -- Pressure: 996.89965568 -- Temperature: 30.2422593572 
-DME Timestamp: 2021-05-31 21:32:01.033848 -- Humidity: 31.136097143 -- Pressure: 996.89965568 -- Temperature: 30.2422593572 
-DME Timestamp: 2021-05-31 21:32:01.033848 -- Humidity: 31.136097143 -- Pressure: 996.89965568 -- Temperature: 30.2422593572 
-DME Timestamp: 2021-05-31 21:32:01.033848 -- Humidity: 31.136097143 -- Pressure: 996.89965568 -- Temperature: 30.2422593572 
-DME Timestamp: 2021-05-31 21:32:01.033848 -- Humidity: 31.136097143 -- Pressure: 996.89965568 -- Temperature: 30.2422593572 
-DME Timestamp: 2021-05-31 21:32:01.033848 -- Humidity: 31.136097143 -- Pressure: 996.89965568 -- Temperature: 30.2422593572 
-DME Timestamp: 2021-05-31 21:32:01.033848 -- Humidity: 31.136097143 -- Pressure: 996.89965568 -- Temperature: 30.2422593572 
-DME Timestamp: 2021-05-31 21:32:01.033848 -- Humidity: 31.136097143 -- Pressure: 996.89965568 -- Temperature: 30.2422593572 
-DME Timestamp: 2021-05-31 21:32:01.033848 -- Humidity: 31.136097143 -- Pressure: 996.89965568 -- Temperature: 30.2422593572 
-GPS Timestamp: 01:32:07 -- Lat: 3326.91017 N -- Lon: 08405.70123 W -- Altitude: 266.3 M --Satellites: 11
-DME Timestamp: 2021-05-31 21:32:01.033848 -- Humidity: 31.136097143 -- Pressure: 996.89965568 -- Temperature: 30.2422593572 
-DME Timestamp: 2021-05-31 21:32:01.033848 -- Humidity: 31.136097143 -- Pressure: 996.89965568 -- Temperature: 30.2422593572 
-DME Timestamp: 2021-05-31 21:32:01.033848 -- Humidity: 31.136097143 -- Pressure: 996.89965568 -- Temperature: 30.2422593572 
-DME Timestamp: 2021-05-31 21:32:01.033848 -- Humidity: 31.136097143 -- Pressure: 996.89965568 -- Temperature: 30.2422593572 
-DME Timestamp: 2021-05-31 21:32:01.033848 -- Humidity: 31.136097143 -- Pressure: 996.89965568 -- Temperature: 30.2422593572 
-DME Timestamp: 2021-05-31 21:32:01.033848 -- Humidity: 31.136097143 -- Pressure: 996.89965568 -- Temperature: 30.2422593572 
-DME Timestamp: 2021-05-31 21:32:01.033848 -- Humidity: 31.136097143 -- Pressure: 996.89965568 -- Temperature: 30.2422593572 
-DME Timestamp: 2021-05-31 21:32:01.033848 -- Humidity: 31.136097143 -- Pressure: 996.89965568 -- Temperature: 30.2422593572 
-DME Timestamp: 2021-05-31 21:32:01.033848 -- Humidity: 31.136097143 -- Pressure: 996.89965568 -- Temperature: 30.2422593572 
-DME Timestamp: 2021-05-31 21:32:01.033848 -- Humidity: 31.136097143 -- Pressure: 996.89965568 -- Temperature: 30.2422593572 
-DME Timestamp: 2021-05-31 21:32:01.033848 -- Humidity: 31.136097143 -- Pressure: 996.89965568 -- Temperature: 30.2422593572 
-DME Timestamp: 2021-05-31 21:32:01.033848 -- Humidity: 31.136097143 -- Pressure: 996.89965568 -- Temperature: 30.2422593572 
-DME Timestamp: 2021-05-31 21:32:01.033848 -- Humidity: 31.136097143 -- Pressure: 996.89965568 -- Temperature: 30.2422593572 
-DME Timestamp: 2021-05-31 21:32:01.033848 -- Humidity: 31.136097143 -- Pressure: 996.89965568 -- Temperature: 30.2422593572 
-DME Timestamp: 2021-05-31 21:32:01.033848 -- Humidity: 31.136097143 -- Pressure: 996.89965568 -- Temperature: 30.2422593572 
-DME Timestamp: 2021-05-31 21:32:01.033848 -- Humidity: 31.136097143 -- Pressure: 996.89965568 -- Temperature: 30.2422593572 
-DME Timestamp: 2021-05-31 21:32:01.033848 -- Humidity: 31.136097143 -- Pressure: 996.89965568 -- Temperature: 30.2422593572 
-DME Timestamp: 2021-05-31 21:32:01.033848 -- Humidity: 31.136097143 -- Pressure: 996.89965568 -- Temperature: 30.2422593572 
-DME Timestamp: 2021-05-31 21:32:01.033848 -- Humidity: 31.136097143 -- Pressure: 996.89965568 -- Temperature: 30.2422593572 
-DME Timestamp: 2021-05-31 21:32:01.033848 -- Humidity: 31.136097143 -- Pressure: 996.89965568 -- Temperature: 30.2422593572 
-DME Timestamp: 2021-05-31 21:32:01.033848 -- Humidity: 31.136097143 -- Pressure: 996.89965568 -- Temperature: 30.2422593572 
-DME Timestamp: 2021-05-31 21:32:01.033848 -- Humidity: 31.136097143 -- Pressure: 996.89965568 -- Temperature: 30.2422593572 
-DME Timestamp: 2021-05-31 21:32:01.033848 -- Humidity: 31.136097143 -- Pressure: 996.89965568 -- Temperature: 30.2422593572 
-DME Timestamp: 2021-05-31 21:32:01.033848 -- Humidity: 31.136097143 -- Pressure: 996.89965568 -- Temperature: 30.2422593572 
-DME Timestamp: 2021-05-31 21:32:01.033848 -- Humidity: 31.136097143 -- Pressure: 996.89965568 -- Temperature: 30.2422593572 
-DME Timestamp: 2021-05-31 21:32:01.033848 -- Humidity: 31.136097143 -- Pressure: 996.89965568 -- Temperature: 30.2422593572 
-GPS Timestamp: 01:32:08 -- Lat: 3326.91007 N -- Lon: 08405.70100 W -- Altitude: 266.1 M --Satellites: 10
-DME Timestamp: 2021-05-31 21:32:01.033848 -- Humidity: 31.136097143 -- Pressure: 996.89965568 -- Temperature: 30.2422593572 
-DME Timestamp: 2021-05-31 21:32:01.033848 -- Humidity: 31.136097143 -- Pressure: 996.89965568 -- Temperature: 30.2422593572 
-DME Timestamp: 2021-05-31 21:32:39.934742 -- Humidity: 31.0146074446 -- Pressure: 996.942573322 -- Temperature: 30.3187575646 
-DME Timestamp: 2021-05-31 21:32:39.934742 -- Humidity: 31.0146074446 -- Pressure: 996.942573322 -- Temperature: 30.3187575646 
-GPS Timestamp: 01:32:40 -- Lat: 3326.90836 N -- Lon: 08405.70126 W -- Altitude: 255.9 M --Satellites: 12
-DME Timestamp: 2021-05-31 21:32:39.934742 -- Humidity: 31.0146074446 -- Pressure: 996.942573322 -- Temperature: 30.3187575646 
-DME Timestamp: 2021-05-31 21:34:14.301887 -- Humidity: 30.9420785013 -- Pressure: 996.965180441 -- Temperature: 30.3493568659 
-DME Timestamp: 2021-05-31 21:34:14.301887 -- Humidity: 30.9420785013 -- Pressure: 996.965180441 -- Temperature: 30.3493568659 
-DME Timestamp: 2021-05-31 21:34:14.301887 -- Humidity: 30.9420785013 -- Pressure: 996.965180441 -- Temperature: 30.3493568659 
-DME Timestamp: 2021-05-31 21:34:14.301887 -- Humidity: 30.9420785013 -- Pressure: 996.965180441 -- Temperature: 30.3493568659 
-DME Timestamp: 2021-05-31 21:34:14.301887 -- Humidity: 30.9420785013 -- Pressure: 996.965180441 -- Temperature: 30.3493568659 
-DME Timestamp: 2021-05-31 21:34:14.301887 -- Humidity: 30.9420785013 -- Pressure: 996.965180441 -- Temperature: 30.3493568659 
-DME Timestamp: 2021-05-31 21:34:14.301887 -- Humidity: 30.9420785013 -- Pressure: 996.965180441 -- Temperature: 30.3493568659 
-DME Timestamp: 2021-05-31 21:34:14.301887 -- Humidity: 30.9420785013 -- Pressure: 996.965180441 -- Temperature: 30.3493568659 
-DME Timestamp: 2021-05-31 21:34:14.301887 -- Humidity: 30.9420785013 -- Pressure: 996.965180441 -- Temperature: 30.3493568659 
-DME Timestamp: 2021-05-31 21:34:14.301887 -- Humidity: 30.9420785013 -- Pressure: 996.965180441 -- Temperature: 30.3493568659 
-DME Timestamp: 2021-05-31 21:34:14.301887 -- Humidity: 30.9420785013 -- Pressure: 996.965180441 -- Temperature: 30.3493568659 
-GPS Timestamp: 01:34:15 -- Lat: 3326.91302 N -- Lon: 08405.70636 W -- Altitude: 249.0 M --Satellites: 09
-DME Timestamp: 2021-05-31 21:34:14.301887 -- Humidity: 30.9420785013 -- Pressure: 996.965180441 -- Temperature: 30.3493568659 
-DME Timestamp: 2021-05-31 21:39:55.004650 -- Humidity: 30.0934859516 -- Pressure: 996.893113037 -- Temperature: 30.104562749 
-DME Timestamp: 2021-05-31 21:39:55.004650 -- Humidity: 30.0934859516 -- Pressure: 996.893113037 -- Temperature: 30.104562749 
-GPS Timestamp: 01:39:55 -- Lat: 3326.90965 N -- Lon: 08405.700
-  -- Altitude: None  --Satellites: 
-DME Timestamp: 2021-05-31 21:39:55.004650 -- Humidity: 30.0934859516 -- Pressure: 996.893113037 -- Temperature: 30.104562749 
-DME Timestamp: 2021-05-31 21:42:47.984505 -- Humidity: 29.6624839763 -- Pressure: 996.795121474 -- Temperature: 29.910767882 
-DME Timestamp: 2021-05-31 21:42:52.797033 -- Humidity: 30.206294349 -- Pressure: 996.795121474 -- Temperature: 29.910767882 
-DME Timestamp: 2021-05-31 21:42:54.241028 -- Humidity: 29.9735219425 -- Pressure: 996.778508504 -- Temperature: 29.9005681638 
-DME Timestamp: 2021-05-31 21:42:55.311719 -- Humidity: 29.699196735 -- Pressure: 996.745282884 -- Temperature: 29.8801687309 
-DME Timestamp: 2021-05-31 21:42:56.234025 -- Humidity: 29.6277710413 -- Pressure: 996.810267972 -- Temperature: 29.8699690162 
-DME Timestamp: 2021-05-31 21:42:56.851994 -- Humidity: 29.6993391105 -- Pressure: 996.791375465 -- Temperature: 29.8750688734 
-DME Timestamp: 2021-05-31 21:42:57.463163 -- Humidity: 29.8069031738 -- Pressure: 996.845774457 -- Temperature: 29.8750688734 
-DME Timestamp: 2021-05-31 21:42:57.972533 -- Humidity: 29.8784703341 -- Pressure: 996.745282884 -- Temperature: 29.8801687309 
-DME Timestamp: 2021-05-31 21:43:15.210835 -- Humidity: 29.507961252 -- Pressure: 996.854081686 -- Temperature: 29.8801687309 
-DME Timestamp: 2021-05-31 21:43:15.210835 -- Humidity: 29.507961252 -- Pressure: 996.854081686 -- Temperature: 29.8801687309 
-DME Timestamp: 2021-05-31 21:43:15.210835 -- Humidity: 29.507961252 -- Pressure: 996.854081686 -- Temperature: 29.8801687309 
-DME Timestamp: 2021-05-31 21:43:15.210835 -- Humidity: 29.507961252 -- Pressure: 996.854081686 -- Temperature: 29.8801687309 
-DME Timestamp: 2021-05-31 21:43:15.210835 -- Humidity: 29.507961252 -- Pressure: 996.854081686 -- Temperature: 29.8801687309 
-DME Timestamp: 2021-05-31 21:43:15.210835 -- Humidity: 29.507961252 -- Pressure: 996.854081686 -- Temperature: 29.8801687309 
-DME Timestamp: 2021-05-31 21:43:15.210835 -- Humidity: 29.507961252 -- Pressure: 996.854081686 -- Temperature: 29.8801687309 
-DME Timestamp: 2021-05-31 21:43:15.210835 -- Humidity: 29.507961252 -- Pressure: 996.854081686 -- Temperature: 29.8801687309 
-DME Timestamp: 2021-05-31 21:43:15.210835 -- Humidity: 29.507961252 -- Pressure: 996.854081686 -- Temperature: 29.8801687309 
-DME Timestamp: 2021-05-31 21:43:15.210835 -- Humidity: 29.507961252 -- Pressure: 996.854081686 -- Temperature: 29.8801687309 
-DME Timestamp: 2021-05-31 21:43:15.210835 -- Humidity: 29.507961252 -- Pressure: 996.854081686 -- Temperature: 29.8801687309 
-DME Timestamp: 2021-05-31 21:43:15.210835 -- Humidity: 29.507961252 -- Pressure: 996.854081686 -- Temperature: 29.8801687309 
-DME Timestamp: 2021-05-31 21:43:15.210835 -- Humidity: 29.507961252 -- Pressure: 996.854081686 -- Temperature: 29.8801687309 
-GPS Timestamp: 01:43:16 -- Lat: 3326.90897 N -- Lon: 08405.70511 W -- Altitude: 239.9 M --Satellites: 11
-DME Timestamp: 2021-05-31 21:43:15.210835 -- Humidity: 29.507961252 -- Pressure: 996.854081686 -- Temperature: 29.8801687309 
+
+GPS Timestamp: 00:07:23 -- Lat: 3326.91149 N -- Lon: 08405.70044 W -- Altitude: 238.8 M --Satellites: 12
+GPS Timestamp: 00:08:56 -- Lat: 3326.91142 N -- Lon: 08405.70171 W -- Altitude: 236.6 M --Satellites: 11
+DME Timestamp: 2021-06-06 20:09:27.242689 -- Humidity: 39.7206887871 -- Pressure: 989.764597192 -- Temperature: 25.6881840715 
+GPS Timestamp: 00:09:27 -- Lat: 3326.91219 N -- Lon: 08405.70257 W -- Altitude: 235.0 M --Satellites: 11
+DME Timestamp: 2021-06-06 20:10:27.326458 -- Humidity: 39.8744659593 -- Pressure: 989.848188943 -- Temperature: 25.6065902142 
+GPS Timestamp: 00:09:28 -- Lat: 3326.91212 N -- Lon: 08405.70259 W -- Altitude: 234.9 M --Satellites: 11
+DME Timestamp: 2021-06-06 20:11:27.451604 -- Humidity: 40.0280278363 -- Pressure: 989.898250939 -- Temperature: 25.5708929251 
+GPS Timestamp: 00:09:29 -- Lat: 3326.91211 N -- Lon: 08405.70265 W -- Altitude: 235.0 M --Satellites: 11
+DME Timestamp: 2021-06-06 20:12:27.572622 -- Humidity: 40.2287605664 -- Pressure: 989.894281793 -- Temperature: 25.5351956502 
+GPS Timestamp: 00:09:30 -- Lat: 3326.91211 N -- Lon: 08405.70270 W -- Altitude: 235.3 M --Satellites: 10
+DME Timestamp: 2021-06-06 20:13:27.704662 -- Humidity: 40.4526312849 -- Pressure: 989.910129855 -- Temperature: 25.6779848353 
+GPS Timestamp: 00:09:31 -- Lat: 3326.91212 N -- Lon: 08405.70271 W -- Altitude: 235.6 M --Satellites: 10
+DME Timestamp: 2021-06-06 20:14:27.797973 -- Humidity: 40.3759586717 -- Pressure: 989.822965097 -- Temperature: 25.6575863663 
+GPS Timestamp: 00:14:25 -- Lat: 3326.91213 N -- Lon: 08405.70423 W -- Altitude: 234.0 M --Satellites: 11
+DME Timestamp: 2021-06-06 20:15:27.933990 -- Humidity: 40.3580957385 -- Pressure: 989.814291484 -- Temperature: 25.7187817873 
+GPS Timestamp: 00:14:26 -- Lat: 3326.91211 N -- Lon: 08405.70432 W -- Altitude: 233.8 M --Satellites: 11
+DME Timestamp: 2021-06-06 20:16:28.018884 -- Humidity: 40.6178573201 -- Pressure: 989.89968037 -- Temperature: 25.6881840715 
+GPS Timestamp: 00:16:12 -- Lat: 3326.91234 N -- Lon: 08405.70224 W -- Altitude: 233.6 M --Satellites: 10
+DME Timestamp: 2021-06-06 20:17:28.126065 -- Humidity: 40.358016212 -- Pressure: 989.863986803 -- Temperature: 25.7493795134 
+GPS Timestamp: 00:16:13 -- Lat: 3326.91218 N -- Lon: 08405.70226 W -- Altitude: 233.7 M --Satellites: 10
+DME Timestamp: 2021-06-06 20:18:28.215551 -- Humidity: 40.1807091443 -- Pressure: 989.871857193 -- Temperature: 25.8207742486 
+GPS Timestamp: 00:16:14 -- Lat: 3326.91204 N -- Lon: 08405.70232 W -- Altitude: 234.0 M --Satellites: 11
+DME Timestamp: 2021-06-06 20:19:28.331874 -- Humidity: 40.26308861 -- Pressure: 989.921117189 -- Temperature: 25.9176671947 
+GPS Timestamp: 00:16:15 -- Lat: 3326.91191 N -- Lon: 08405.70240 W -- Altitude: 233.9 M --Satellites: 11
+DME Timestamp: 2021-06-06 20:20:28.419007 -- Humidity: 40.7239218366 -- Pressure: 989.913683148 -- Temperature: 25.7799772501 
+GPS Timestamp: 00:16:16 -- Lat: 3326.91186 N -- Lon: 08405.70243 W -- Altitude: 234.0 M --Satellites: 12
+DME Timestamp: 2021-06-06 20:21:28.557693 -- Humidity: 40.8538089608 -- Pressure: 989.934591581 -- Temperature: 25.7595787578 
+GPS Timestamp: 00:16:17 -- Lat: 3326.91174 N -- Lon: 08405.70244 W -- Altitude: 233.9 M --Satellites: 11
+DME Timestamp: 2021-06-06 20:22:28.686864 -- Humidity: 40.6059501362 -- Pressure: 989.928478106 -- Temperature: 25.7391802702 
+GPS Timestamp: 00:16:18 -- Lat: 3326.91164 N -- Lon: 08405.70243 W -- Altitude: 233.6 M --Satellites: 12
+DME Timestamp: 2021-06-06 20:23:28.764300 -- Humidity: 40.6826028535 -- Pressure: 989.886662564 -- Temperature: 25.7799772501 
+GPS Timestamp: 00:16:19 -- Lat: 3326.91154 N -- Lon: 08405.70240 W -- Altitude: 233.3 M --Satellites: 12
+DME Timestamp: 2021-06-06 20:24:28.918154 -- Humidity: 41.4557529901 -- Pressure: 989.942041383 -- Temperature: 25.897268671 
+GPS Timestamp: 00:16:20 -- Lat: 3326.91142 N -- Lon: 08405.70236 W -- Altitude: 232.8 M --Satellites: 12
+DME Timestamp: 2021-06-06 20:25:29.022358 -- Humidity: 40.5405331097 -- Pressure: 989.933316065 -- Temperature: 25.9584642561 
+GPS Timestamp: 00:16:21 -- Lat: 3326.91130 N -- Lon: 08405.70233 W -- Altitude: 232.3 M --Satellites: 12
+DME Timestamp: 2021-06-06 20:26:29.129117 -- Humidity: 40.6470239324 -- Pressure: 989.93811529 -- Temperature: 25.8615712658 
+GPS Timestamp: 00:16:22 -- Lat: 3326.91120 N -- Lon: 08405.70229 W -- Altitude: 231.8 M --Satellites: 12
+DME Timestamp: 2021-06-06 20:27:29.227261 -- Humidity: 41.2255914563 -- Pressure: 989.909336701 -- Temperature: 25.8105749972 
+GPS Timestamp: 00:16:23 -- Lat: 3326.91111 N -- Lon: 08405.70225 W -- Altitude: 231.3 M --Satellites: 12
+DME Timestamp: 2021-06-06 20:28:29.372855 -- Humidity: 41.2905584351 -- Pressure: 989.938930098 -- Temperature: 25.7289810281 
+GPS Timestamp: 00:16:24 -- Lat: 3326.91103 N -- Lon: 08405.70222 W -- Altitude: 230.6 M --Satellites: 12
+DME Timestamp: 2021-06-06 20:28:54.240393 -- Humidity: 41.6800180031 -- Pressure: 989.951157919 -- Temperature: 25.7697780034 
+GPS Timestamp: 00:28:54 -- Lat: 3326.91118 N -- Lon: 08405.69771 W -- Altitude: 285.2 M --Satellites: 11
+DME Timestamp: 2021-06-06 21:14:56.252971 -- Humidity: 39.7930239477 -- Pressure: 990.954655433 -- Temperature: 25.2904147208 
+GPS Timestamp: 01:14:56 -- Lat: 3326.91662 N -- Lon: 08405.70046 W -- Altitude: 249.9 M --Satellites: 12
+DME Timestamp: 2021-06-06 21:26:39.257507 -- Humidity: 42.386288838 -- Pressure: 990.905467308 -- Temperature: 24.9283441589 
+GPS Timestamp: 01:26:39 -- Lat: 3326.91848 N -- Lon: 08405.69711 W -- Altitude: 258.0 M --Satellites: 12
+DME Timestamp: 2021-06-06 21:27:43.257754 -- Humidity: 42.8574608411 -- Pressure: 990.936564504 -- Temperature: 24.9640411913 
+GPS Timestamp: 01:27:43 -- Lat: 3326.91720 N -- Lon: 08405.69766 W -- Altitude: 249.1 M --Satellites: 12
+DME Timestamp: 2021-06-06 21:32:43.396557 -- Humidity: 42.5862155062 -- Pressure: 991.063289892 -- Temperature: 24.8263527161 
+GPS Timestamp: 01:27:44 -- Lat: 3326.91712 N -- Lon: 08405.69766 W -- Altitude: 249.0 M --Satellites: 12
+DME Timestamp: 2021-06-06 21:37:43.568966 -- Humidity: 41.4144815423 -- Pressure: 991.337138588 -- Temperature: 24.5968723956 
+GPS Timestamp: 01:27:45 -- Lat: 3326.91703 N -- Lon: 08405.69767 W -- Altitude: 248.9 M --Satellites: 12
+DME Timestamp: 2021-06-06 21:42:43.741470 -- Humidity: 39.5837945476 -- Pressure: 991.312153964 -- Temperature: 24.5152795348 
+GPS Timestamp: 01:27:46 -- Lat: 3326.91695 N -- Lon: 08405.69769 W -- Altitude: 248.8 M --Satellites: 12
+DME Timestamp: 2021-06-06 21:47:43.861383 -- Humidity: 39.3258275274 -- Pressure: 991.382206574 -- Temperature: 24.260302325 
+GPS Timestamp: 01:27:47 -- Lat: 3326.91683 N -- Lon: 08405.69769 W -- Altitude: 248.7 M --Satellites: 12
+DME Timestamp: 2021-06-06 21:52:43.972301 -- Humidity: 40.9968118756 -- Pressure: 991.481547471 -- Temperature: 24.1889088366 
+GPS Timestamp: 01:27:48 -- Lat: 3326.91672 N -- Lon: 08405.69767 W -- Altitude: 248.5 M --Satellites: 12
+DME Timestamp: 2021-06-06 21:57:44.146997 -- Humidity: 40.2147045766 -- Pressure: 991.456424536 -- Temperature: 24.1073163483 
+GPS Timestamp: 01:27:49 -- Lat: 3326.91664 N -- Lon: 08405.69766 W -- Altitude: 248.5 M --Satellites: 12
+DME Timestamp: 2021-06-06 22:02:44.227423 -- Humidity: 41.431875598 -- Pressure: 991.486947391 -- Temperature: 23.9441315953 
+GPS Timestamp: 01:27:50 -- Lat: 3326.91655 N -- Lon: 08405.69768 W -- Altitude: 248.3 M --Satellites: 12
+DME Timestamp: 2021-06-06 22:07:44.378806 -- Humidity: 40.1627847892 -- Pressure: 991.514711527 -- Temperature: 23.6636584973 
+GPS Timestamp: 01:27:51 -- Lat: 3326.91646 N -- Lon: 08405.69766 W -- Altitude: 248.2 M --Satellites: 12
+DME Timestamp: 2021-06-06 22:12:44.476681 -- Humidity: 40.6740146488 -- Pressure: 991.52467172 -- Temperature: 23.587165987 
+GPS Timestamp: 01:27:52 -- Lat: 3326.91636 N -- Lon: 08405.69769 W -- Altitude: 248.3 M --Satellites: 12
+DME Timestamp: 2021-06-06 22:17:44.611195 -- Humidity: 39.7988502605 -- Pressure: 991.603100763 -- Temperature: 23.5361710165 
+GPS Timestamp: 01:27:53 -- Lat: 3326.91625 N -- Lon: 08405.69769 W -- Altitude: 248.2 M --Satellites: 12
+DME Timestamp: 2021-06-06 22:22:44.768574 -- Humidity: 41.5958023537 -- Pressure: 991.593573107 -- Temperature: 23.3321914256 
+GPS Timestamp: 01:27:54 -- Lat: 3326.91617 N -- Lon: 08405.69768 W -- Altitude: 248.1 M --Satellites: 12
+DME Timestamp: 2021-06-06 22:27:44.874200 -- Humidity: 41.7715642262 -- Pressure: 991.555014062 -- Temperature: 23.1435107186 
+GPS Timestamp: 01:27:55 -- Lat: 3326.91614 N -- Lon: 08405.69770 W -- Altitude: 248.2 M --Satellites: 12
+DME Timestamp: 2021-06-06 22:32:45.054003 -- Humidity: 39.9758762617 -- Pressure: 991.572115558 -- Temperature: 23.2200028491 
+GPS Timestamp: 01:27:56 -- Lat: 3326.91615 N -- Lon: 08405.69776 W -- Altitude: 248.2 M --Satellites: 12
+DME Timestamp: 2021-06-06 22:37:45.167199 -- Humidity: 40.0760124852 -- Pressure: 991.529575803 -- Temperature: 23.0619191849 
+GPS Timestamp: 01:27:57 -- Lat: 3326.91613 N -- Lon: 08405.69783 W -- Altitude: 248.2 M --Satellites: 12
+DME Timestamp: 2021-06-06 22:42:45.270493 -- Humidity: 38.2986499753 -- Pressure: 991.534379759 -- Temperature: 22.8834379647 
+GPS Timestamp: 01:27:58 -- Lat: 3326.91614 N -- Lon: 08405.69787 W -- Altitude: 248.1 M --Satellites: 12
+DME Timestamp: 2021-06-06 22:47:45.433083 -- Humidity: 37.9454582046 -- Pressure: 991.649421303 -- Temperature: 23.0364218459 
+GPS Timestamp: 01:27:59 -- Lat: 3326.91623 N -- Lon: 08405.69797 W -- Altitude: 248.2 M --Satellites: 12
+DME Timestamp: 2021-06-06 22:52:45.616990 -- Humidity: 39.0203724232 -- Pressure: 991.739310179 -- Temperature: 22.893636882 
+GPS Timestamp: 01:28:00 -- Lat: 3326.91626 N -- Lon: 08405.69806 W -- Altitude: 248.1 M --Satellites: 12
+DME Timestamp: 2021-06-06 22:57:45.776477 -- Humidity: 39.4487474724 -- Pressure: 991.732928337 -- Temperature: 22.8732390486 
+GPS Timestamp: 01:28:01 -- Lat: 3326.91639 N -- Lon: 08405.69810 W -- Altitude: 248.0 M --Satellites: 12
+DME Timestamp: 2021-06-06 23:02:45.910985 -- Humidity: 38.4641223274 -- Pressure: 991.766351993 -- Temperature: 22.6794598639 
+GPS Timestamp: 01:28:02 -- Lat: 3326.91648 N -- Lon: 08405.69800 W -- Altitude: 247.8 M --Satellites: 12
+DME Timestamp: 2021-06-06 23:07:46.044379 -- Humidity: 40.0126732701 -- Pressure: 991.859780151 -- Temperature: 22.5060788444 
+GPS Timestamp: 01:28:03 -- Lat: 3326.91649 N -- Lon: 08405.69802 W -- Altitude: 248.0 M --Satellites: 12
+DME Timestamp: 2021-06-06 23:12:46.219744 -- Humidity: 38.1309888209 -- Pressure: 991.826484293 -- Temperature: 22.4856810995 
+GPS Timestamp: 01:28:04 -- Lat: 3326.91641 N -- Lon: 08405.69805 W -- Altitude: 248.1 M --Satellites: 12
+DME Timestamp: 2021-06-06 23:17:46.406908 -- Humidity: 39.6668001247 -- Pressure: 991.847632985 -- Temperature: 22.531576032 
+GPS Timestamp: 01:28:05 -- Lat: 3326.91637 N -- Lon: 08405.69805 W -- Altitude: 248.0 M --Satellites: 12
+DME Timestamp: 2021-06-06 23:22:46.500655 -- Humidity: 41.3016106598 -- Pressure: 991.903078941 -- Temperature: 22.302101605 
+GPS Timestamp: 01:28:06 -- Lat: 3326.91634 N -- Lon: 08405.69811 W -- Altitude: 248.1 M --Satellites: 12
+DME Timestamp: 2021-06-06 23:27:46.683519 -- Humidity: 39.1459047121 -- Pressure: 991.909507921 -- Temperature: 22.322499308 
+GPS Timestamp: 01:28:07 -- Lat: 3326.91628 N -- Lon: 08405.69815 W -- Altitude: 248.2 M --Satellites: 12
+DME Timestamp: 2021-06-06 23:32:46.828371 -- Humidity: 39.2571637489 -- Pressure: 991.808432383 -- Temperature: 22.3428970156 
+GPS Timestamp: 01:28:08 -- Lat: 3326.91622 N -- Lon: 08405.69817 W -- Altitude: 248.3 M --Satellites: 12
+DME Timestamp: 2021-06-06 23:37:46.967002 -- Humidity: 38.150877505 -- Pressure: 991.783101795 -- Temperature: 22.1134230733 
+GPS Timestamp: 01:28:09 -- Lat: 3326.91614 N -- Lon: 08405.69816 W -- Altitude: 248.3 M --Satellites: 12
+DME Timestamp: 2021-06-06 23:42:47.174136 -- Humidity: 39.6854294697 -- Pressure: 991.895122284 -- Temperature: 22.1491189811 
+GPS Timestamp: 01:28:10 -- Lat: 3326.91604 N -- Lon: 08405.69816 W -- Altitude: 248.2 M --Satellites: 12
+DME Timestamp: 2021-06-06 23:47:47.300394 -- Humidity: 38.2089459247 -- Pressure: 991.844045148 -- Temperature: 22.20011316 
+GPS Timestamp: 01:28:11 -- Lat: 3326.91594 N -- Lon: 08405.69817 W -- Altitude: 248.0 M --Satellites: 12
+DME Timestamp: 2021-06-06 23:52:47.464044 -- Humidity: 39.4747448367 -- Pressure: 991.865584347 -- Temperature: 22.0981248314 
+GPS Timestamp: 01:28:12 -- Lat: 3326.91579 N -- Lon: 08405.69829 W -- Altitude: 247.7 M --Satellites: 12
+DME Timestamp: 2021-06-06 23:57:47.629073 -- Humidity: 39.6861958042 -- Pressure: 991.949303718 -- Temperature: 21.8533533177 
+GPS Timestamp: 01:28:13 -- Lat: 3326.91568 N -- Lon: 08405.69837 W -- Altitude: 247.6 M --Satellites: 12
+DME Timestamp: 2021-06-07 00:02:47.813387 -- Humidity: 39.3925200494 -- Pressure: 991.955299123 -- Temperature: 22.1695166492 
+GPS Timestamp: 01:28:14 -- Lat: 3326.91551 N -- Lon: 08405.69852 W -- Altitude: 247.2 M --Satellites: 12
+DME Timestamp: 2021-06-07 00:07:47.973933 -- Humidity: 38.9111849651 -- Pressure: 991.891682279 -- Temperature: 22.3938913051 
+GPS Timestamp: 01:28:15 -- Lat: 3326.91533 N -- Lon: 08405.69863 W -- Altitude: 246.9 M --Satellites: 12
+DME Timestamp: 2021-06-07 00:12:48.149175 -- Humidity: 39.4441350492 -- Pressure: 991.967311254 -- Temperature: 22.5060788444 
+GPS Timestamp: 01:28:16 -- Lat: 3326.91505 N -- Lon: 08405.69891 W -- Altitude: 246.3 M --Satellites: 12
+DME Timestamp: 2021-06-07 00:17:48.321483 -- Humidity: 39.0626293332 -- Pressure: 992.042915962 -- Temperature: 22.6182665245 
+GPS Timestamp: 01:28:17 -- Lat: 3326.91485 N -- Lon: 08405.69916 W -- Altitude: 245.9 M --Satellites: 12
+DME Timestamp: 2021-06-07 00:22:48.497095 -- Humidity: 39.7422763348 -- Pressure: 992.065345169 -- Temperature: 22.796747215 
+GPS Timestamp: 01:28:18 -- Lat: 3326.91468 N -- Lon: 08405.69926 W -- Altitude: 245.7 M --Satellites: 12
+DME Timestamp: 2021-06-07 00:27:48.641062 -- Humidity: 40.2935681409 -- Pressure: 992.094163918 -- Temperature: 22.7814488561 
+GPS Timestamp: 01:28:19 -- Lat: 3326.91456 N -- Lon: 08405.69927 W -- Altitude: 245.7 M --Satellites: 12
+DME Timestamp: 2021-06-07 00:32:48.750936 -- Humidity: 39.5367444601 -- Pressure: 992.028810199 -- Temperature: 22.8732390486 
+GPS Timestamp: 01:28:20 -- Lat: 3326.91443 N -- Lon: 08405.69936 W -- Altitude: 245.7 M --Satellites: 12
+DME Timestamp: 2021-06-07 00:37:48.860343 -- Humidity: 40.1057471213 -- Pressure: 992.154978945 -- Temperature: 22.868139591 
+GPS Timestamp: 01:28:21 -- Lat: 3326.91430 N -- Lon: 08405.69937 W -- Altitude: 245.7 M --Satellites: 12
+DME Timestamp: 2021-06-07 00:42:49.045020 -- Humidity: 40.4691810395 -- Pressure: 992.206110073 -- Temperature: 23.031322379 
+GPS Timestamp: 01:28:22 -- Lat: 3326.91426 N -- Lon: 08405.69937 W -- Altitude: 245.8 M --Satellites: 12
+DME Timestamp: 2021-06-07 00:47:49.221151 -- Humidity: 40.2463476263 -- Pressure: 992.25932976 -- Temperature: 22.9650293354 
+GPS Timestamp: 01:28:23 -- Lat: 3326.91429 N -- Lon: 08405.69935 W -- Altitude: 246.0 M --Satellites: 12
+DME Timestamp: 2021-06-07 00:52:49.306454 -- Humidity: 40.985415112 -- Pressure: 992.192528051 -- Temperature: 23.1384112455 
+GPS Timestamp: 01:28:24 -- Lat: 3326.91428 N -- Lon: 08405.69929 W -- Altitude: 246.2 M --Satellites: 12
+DME Timestamp: 2021-06-07 00:57:49.480214 -- Humidity: 40.3047628847 -- Pressure: 991.997787174 -- Temperature: 23.1180133563 
+GPS Timestamp: 01:28:25 -- Lat: 3326.91427 N -- Lon: 08405.69932 W -- Altitude: 246.1 M --Satellites: 12
+DME Timestamp: 2021-06-07 01:02:49.665445 -- Humidity: 40.7683455403 -- Pressure: 992.109309974 -- Temperature: 23.0874165311 
+GPS Timestamp: 01:28:26 -- Lat: 3326.91426 N -- Lon: 08405.69931 W -- Altitude: 246.4 M --Satellites: 12
+DME Timestamp: 2021-06-07 01:07:49.841577 -- Humidity: 40.5980405402 -- Pressure: 991.955261126 -- Temperature: 23.2404007616 
+GPS Timestamp: 01:28:27 -- Lat: 3326.91421 N -- Lon: 08405.69927 W -- Altitude: 246.4 M --Satellites: 12
+DME Timestamp: 2021-06-07 01:12:50.035022 -- Humidity: 40.9032249908 -- Pressure: 991.843685295 -- Temperature: 23.2709976391 
+GPS Timestamp: 01:28:28 -- Lat: 3326.91418 N -- Lon: 08405.69914 W -- Altitude: 246.6 M --Satellites: 12
+DME Timestamp: 2021-06-07 01:17:50.212665 -- Humidity: 41.4724704185 -- Pressure: 991.955261126 -- Temperature: 23.2404007616 
+GPS Timestamp: 01:28:29 -- Lat: 3326.91416 N -- Lon: 08405.69901 W -- Altitude: 246.7 M --Satellites: 12
+DME Timestamp: 2021-06-07 01:22:50.333516 -- Humidity: 41.2025328815 -- Pressure: 991.938622748 -- Temperature: 23.2302018047 
+GPS Timestamp: 01:28:30 -- Lat: 3326.91410 N -- Lon: 08405.69890 W -- Altitude: 246.8 M --Satellites: 12
+DME Timestamp: 2021-06-07 01:27:50.416809 -- Humidity: 41.0205866165 -- Pressure: 991.886183179 -- Temperature: 23.4290816732 
+GPS Timestamp: 01:28:31 -- Lat: 3326.91408 N -- Lon: 08405.69879 W -- Altitude: 246.8 M --Satellites: 12
+DME Timestamp: 2021-06-07 01:32:50.510697 -- Humidity: 41.0969095071 -- Pressure: 991.879386163 -- Temperature: 23.342390394 
+GPS Timestamp: 01:28:32 -- Lat: 3326.91408 N -- Lon: 08405.69874 W -- Altitude: 246.6 M --Satellites: 12
+DME Timestamp: 2021-06-07 01:37:50.695597 -- Humidity: 42.3467935771 -- Pressure: 991.779574551 -- Temperature: 23.2811966006 
+GPS Timestamp: 01:28:33 -- Lat: 3326.91411 N -- Lon: 08405.69870 W -- Altitude: 246.5 M --Satellites: 12
+DME Timestamp: 2021-06-07 01:42:50.874101 -- Humidity: 41.9007234704 -- Pressure: 991.781059583 -- Temperature: 23.1996049412 
+GPS Timestamp: 01:28:34 -- Lat: 3326.91409 N -- Lon: 08405.69867 W -- Altitude: 246.1 M --Satellites: 12
+DME Timestamp: 2021-06-07 01:47:51.057955 -- Humidity: 41.5782409399 -- Pressure: 991.740856696 -- Temperature: 23.3729873065 
+GPS Timestamp: 01:28:35 -- Lat: 3326.91409 N -- Lon: 08405.69861 W -- Altitude: 246.0 M --Satellites: 12
+DME Timestamp: 2021-06-07 01:52:51.228778 -- Humidity: 41.7074652537 -- Pressure: 991.776521963 -- Temperature: 23.4443801429 
+GPS Timestamp: 01:28:36 -- Lat: 3326.91410 N -- Lon: 08405.69855 W -- Altitude: 246.0 M --Satellites: 12
+DME Timestamp: 2021-06-07 01:57:51.321929 -- Humidity: 42.1948182008 -- Pressure: 991.642306635 -- Temperature: 23.5106735421 
+GPS Timestamp: 01:28:37 -- Lat: 3326.91407 N -- Lon: 08405.69847 W -- Altitude: 246.0 M --Satellites: 12
+DME Timestamp: 2021-06-07 02:02:51.507566 -- Humidity: 41.8894000493 -- Pressure: 991.689414185 -- Temperature: 23.4239821838 
+GPS Timestamp: 01:28:38 -- Lat: 3326.91403 N -- Lon: 08405.69840 W -- Altitude: 245.8 M --Satellites: 12
+DME Timestamp: 2021-06-07 02:07:51.689933 -- Humidity: 42.3883835004 -- Pressure: 991.586085499 -- Temperature: 23.4596786153 
+GPS Timestamp: 01:28:39 -- Lat: 3326.91402 N -- Lon: 08405.69835 W -- Altitude: 245.6 M --Satellites: 12
+DME Timestamp: 2021-06-07 02:12:51.802809 -- Humidity: 43.4967970699 -- Pressure: 991.539737823 -- Temperature: 23.3321914256 
+GPS Timestamp: 01:28:40 -- Lat: 3326.91407 N -- Lon: 08405.69825 W -- Altitude: 245.6 M --Satellites: 12
+DME Timestamp: 2021-06-07 02:17:51.976388 -- Humidity: 42.9521192861 -- Pressure: 991.611414827 -- Temperature: 23.5412705122 
+GPS Timestamp: 01:28:41 -- Lat: 3326.91416 N -- Lon: 08405.69806 W -- Altitude: 245.9 M --Satellites: 12
+DME Timestamp: 2021-06-07 02:22:52.138372 -- Humidity: 43.3564346446 -- Pressure: 991.484335187 -- Temperature: 23.413783206 
+GPS Timestamp: 01:28:42 -- Lat: 3326.91415 N -- Lon: 08405.69799 W -- Altitude: 245.7 M --Satellites: 12
+DME Timestamp: 2021-06-07 02:27:52.237527 -- Humidity: 42.981551008 -- Pressure: 991.536961743 -- Temperature: 23.5616684981 
+GPS Timestamp: 01:28:43 -- Lat: 3326.91414 N -- Lon: 08405.69797 W -- Altitude: 245.5 M --Satellites: 12
+DME Timestamp: 2021-06-07 02:32:52.401379 -- Humidity: 41.0792900361 -- Pressure: 991.505114675 -- Temperature: 23.1129138847 
+GPS Timestamp: 01:28:44 -- Lat: 3326.91413 N -- Lon: 08405.69798 W -- Altitude: 245.2 M --Satellites: 12
+DME Timestamp: 2021-06-07 02:37:52.575107 -- Humidity: 42.4276506356 -- Pressure: 991.490844785 -- Temperature: 22.8732390486 
+GPS Timestamp: 01:28:45 -- Lat: 3326.91410 N -- Lon: 08405.69799 W -- Altitude: 244.8 M --Satellites: 12
+DME Timestamp: 2021-06-07 02:42:52.712741 -- Humidity: 42.203927127 -- Pressure: 991.454620143 -- Temperature: 22.5213771561 
+GPS Timestamp: 01:28:46 -- Lat: 3326.91406 N -- Lon: 08405.69803 W -- Altitude: 244.4 M --Satellites: 12
+DME Timestamp: 2021-06-07 02:47:52.798569 -- Humidity: 41.6472501226 -- Pressure: 991.308690955 -- Temperature: 22.3989907357 
+GPS Timestamp: 01:28:47 -- Lat: 3326.91402 N -- Lon: 08405.69807 W -- Altitude: 244.3 M --Satellites: 12
+DME Timestamp: 2021-06-07 02:52:52.991650 -- Humidity: 41.4717819076 -- Pressure: 991.401474237 -- Temperature: 22.5876698705 
+GPS Timestamp: 01:28:48 -- Lat: 3326.91400 N -- Lon: 08405.69812 W -- Altitude: 244.2 M --Satellites: 12
+DME Timestamp: 2021-06-07 02:57:53.179423 -- Humidity: 42.1751894273 -- Pressure: 991.34887856 -- Temperature: 22.7202554468 
+GPS Timestamp: 01:28:49 -- Lat: 3326.91400 N -- Lon: 08405.69817 W -- Altitude: 244.0 M --Satellites: 12
+DME Timestamp: 2021-06-07 03:02:53.360713 -- Humidity: 41.7417779644 -- Pressure: 991.28592538 -- Temperature: 22.8630401337 
+GPS Timestamp: 01:28:50 -- Lat: 3326.91400 N -- Lon: 08405.69821 W -- Altitude: 244.0 M --Satellites: 12
+DME Timestamp: 2021-06-07 03:07:53.449944 -- Humidity: 41.5366775882 -- Pressure: 991.222371732 -- Temperature: 22.939532024 
+GPS Timestamp: 01:28:51 -- Lat: 3326.91402 N -- Lon: 08405.69824 W -- Altitude: 244.0 M --Satellites: 12
+DME Timestamp: 2021-06-07 03:12:53.560613 -- Humidity: 41.4898590479 -- Pressure: 991.202312177 -- Temperature: 23.0262229123 
+GPS Timestamp: 01:28:52 -- Lat: 3326.91402 N -- Lon: 08405.69825 W -- Altitude: 243.9 M --Satellites: 12
+DME Timestamp: 2021-06-07 03:17:53.700893 -- Humidity: 41.6659296636 -- Pressure: 991.155308492 -- Temperature: 23.1129138847 
+GPS Timestamp: 01:28:53 -- Lat: 3326.91402 N -- Lon: 08405.69827 W -- Altitude: 244.1 M --Satellites: 12
+DME Timestamp: 2021-06-07 03:22:53.878556 -- Humidity: 41.8828537969 -- Pressure: 991.090766453 -- Temperature: 23.0568197165 
+GPS Timestamp: 01:28:54 -- Lat: 3326.91405 N -- Lon: 08405.69826 W -- Altitude: 244.3 M --Satellites: 12
+DME Timestamp: 2021-06-07 03:27:54.058463 -- Humidity: 43.4483628861 -- Pressure: 991.082452986 -- Temperature: 23.0517202484 
+GPS Timestamp: 01:28:55 -- Lat: 3326.91407 N -- Lon: 08405.69824 W -- Altitude: 244.5 M --Satellites: 12
+DME Timestamp: 2021-06-07 03:32:54.176503 -- Humidity: 42.2523848593 -- Pressure: 991.051614104 -- Temperature: 23.0823170613 
+GPS Timestamp: 01:28:56 -- Lat: 3326.91411 N -- Lon: 08405.69821 W -- Altitude: 244.6 M --Satellites: 12
+DME Timestamp: 2021-06-07 03:37:54.316447 -- Humidity: 42.182089114 -- Pressure: 991.047676428 -- Temperature: 23.1129138847 
+GPS Timestamp: 01:28:57 -- Lat: 3326.91412 N -- Lon: 08405.69818 W -- Altitude: 244.7 M --Satellites: 12
+DME Timestamp: 2021-06-07 03:42:54.498884 -- Humidity: 42.428282758 -- Pressure: 991.061894483 -- Temperature: 23.0721181225 
+GPS Timestamp: 01:28:58 -- Lat: 3326.91405 N -- Lon: 08405.69819 W -- Altitude: 244.6 M --Satellites: 12
+DME Timestamp: 2021-06-07 03:47:54.669768 -- Humidity: 43.1560476377 -- Pressure: 991.00694905 -- Temperature: 23.2200028491 
+GPS Timestamp: 01:28:59 -- Lat: 3326.91400 N -- Lon: 08405.69820 W -- Altitude: 244.4 M --Satellites: 12
+DME Timestamp: 2021-06-07 03:52:54.848236 -- Humidity: 43.366853781 -- Pressure: 990.98794224 -- Temperature: 23.1588091394 
+GPS Timestamp: 01:29:00 -- Lat: 3326.91393 N -- Lon: 08405.69822 W -- Altitude: 244.3 M --Satellites: 12
+DME Timestamp: 2021-06-07 03:57:55.027492 -- Humidity: 43.4365836175 -- Pressure: 991.01201626 -- Temperature: 23.0415213131 
+GPS Timestamp: 01:29:01 -- Lat: 3326.91385 N -- Lon: 08405.69823 W -- Altitude: 244.3 M --Satellites: 12
+DME Timestamp: 2021-06-07 04:02:55.168755 -- Humidity: 43.9938940696 -- Pressure: 991.074584417 -- Temperature: 23.1129138847 
+GPS Timestamp: 01:29:02 -- Lat: 3326.91381 N -- Lon: 08405.69824 W -- Altitude: 244.3 M --Satellites: 12
+DME Timestamp: 2021-06-07 04:07:55.250785 -- Humidity: 42.9620675463 -- Pressure: 991.055989141 -- Temperature: 23.1180133563 
+GPS Timestamp: 01:29:03 -- Lat: 3326.91376 N -- Lon: 08405.69826 W -- Altitude: 244.4 M --Satellites: 12
+DME Timestamp: 2021-06-07 04:12:55.424511 -- Humidity: 43.1088232499 -- Pressure: 990.9796304 -- Temperature: 23.1537096655 
+GPS Timestamp: 01:29:04 -- Lat: 3326.91377 N -- Lon: 08405.69825 W -- Altitude: 244.6 M --Satellites: 12
+DME Timestamp: 2021-06-07 04:17:55.522261 -- Humidity: 43.5429276582 -- Pressure: 991.064725137 -- Temperature: 23.189405989 
+GPS Timestamp: 01:29:05 -- Lat: 3326.91391 N -- Lon: 08405.69824 W -- Altitude: 244.9 M --Satellites: 12
+DME Timestamp: 2021-06-07 04:22:55.665744 -- Humidity: 44.111446037 -- Pressure: 991.041762057 -- Temperature: 23.1588091394 
+GPS Timestamp: 01:29:06 -- Lat: 3326.91406 N -- Lon: 08405.69824 W -- Altitude: 245.2 M --Satellites: 12
+DME Timestamp: 2021-06-07 04:27:55.857497 -- Humidity: 43.7414202259 -- Pressure: 991.074139549 -- Temperature: 23.0466207806 
+GPS Timestamp: 01:29:07 -- Lat: 3326.91422 N -- Lon: 08405.69823 W -- Altitude: 245.5 M --Satellites: 12
+DME Timestamp: 2021-06-07 04:32:56.046000 -- Humidity: 44.240523632 -- Pressure: 991.201252276 -- Temperature: 23.1741075629 
+GPS Timestamp: 01:29:08 -- Lat: 3326.91435 N -- Lon: 08405.69824 W -- Altitude: 245.7 M --Satellites: 12
+DME Timestamp: 2021-06-07 04:37:56.148741 -- Humidity: 43.8773989294 -- Pressure: 991.023572199 -- Temperature: 23.2302018047 
+GPS Timestamp: 01:29:09 -- Lat: 3326.91443 N -- Lon: 08405.69826 W -- Altitude: 245.9 M --Satellites: 12
+DME Timestamp: 2021-06-07 04:42:56.320328 -- Humidity: 43.6015346833 -- Pressure: 991.083323925 -- Temperature: 23.1843065133 
+GPS Timestamp: 01:29:10 -- Lat: 3326.91448 N -- Lon: 08405.69827 W -- Altitude: 246.1 M --Satellites: 12
+DME Timestamp: 2021-06-07 04:47:56.440244 -- Humidity: 43.7714785817 -- Pressure: 991.139117907 -- Temperature: 23.1690080881 
+GPS Timestamp: 01:29:11 -- Lat: 3326.91455 N -- Lon: 08405.69833 W -- Altitude: 246.3 M --Satellites: 12
+DME Timestamp: 2021-06-07 04:52:56.536898 -- Humidity: 43.4793099382 -- Pressure: 991.142304493 -- Temperature: 23.3525893637 
+GPS Timestamp: 01:29:12 -- Lat: 3326.91457 N -- Lon: 08405.69838 W -- Altitude: 246.4 M --Satellites: 12
+DME Timestamp: 2021-06-07 04:57:56.716589 -- Humidity: 43.7487957294 -- Pressure: 991.185457273 -- Temperature: 23.296495045 
+GPS Timestamp: 01:29:13 -- Lat: 3326.91458 N -- Lon: 08405.69842 W -- Altitude: 246.3 M --Satellites: 12
+DME Timestamp: 2021-06-07 05:02:56.821726 -- Humidity: 43.7312927574 -- Pressure: 991.183478181 -- Temperature: 23.3117934921 
+GPS Timestamp: 01:29:14 -- Lat: 3326.91457 N -- Lon: 08405.69846 W -- Altitude: 246.3 M --Satellites: 12
+DME Timestamp: 2021-06-07 05:07:56.899754 -- Humidity: 43.8080354311 -- Pressure: 991.128038709 -- Temperature: 23.3933852539 
+GPS Timestamp: 01:29:15 -- Lat: 3326.91457 N -- Lon: 08405.69849 W -- Altitude: 246.1 M --Satellites: 12
+DME Timestamp: 2021-06-07 05:12:57.079802 -- Humidity: 43.9658830823 -- Pressure: 991.237311258 -- Temperature: 23.3117934921 
+GPS Timestamp: 01:29:16 -- Lat: 3326.91459 N -- Lon: 08405.69853 W -- Altitude: 246.0 M --Satellites: 12
+DME Timestamp: 2021-06-07 05:17:57.273484 -- Humidity: 44.153190821 -- Pressure: 991.234928366 -- Temperature: 23.2607986788 
+GPS Timestamp: 01:29:17 -- Lat: 3326.91459 N -- Lon: 08405.69857 W -- Altitude: 245.9 M --Satellites: 12
+DME Timestamp: 2021-06-07 05:22:57.422326 -- Humidity: 44.5351719486 -- Pressure: 991.283227934 -- Temperature: 23.3729873065 
+GPS Timestamp: 01:29:18 -- Lat: 3326.91460 N -- Lon: 08405.69863 W -- Altitude: 245.7 M --Satellites: 12
+DME Timestamp: 2021-06-07 05:27:57.524210 -- Humidity: 44.3297638179 -- Pressure: 991.384569256 -- Temperature: 23.3525893637 
+GPS Timestamp: 01:29:19 -- Lat: 3326.91460 N -- Lon: 08405.69867 W -- Altitude: 245.6 M --Satellites: 12
+DME Timestamp: 2021-06-07 05:32:57.604400 -- Humidity: 44.8816299776 -- Pressure: 991.374668957 -- Temperature: 23.4290816732 
+GPS Timestamp: 01:29:20 -- Lat: 3326.91462 N -- Lon: 08405.69869 W -- Altitude: 245.5 M --Satellites: 12
+DME Timestamp: 2021-06-07 05:37:57.711328 -- Humidity: 44.1192601772 -- Pressure: 991.39960804 -- Temperature: 23.4443801429 
+GPS Timestamp: 01:29:21 -- Lat: 3326.91463 N -- Lon: 08405.69871 W -- Altitude: 245.5 M --Satellites: 12
+DME Timestamp: 2021-06-07 05:42:57.887597 -- Humidity: 44.142724251 -- Pressure: 991.426530347 -- Temperature: 23.4443801429 
+GPS Timestamp: 01:29:22 -- Lat: 3326.91461 N -- Lon: 08405.69872 W -- Altitude: 245.4 M --Satellites: 12
+DME Timestamp: 2021-06-07 05:47:58.070676 -- Humidity: 44.3538191436 -- Pressure: 991.436825698 -- Temperature: 23.4341811628 
+GPS Timestamp: 01:29:23 -- Lat: 3326.91461 N -- Lon: 08405.69877 W -- Altitude: 245.2 M --Satellites: 12
+DME Timestamp: 2021-06-07 05:52:58.194834 -- Humidity: 44.3296894699 -- Pressure: 991.529449996 -- Temperature: 23.342390394 
+GPS Timestamp: 01:29:24 -- Lat: 3326.91459 N -- Lon: 08405.69879 W -- Altitude: 245.0 M --Satellites: 12
+DME Timestamp: 2021-06-07 05:57:58.285131 -- Humidity: 44.2364352564 -- Pressure: 991.581727833 -- Temperature: 23.4239821838 
+GPS Timestamp: 01:29:25 -- Lat: 3326.91459 N -- Lon: 08405.69879 W -- Altitude: 245.1 M --Satellites: 12
+DME Timestamp: 2021-06-07 06:02:58.482437 -- Humidity: 44.2664502714 -- Pressure: 991.632010118 -- Temperature: 23.520872531 
+GPS Timestamp: 01:29:26 -- Lat: 3326.91460 N -- Lon: 08405.69872 W -- Altitude: 245.5 M --Satellites: 12
+DME Timestamp: 2021-06-07 06:07:58.655968 -- Humidity: 45.2513125148 -- Pressure: 991.712385491 -- Temperature: 23.4545791242 
+GPS Timestamp: 01:29:27 -- Lat: 3326.91461 N -- Lon: 08405.69869 W -- Altitude: 245.8 M --Satellites: 12
+DME Timestamp: 2021-06-07 06:12:58.833425 -- Humidity: 45.1580397747 -- Pressure: 991.70447225 -- Temperature: 23.5157730364 
+GPS Timestamp: 01:29:28 -- Lat: 3326.91456 N -- Lon: 08405.69876 W -- Altitude: 245.8 M --Satellites: 12
+DME Timestamp: 2021-06-07 06:17:59.022997 -- Humidity: 44.7420418686 -- Pressure: 991.849795493 -- Temperature: 23.5718674928 
+GPS Timestamp: 01:29:29 -- Lat: 3326.91453 N -- Lon: 08405.69882 W -- Altitude: 245.8 M --Satellites: 12
+DME Timestamp: 2021-06-07 06:22:59.161035 -- Humidity: 45.7276536021 -- Pressure: 991.901671751 -- Temperature: 23.587165987 
+GPS Timestamp: 01:29:30 -- Lat: 3326.91450 N -- Lon: 08405.69890 W -- Altitude: 246.0 M --Satellites: 12
+DME Timestamp: 2021-06-07 06:27:59.366154 -- Humidity: 46.0739060531 -- Pressure: 991.988795689 -- Temperature: 23.6075639833 
+GPS Timestamp: 01:29:31 -- Lat: 3326.91442 N -- Lon: 08405.69896 W -- Altitude: 246.2 M --Satellites: 12
+DME Timestamp: 2021-06-07 06:32:59.539927 -- Humidity: 45.2528264395 -- Pressure: 992.005429118 -- Temperature: 23.6177629832 
+GPS Timestamp: 01:29:32 -- Lat: 3326.91434 N -- Lon: 08405.69900 W -- Altitude: 246.4 M --Satellites: 12
+DME Timestamp: 2021-06-07 06:37:59.643559 -- Humidity: 44.9650988878 -- Pressure: 992.063244267 -- Temperature: 23.587165987 
+GPS Timestamp: 01:29:33 -- Lat: 3326.91430 N -- Lon: 08405.69900 W -- Altitude: 246.6 M --Satellites: 12
+DME Timestamp: 2021-06-07 06:42:59.723216 -- Humidity: 45.0947025524 -- Pressure: 992.055330116 -- Temperature: 23.64835999 
+GPS Timestamp: 01:29:34 -- Lat: 3326.91420 N -- Lon: 08405.69904 W -- Altitude: 246.4 M --Satellites: 12
+DME Timestamp: 2021-06-07 06:47:59.901294 -- Humidity: 45.3856962114 -- Pressure: 992.140728065 -- Temperature: 23.4035842294 
+GPS Timestamp: 01:29:35 -- Lat: 3326.91408 N -- Lon: 08405.69907 W -- Altitude: 246.1 M --Satellites: 12
+DME Timestamp: 2021-06-07 06:52:59.993207 -- Humidity: 45.1064366221 -- Pressure: 992.270781901 -- Temperature: 23.64835999 
+GPS Timestamp: 01:29:36 -- Lat: 3326.91400 N -- Lon: 08405.69910 W -- Altitude: 245.9 M --Satellites: 12
+DME Timestamp: 2021-06-07 06:58:00.177411 -- Humidity: 46.1493429549 -- Pressure: 992.357045116 -- Temperature: 23.5361710165 
+GPS Timestamp: 01:29:37 -- Lat: 3326.91393 N -- Lon: 08405.69909 W -- Altitude: 245.6 M --Satellites: 12
+DME Timestamp: 2021-06-07 07:03:00.321666 -- Humidity: 45.5758677545 -- Pressure: 992.475943722 -- Temperature: 23.6585589945 
+GPS Timestamp: 01:29:38 -- Lat: 3326.91392 N -- Lon: 08405.69908 W -- Altitude: 245.3 M --Satellites: 12
+DME Timestamp: 2021-06-07 07:08:00.506164 -- Humidity: 45.4355632291 -- Pressure: 992.586082685 -- Temperature: 23.7095540349 
+GPS Timestamp: 01:29:39 -- Lat: 3326.91393 N -- Lon: 08405.69907 W -- Altitude: 245.1 M --Satellites: 12
+DME Timestamp: 2021-06-07 07:13:00.683055 -- Humidity: 45.0244306144 -- Pressure: 992.726655807 -- Temperature: 23.6636584973 
+GPS Timestamp: 01:29:40 -- Lat: 3326.91395 N -- Lon: 08405.69903 W -- Altitude: 244.9 M --Satellites: 12
+DME Timestamp: 2021-06-07 07:18:00.830662 -- Humidity: 45.0130056467 -- Pressure: 992.784912937 -- Temperature: 23.6993550245 
+GPS Timestamp: 01:29:41 -- Lat: 3326.91400 N -- Lon: 08405.69898 W -- Altitude: 244.7 M --Satellites: 12
+DME Timestamp: 2021-06-07 07:23:01.005600 -- Humidity: 45.0602165152 -- Pressure: 992.780978033 -- Temperature: 23.7299520592 
+GPS Timestamp: 01:29:42 -- Lat: 3326.91407 N -- Lon: 08405.69892 W -- Altitude: 244.6 M --Satellites: 12
+DME Timestamp: 2021-06-07 07:28:01.160115 -- Humidity: 45.6223362959 -- Pressure: 992.831946212 -- Temperature: 23.6126634831 
+GPS Timestamp: 01:29:43 -- Lat: 3326.91416 N -- Lon: 08405.69887 W -- Altitude: 244.5 M --Satellites: 12
+DME Timestamp: 2021-06-07 07:33:01.299166 -- Humidity: 45.2837661035 -- Pressure: 992.826971553 -- Temperature: 23.7911461599 
+GPS Timestamp: 01:29:44 -- Lat: 3326.91425 N -- Lon: 08405.69879 W -- Altitude: 244.5 M --Satellites: 12
+DME Timestamp: 2021-06-07 07:38:01.492793 -- Humidity: 44.99067321 -- Pressure: 992.893550036 -- Temperature: 23.8319422504 
+GPS Timestamp: 01:29:45 -- Lat: 3326.91434 N -- Lon: 08405.69866 W -- Altitude: 244.5 M --Satellites: 12
+DME Timestamp: 2021-06-07 07:43:01.677230 -- Humidity: 45.1963803919 -- Pressure: 992.835720903 -- Temperature: 23.8625393305 
+GPS Timestamp: 01:29:46 -- Lat: 3326.91440 N -- Lon: 08405.69852 W -- Altitude: 244.5 M --Satellites: 12
+DME Timestamp: 2021-06-07 07:48:01.848023 -- Humidity: 45.1676694391 -- Pressure: 993.060004491 -- Temperature: 23.9339325581 
+GPS Timestamp: 01:29:47 -- Lat: 3326.91446 N -- Lon: 08405.69842 W -- Altitude: 244.6 M --Satellites: 12
+DME Timestamp: 2021-06-07 07:53:01.951868 -- Humidity: 45.0796081074 -- Pressure: 993.006116115 -- Temperature: 23.9339325581 
+GPS Timestamp: 01:29:48 -- Lat: 3326.91455 N -- Lon: 08405.69835 W -- Altitude: 244.6 M --Satellites: 12
+DME Timestamp: 2021-06-07 07:58:02.099465 -- Humidity: 45.143416671 -- Pressure: 993.053219815 -- Temperature: 23.8472407891 
+GPS Timestamp: 01:29:49 -- Lat: 3326.91464 N -- Lon: 08405.69827 W -- Altitude: 244.7 M --Satellites: 12
+DME Timestamp: 2021-06-07 08:03:02.195529 -- Humidity: 45.6606174524 -- Pressure: 993.169753492 -- Temperature: 23.9186340045 
+GPS Timestamp: 01:29:50 -- Lat: 3326.91472 N -- Lon: 08405.69821 W -- Altitude: 244.7 M --Satellites: 12
+DME Timestamp: 2021-06-07 08:08:02.377384 -- Humidity: 45.7480865422 -- Pressure: 993.212896974 -- Temperature: 23.8625393305 
+GPS Timestamp: 01:29:51 -- Lat: 3326.91477 N -- Lon: 08405.69813 W -- Altitude: 244.8 M --Satellites: 12
+DME Timestamp: 2021-06-07 08:13:02.460326 -- Humidity: 45.0975775318 -- Pressure: 993.126589568 -- Temperature: 23.9747287138 
+GPS Timestamp: 01:29:52 -- Lat: 3326.91478 N -- Lon: 08405.69806 W -- Altitude: 244.7 M --Satellites: 12
+DME Timestamp: 2021-06-07 08:18:02.624817 -- Humidity: 45.0215113384 -- Pressure: 993.230424283 -- Temperature: 24.0053258427 
+GPS Timestamp: 01:29:53 -- Lat: 3326.91480 N -- Lon: 08405.69800 W -- Altitude: 244.7 M --Satellites: 12
+DME Timestamp: 2021-06-07 08:23:02.764733 -- Humidity: 46.0551364042 -- Pressure: 993.226470712 -- Temperature: 24.0359229822 
+GPS Timestamp: 01:29:54 -- Lat: 3326.91481 N -- Lon: 08405.69796 W -- Altitude: 244.6 M --Satellites: 12
+DME Timestamp: 2021-06-07 08:28:02.940809 -- Humidity: 45.222111156 -- Pressure: 993.297424154 -- Temperature: 24.1124158767 
+GPS Timestamp: 01:29:55 -- Lat: 3326.91484 N -- Lon: 08405.69793 W -- Altitude: 244.7 M --Satellites: 12
+DME Timestamp: 2021-06-07 08:33:03.120159 -- Humidity: 45.2395921698 -- Pressure: 993.353307414 -- Temperature: 24.0971172925 
+GPS Timestamp: 01:29:56 -- Lat: 3326.91486 N -- Lon: 08405.69791 W -- Altitude: 244.8 M --Satellites: 12
+DME Timestamp: 2021-06-07 08:38:03.226140 -- Humidity: 45.955661834 -- Pressure: 993.303362865 -- Temperature: 24.0665201321 
+GPS Timestamp: 01:29:57 -- Lat: 3326.91487 N -- Lon: 08405.69790 W -- Altitude: 244.8 M --Satellites: 12
+DME Timestamp: 2021-06-07 08:43:03.307658 -- Humidity: 45.3685994958 -- Pressure: 993.346961387 -- Temperature: 24.0767191844 
+GPS Timestamp: 01:29:58 -- Lat: 3326.91487 N -- Lon: 08405.69790 W -- Altitude: 244.8 M --Satellites: 12
+DME Timestamp: 2021-06-07 08:48:03.444077 -- Humidity: 46.6851550369 -- Pressure: 993.29582821 -- Temperature: 24.1940083696 
+GPS Timestamp: 01:29:59 -- Lat: 3326.91488 N -- Lon: 08405.69784 W -- Altitude: 245.0 M --Satellites: 12
+DME Timestamp: 2021-06-07 08:53:03.535763 -- Humidity: 46.6910887998 -- Pressure: 993.19632877 -- Temperature: 24.1991079029 
+GPS Timestamp: 01:30:00 -- Lat: 3326.91492 N -- Lon: 08405.69779 W -- Altitude: 245.2 M --Satellites: 12
+DME Timestamp: 2021-06-07 08:58:03.718816 -- Humidity: 45.6452392489 -- Pressure: 993.293459755 -- Temperature: 24.1430130528 
+GPS Timestamp: 01:30:01 -- Lat: 3326.91496 N -- Lon: 08405.69776 W -- Altitude: 245.3 M --Satellites: 12
+DME Timestamp: 2021-06-07 09:03:03.824566 -- Humidity: 45.7743822466 -- Pressure: 993.312089472 -- Temperature: 24.1379135227 
+GPS Timestamp: 01:30:02 -- Lat: 3326.91499 N -- Lon: 08405.69773 W -- Altitude: 245.3 M --Satellites: 12
+DME Timestamp: 2021-06-07 09:08:04.015023 -- Humidity: 45.9677838608 -- Pressure: 993.415534762 -- Temperature: 24.1022168203 
+GPS Timestamp: 01:30:03 -- Lat: 3326.91505 N -- Lon: 08405.69767 W -- Altitude: 245.5 M --Satellites: 12
+DME Timestamp: 2021-06-07 09:13:04.121278 -- Humidity: 45.9688124159 -- Pressure: 993.331106832 -- Temperature: 24.1991079029 
+GPS Timestamp: 01:30:04 -- Lat: 3326.91511 N -- Lon: 08405.69761 W -- Altitude: 245.6 M --Satellites: 12
+DME Timestamp: 2021-06-07 09:18:04.263156 -- Humidity: 46.6259469275 -- Pressure: 993.444875164 -- Temperature: 24.1532121138 
+GPS Timestamp: 01:30:05 -- Lat: 3326.91514 N -- Lon: 08405.69757 W -- Altitude: 245.7 M --Satellites: 12
+DME Timestamp: 2021-06-07 09:23:04.347296 -- Humidity: 47.4321644308 -- Pressure: 993.462293236 -- Temperature: 24.2959990906 
+GPS Timestamp: 01:30:06 -- Lat: 3326.91515 N -- Lon: 08405.69758 W -- Altitude: 245.7 M --Satellites: 12
+DME Timestamp: 2021-06-07 09:28:04.439496 -- Humidity: 46.0516893551 -- Pressure: 993.511862516 -- Temperature: 24.260302325 
+GPS Timestamp: 01:30:07 -- Lat: 3326.91520 N -- Lon: 08405.69752 W -- Altitude: 246.0 M --Satellites: 12
+DME Timestamp: 2021-06-07 09:33:04.548370 -- Humidity: 46.8752196153 -- Pressure: 993.578825719 -- Temperature: 24.3673926645 
+GPS Timestamp: 01:30:08 -- Lat: 3326.91525 N -- Lon: 08405.69747 W -- Altitude: 246.3 M --Satellites: 12
+DME Timestamp: 2021-06-07 09:38:04.741795 -- Humidity: 46.469036284 -- Pressure: 993.669647407 -- Temperature: 24.2908995518 
+GPS Timestamp: 01:30:09 -- Lat: 3326.91528 N -- Lon: 08405.69752 W -- Altitude: 246.3 M --Satellites: 12
+DME Timestamp: 2021-06-07 09:43:04.900781 -- Humidity: 46.6402125969 -- Pressure: 993.624427322 -- Temperature: 24.3622931216 
+GPS Timestamp: 01:30:10 -- Lat: 3326.91531 N -- Lon: 08405.69751 W -- Altitude: 246.7 M --Satellites: 12
+DME Timestamp: 2021-06-07 09:48:05.025960 -- Humidity: 46.1358070736 -- Pressure: 993.579176264 -- Temperature: 24.4336867485 
+GPS Timestamp: 01:30:11 -- Lat: 3326.91533 N -- Lon: 08405.69760 W -- Altitude: 246.8 M --Satellites: 12
