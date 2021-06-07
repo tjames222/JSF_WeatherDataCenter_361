@@ -345,3 +345,107 @@ DME Timestamp: 2021-06-07 09:43:04.900781 -- Humidity: 46.6402125969 -- Pressure
 GPS Timestamp: 01:30:10 -- Lat: 3326.91531 N -- Lon: 08405.69751 W -- Altitude: 246.7 M --Satellites: 12
 DME Timestamp: 2021-06-07 09:48:05.025960 -- Humidity: 46.1358070736 -- Pressure: 993.579176264 -- Temperature: 24.4336867485 
 GPS Timestamp: 01:30:11 -- Lat: 3326.91533 N -- Lon: 08405.69760 W -- Altitude: 246.8 M --Satellites: 12
+GPS Timestamp: 17:17:05 -- Lat: 3326.91795 N -- Lon: 08405.69775 W -- Altitude: 257.5 M --Satellites: 12
+GPS Timestamp: 17:20:06 -- Lat: 3326.91442 N -- Lon: 08405.70116 W -- Altitude: 254.5 M --Satellites: 12
+GPS Timestamp: 17:20:07 -- Lat: 3326.91441 N -- Lon: 08405.70112 W -- Altitude: 254.7 M --Satellites: 12
+GPS Timestamp: 17:20:08 -- Lat: 3326.91438 N -- Lon: 08405.70109 W -- Altitude: 254.1 M --Satellites: 12
+GPS Timestamp: 17:20:09 -- Lat: 3326.91438 N -- Lon: 08405.70104 W -- Altitude: 253.6 M --Satellites: 12
+GPS Timestamp: 17:20:10 -- Lat: 3326.91436 N -- Lon: 08405.70099 W -- Altitude: 253.4 M --Satellites: 12
+GPS Timestamp: 17:21:10 -- Lat: 3326.91551 N -- Lon: 08405.70043 W -- Altitude: 262.5 M --Satellites: 12
+GPS Timestamp: 17:21:11 -- Lat: 3326.91546 N -- Lon: 08405.70041 W -- Altitude: 262.4 M --Satellites: 12
+GPS Timestamp: 17:21:12 -- Lat: 3326.91542 N -- Lon: 08405.70039 W -- Altitude: 262.7 M --Satellites: 12
+GPS Timestamp: 17:21:13 -- Lat: 3326.91542 N -- Lon: 08405.70036 W -- Altitude: 262.7 M --Satellites: 12
+GPS Timestamp: 17:21:14 -- Lat: 3326.91537 N -- Lon: 08405.70036 W -- Altitude: 262.2 M --Satellites: 12
+GPS Timestamp: 17:21:15 -- Lat: 3326.91532 N -- Lon: 08405.70032 W -- Altitude: 261.9 M --Satellites: 12
+DME Timestamp: 2021-06-07 13:21:39.251638 -- Humidity: 43.7223811503 -- Pressure: 992.855879271 -- Temperature: 27.3404757129 -- Altitude: -41994.5757836 
+GPS Timestamp: 17:21:39 -- Lat: 3326.91569 N -- Lon: 08405.69922 W -- Altitude: 262.2 M --Satellites: 12
+DME Timestamp: 2021-06-07 13:21:42.325617 -- Humidity: 43.8999887392 -- Pressure: 992.853674104 -- Temperature: 27.3557748524 -- Altitude: -41994.5392969 
+GPS Timestamp: 17:21:40 -- Lat: 3326.91564 N -- Lon: 08405.69919 W -- Altitude: 262.1 M --Satellites: 12
+DME Timestamp: 2021-06-07 13:21:45.378511 -- Humidity: 43.988781267 -- Pressure: 992.753609642 -- Temperature: 27.3608745661 -- Altitude: -41992.8835635 
+GPS Timestamp: 17:21:41 -- Lat: 3326.91558 N -- Lon: 08405.69918 W -- Altitude: 261.9 M --Satellites: 12
+DME Timestamp: 2021-06-07 13:21:48.457544 -- Humidity: 43.550773148 -- Pressure: 992.8370849 -- Temperature: 27.3455754258 -- Altitude: -41994.2648102 
+GPS Timestamp: 17:21:42 -- Lat: 3326.91557 N -- Lon: 08405.69921 W -- Altitude: 261.8 M --Satellites: 12
+DME Timestamp: 2021-06-07 13:21:51.541230 -- Humidity: 43.5863835787 -- Pressure: 992.824377639 -- Temperature: 27.3710739944 -- Altitude: -41994.054552 
+GPS Timestamp: 17:21:43 -- Lat: 3326.91556 N -- Lon: 08405.69922 W -- Altitude: 261.7 M --Satellites: 12
+DME Timestamp: 2021-06-07 13:21:54.625919 -- Humidity: 43.5746057444 -- Pressure: 992.795078827 -- Temperature: 27.3863731391 -- Altitude: -41993.5697567 
+GPS Timestamp: 17:21:44 -- Lat: 3326.91555 N -- Lon: 08405.69927 W -- Altitude: 261.3 M --Satellites: 12
+DME Timestamp: 2021-06-07 13:21:57.718001 -- Humidity: 43.7167208581 -- Pressure: 992.79286916 -- Temperature: 27.4016722864 -- Altitude: -41993.5331938 
+GPS Timestamp: 17:21:45 -- Lat: 3326.91548 N -- Lon: 08405.69927 W -- Altitude: 261.0 M --Satellites: 12
+DME Timestamp: 2021-06-07 13:36:07.245304 -- Humidity: 42.9361938132 -- Pressure: 992.614509694 -- Temperature: 27.7586531335 -- Altitude: 568.034954812 
+GPS Timestamp: 17:36:07 -- Lat: 3326.91452 N -- Lon: 08405.69737 W -- Altitude: 264.2 M --Satellites: 12
+DME Timestamp: 2021-06-07 13:36:10.322042 -- Humidity: 42.8769218044 -- Pressure: 992.570824675 -- Temperature: 27.7484536609 -- Altitude: 569.247577585 
+GPS Timestamp: 17:36:08 -- Lat: 3326.91441 N -- Lon: 08405.69738 W -- Altitude: 263.8 M --Satellites: 12
+DME Timestamp: 2021-06-07 13:36:13.395885 -- Humidity: 42.8769106481 -- Pressure: 992.589641388 -- Temperature: 27.743353925 -- Altitude: 568.72525192 
+GPS Timestamp: 17:36:09 -- Lat: 3326.91431 N -- Lon: 08405.69742 W -- Altitude: 263.4 M --Satellites: 12
+DME Timestamp: 2021-06-07 13:39:42.250938 -- Humidity: 43.6284436368 -- Pressure: 992.593768072 -- Temperature: 27.5291652823 -- Altitude: 173.403705129 
+GPS Timestamp: 17:39:42 -- Lat: 3326.91427 N -- Lon: 08405.69685 W -- Altitude: 253.3 M --Satellites: 12
+DME Timestamp: 2021-06-07 13:39:45.335436 -- Humidity: 43.6344047214 -- Pressure: 992.610350375 -- Temperature: 27.5393647299 -- Altitude: 173.263333915 
+GPS Timestamp: 17:39:43 -- Lat: 3326.91431 N -- Lon: 08405.69687 W -- Altitude: 253.1 M --Satellites: 12
+DME Timestamp: 2021-06-07 13:39:48.408873 -- Humidity: 43.4568118439 -- Pressure: 992.572737455 -- Temperature: 27.5495641786 -- Altitude: 173.581734598 
+GPS Timestamp: 17:39:44 -- Lat: 3326.91438 N -- Lon: 08405.69692 W -- Altitude: 252.8 M --Satellites: 12
+DME Timestamp: 2021-06-07 13:39:51.487398 -- Humidity: 43.3679574492 -- Pressure: 992.637447624 -- Temperature: 27.5393647299 -- Altitude: 173.033956488 
+GPS Timestamp: 17:39:45 -- Lat: 3326.91443 N -- Lon: 08405.69701 W -- Altitude: 252.4 M --Satellites: 12
+DME Timestamp: 2021-06-07 13:39:54.562333 -- Humidity: 43.4568299893 -- Pressure: 992.581028258 -- Temperature: 27.5546639034 -- Altitude: 173.511550496 
+GPS Timestamp: 17:39:46 -- Lat: 3326.91451 N -- Lon: 08405.69716 W -- Altitude: 251.8 M --Satellites: 12
+DME Timestamp: 2021-06-07 13:39:57.643989 -- Humidity: 43.9541615553 -- Pressure: 992.626932788 -- Temperature: 27.5495641786 -- Altitude: 173.122963661 
+GPS Timestamp: 17:39:47 -- Lat: 3326.91457 N -- Lon: 08405.69726 W -- Altitude: 251.2 M --Satellites: 12
+DME Timestamp: 2021-06-07 13:40:00.724695 -- Humidity: 43.7528835854 -- Pressure: 992.553930396 -- Temperature: 27.5546639034 -- Altitude: 173.740943673 
+GPS Timestamp: 17:39:48 -- Lat: 3326.91458 N -- Lon: 08405.69731 W -- Altitude: 250.8 M --Satellites: 12
+DME Timestamp: 2021-06-07 13:40:03.805581 -- Humidity: 43.598879622 -- Pressure: 992.583253144 -- Temperature: 27.5393647299 -- Altitude: 173.49271626 
+GPS Timestamp: 17:39:49 -- Lat: 3326.91460 N -- Lon: 08405.69737 W -- Altitude: 250.6 M --Satellites: 12
+DME Timestamp: 2021-06-07 13:40:06.887803 -- Humidity: 43.4094238003 -- Pressure: 992.564446679 -- Temperature: 27.5444644541 -- Altitude: 173.65191894 
+GPS Timestamp: 17:39:50 -- Lat: 3326.91466 N -- Lon: 08405.69738 W -- Altitude: 250.8 M --Satellites: 12
+DME Timestamp: 2021-06-07 13:40:09.966684 -- Humidity: 43.4568299893 -- Pressure: 992.581028258 -- Temperature: 27.5546639034 -- Altitude: 173.511550496 
+GPS Timestamp: 17:39:51 -- Lat: 3326.91467 N -- Lon: 08405.69741 W -- Altitude: 250.9 M --Satellites: 12
+DME Timestamp: 2021-06-07 13:40:13.039551 -- Humidity: 43.4331445906 -- Pressure: 992.581028258 -- Temperature: 27.5546639034 -- Altitude: 173.511550496 
+GPS Timestamp: 17:39:52 -- Lat: 3326.91472 N -- Lon: 08405.69748 W -- Altitude: 251.1 M --Satellites: 12
+DME Timestamp: 2021-06-07 13:40:16.089079 -- Humidity: 43.3561318899 -- Pressure: 992.618641568 -- Temperature: 27.5444644541 -- Altitude: 173.193148669 
+GPS Timestamp: 17:39:53 -- Lat: 3326.91476 N -- Lon: 08405.69761 W -- Altitude: 251.1 M --Satellites: 12
+DME Timestamp: 2021-06-07 13:40:31.250677 -- Humidity: 43.5156643941 -- Pressure: 992.604871849 -- Temperature: 27.4526694629 -- Altitude: 173.309710091 
+GPS Timestamp: 17:40:31 -- Lat: 3326.91510 N -- Lon: 08405.69562 W -- Altitude: 266.2 M --Satellites: 11
+DME Timestamp: 2021-06-07 14:57:26.254935 -- Humidity: 43.2698064835 -- Pressure: 991.382268016 -- Temperature: 28.3859229335 -- Altitude: 183.664341598 
+GPS Timestamp: 18:57:26 -- Lat: 3326.91066 N -- Lon: 08405.70033 W -- Altitude: 290.2 M --Satellites: 12
+DME Timestamp: 2021-06-07 15:51:27.254941 -- Humidity: 44.2336670352 -- Pressure: 991.579510698 -- Temperature: 28.9927979063 -- Altitude: 181.993129604 
+GPS Timestamp: 19:51:27 -- Lat: 3326.92259 N -- Lon: 08405.70524 W -- Altitude: 233.4 M --Satellites: 12
+DME Timestamp: 2021-06-07 16:21:17.251248 -- Humidity: 43.7047024021 -- Pressure: 991.169707984 -- Temperature: 28.8908018245 -- Altitude: 185.465636962 
+GPS Timestamp: 20:21:17 -- Lat: 3326.91511 N -- Lon: 08405.70263 W -- Altitude: 247.0 M --Satellites: 12
+DME Timestamp: 2021-06-07 16:21:47.250042 -- Humidity: 43.8056554039 -- Pressure: 991.169707984 -- Temperature: 28.8908018245 -- Altitude: 185.465636962 
+GPS Timestamp: 20:21:47 -- Lat: 3326.91494 N -- Lon: 08405.70298 W -- Altitude: 247.0 M --Satellites: 11
+DME Timestamp: 2021-06-07 16:39:14.250965 -- Humidity: 44.7532537339 -- Pressure: 991.167846305 -- Temperature: 28.4879184391 -- Altitude: 185.481414755 
+GPS Timestamp: 20:39:14 -- Lat: 3326.91508 N -- Lon: 08405.70276 W -- Altitude: 258.3 M --Satellites: 12
+DME Timestamp: 2021-06-07 17:29:01.055500 -- Humidity: 42.455308672657296 -- Pressure: 991.303923460902 -- Temperature: 27.085490441322328 -- Altitude: 184.32821968890184 
+GPS Timestamp: 21:28:55 -- Lat: 3326.91648 N -- Lon: 08405.69932 W -- Altitude: 256.8 M --Satellites: 12
+GPS Timestamp: 21:30:29 -- Lat: 3326.91840 N -- Lon: 08405.69834 W -- Altitude: 259.3 M --Satellites: 12
+GPS Timestamp: 21:31:00 -- Lat: 3326.91868 N -- Lon: 08405.70060 W -- Altitude: 263.7 M --Satellites: 12
+GPS Timestamp: 21:42:59 -- Lat: 3326.91559 N -- Lon: 08405.70034 W -- Altitude: 251.4 M --Satellites: 11
+GPS Timestamp: 22:26:35 -- Lat: 3326.90973 N -- Lon: 08405.70850 W -- Altitude: 240.6 M --Satellites: 12
+GPS Timestamp: 22:33:54 -- Lat: 3326.91312 N -- Lon: 08405.70788 W -- Altitude: 255.3 M --Satellites: 12
+GPS Timestamp: 22:34:56 -- Lat: 3326.91579 N -- Lon: 08405.70696 W -- Altitude: 264.5 M --Satellites: 12
+GPS Timestamp: 22:44:13 -- Lat: 3326.91530 N -- Lon: 08405.69640 W -- Altitude: 261.6 M --Satellites: 12
+DME Timestamp: 2021-06-07 18:45:25.051832 -- Humidity: 40.25295582754242 -- Pressure: 991.4281593137151 -- Temperature: 25.31591270296485 -- Altitude: 183.27548647366442 
+GPS Timestamp: 22:45:19 -- Lat: 3326.91902 N -- Lon: 08405.69708 W -- Altitude: 253.0 M --Satellites: 12
+DME Timestamp: 2021-06-07 18:49:01.031138 -- Humidity: 40.45378372906085 -- Pressure: 991.3224810898206 -- Temperature: 25.168024507537485 -- Altitude: 184.17096173904886 
+GPS Timestamp: 22:48:55 -- Lat: 3326.91447 N -- Lon: 08405.70499 W -- Altitude: 275.2 M --Satellites: 12
+GPS Timestamp: 22:50:40 -- Lat: 3326.91349 N -- Lon: 08405.70512 W -- Altitude: 273.3 M --Satellites: 12
+GPS Timestamp: 22:51:59 -- Lat: 3326.91437 N -- Lon: 08405.70298 W -- Altitude: 260.7 M --Satellites: 12
+GPS Timestamp: 22:52:59 -- Lat: 3326.91377 N -- Lon: 08405.70193 W -- Altitude: 274.7 M --Satellites: 12
+DME Timestamp: 2021-06-07 18:54:04.116763 -- Humidity: 38.60758052263921 -- Pressure: 991.2745764038733 -- Temperature: 25.254717557929688 -- Altitude: 184.576912 
+GPS Timestamp: 22:53:58 -- Lat: 3326.91454 N -- Lon: 08405.70064 W -- Altitude: 297.2 M --Satellites: 12
+DME Timestamp: 2021-06-07 18:55:01.246408 -- Humidity: 38.83204677330034 -- Pressure: 991.2455908153775 -- Temperature: 25.203721635747932 -- Altitude: 184.822548 
+GPS Timestamp: 22:54:55 -- Lat: 3326.91636 N -- Lon: 08405.70044 W -- Altitude: 281.3 M --Satellites: 12
+DME Timestamp: 2021-06-07 18:56:54.947492 -- Humidity: 39.17990325038626 -- Pressure: 991.2330862904035 -- Temperature: 25.22921959320083 -- Altitude: 184.928518 
+GPS Timestamp: 22:56:49 -- Lat: 3326.92008 N -- Lon: 08405.70364 W -- Altitude: 291.0 M --Satellites: 12
+DME Timestamp: 2021-06-07 18:57:19.727893 -- Humidity: 39.120763799434414 -- Pressure: 991.25587513453 -- Temperature: 25.259817151748575 -- Altitude: 184.735394 
+GPS Timestamp: 22:57:14 -- Lat: 3326.91848 N -- Lon: 08405.70371 W -- Altitude: 282.1 M --Satellites: 12
+DME Timestamp: 2021-06-07 18:57:52.618066 -- Humidity: 39.509762089292536 -- Pressure: 991.174734898615 -- Temperature: 25.326111897878583 -- Altitude: 185.423034 
+GPS Timestamp: 22:57:46 -- Lat: 3326.91646 N -- Lon: 08405.70234 W -- Altitude: 272.0 M --Satellites: 12
+DME Timestamp: 2021-06-07 18:58:48.974586 -- Humidity: 39.62723498639688 -- Pressure: 991.2658346705808 -- Temperature: 25.448502327647294 -- Altitude: 184.650993 
+GPS Timestamp: 22:58:43 -- Lat: 3326.91666 N -- Lon: 08405.70024 W -- Altitude: 266.3 M --Satellites: 12
+DME Timestamp: 2021-06-07 19:01:54.350068 -- Humidity: 39.04118790544103 -- Pressure: 991.2543013326211 -- Temperature: 25.790176497981882 -- Altitude: 184.748731 
+GPS Timestamp: 23:01:48 -- Lat: 3326.91513 N -- Lon: 08405.69852 W -- Altitude: 282.6 M --Satellites: 12
+DME Timestamp: 2021-06-07 19:02:46.495832 -- Humidity: 39.09444997390401 -- Pressure: 991.2481475436805 -- Temperature: 25.769778003380633 -- Altitude: 184.800881 
+GPS Timestamp: 23:02:40 -- Lat: 3326.91491 N -- Lon: 08405.69968 W -- Altitude: 268.8 M --Satellites: 12
+GPS Timestamp: 23:07:48 -- Lat: 3326.92052 N -- Lon: 08405.69825 W -- Altitude: 247.6 M --Satellites: 12
+DME Timestamp: 2021-06-07 19:07:53.497092 -- Humidity: 39.21210502665971 -- Pressure: 991.2269988427548 -- Temperature: 25.85647163759568 -- Altitude: 184.980107 
+GPS Timestamp: 23:09:16 -- Lat: 3326.92384 N -- Lon: 08405.69858 W -- Altitude: 270.4 M --Satellites: 12
+DME Timestamp: 2021-06-07 19:09:21.775376 -- Humidity: 39.7733183584435 -- Pressure: 991.2687474872205 -- Temperature: 25.815674622781806 -- Altitude: 184.626309 
