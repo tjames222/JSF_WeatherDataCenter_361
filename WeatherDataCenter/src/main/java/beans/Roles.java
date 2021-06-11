@@ -1,5 +1,11 @@
 package beans;
 
+import javax.faces.bean.ManagedBean;
+import javax.faces.bean.ViewScoped;
+
+@SuppressWarnings("deprecation")
+@ManagedBean
+@ViewScoped
 public class Roles {
 
 	////////// Properties
@@ -26,7 +32,6 @@ public class Roles {
 		accessLevel = level;
 		// Logic to tie user to the role
 	}
-	
 
 	////////// Getters and Setters
 	public int getRoleId() {
