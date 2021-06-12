@@ -1,20 +1,17 @@
 package beans;
 
-import java.io.Serializable;
-
 import javax.faces.bean.ManagedBean;
 import javax.faces.bean.ViewScoped;
 import javax.validation.constraints.NotNull;
 import javax.validation.constraints.Size;
 
 @SuppressWarnings("deprecation")
-@ManagedBean(name="user")
+@ManagedBean
 @ViewScoped
-public class User implements Serializable {
+public class User {
 	
-
-	private static final long serialVersionUID = 1L;
 	////////// Properties
+	private int userId;
 	@NotNull()
 	@Size(min=5, max=50)
 	private String firstName;
@@ -33,6 +30,7 @@ public class User implements Serializable {
 	
 	///////// Constructors
 	public User() {
+		this.userId = 0;
 		this.firstName = "";
 		this.lastName = "";
 		this.username = "";
@@ -40,7 +38,8 @@ public class User implements Serializable {
 		this.email = "";
 	}
 	
-	public User(String fName, String lName, String uName, String pass, String email) {
+	public User(int id, String fName, String lName, String uName, String pass, String email) {
+		this.userId = id;
 		this.firstName = fName;
 		this.lastName = lName;
 		this.username = uName;
@@ -49,6 +48,14 @@ public class User implements Serializable {
 	}
 
 	////////// Getters and Setters
+	public int getUserId() {
+		return userId;
+	}
+
+	public void setUserId(int userId) {
+		this.userId = userId;
+	}
+
 	public String getFirstName() {
 		return firstName;
 	}
@@ -92,7 +99,7 @@ public class User implements Serializable {
 	////////// ToString() method
 	@Override
 	public String toString() {
-		return "User [userId=" + ", firstName=" + firstName + ", lastName=" + lastName + ", username="
+		return "User [userId=" + userId + ", firstName=" + firstName + ", lastName=" + lastName + ", username="
 				+ username + ", password=" + password + ", email=" + email + "]";
 	}
 }
