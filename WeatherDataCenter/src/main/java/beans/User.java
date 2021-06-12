@@ -1,17 +1,20 @@
 package beans;
 
+import java.io.Serializable;
+
 import javax.faces.bean.ManagedBean;
 import javax.faces.bean.ViewScoped;
 import javax.validation.constraints.NotNull;
 import javax.validation.constraints.Size;
 
 @SuppressWarnings("deprecation")
-@ManagedBean
+@ManagedBean(name="user")
 @ViewScoped
-public class User {
+public class User implements Serializable {
 	
+
+	private static final long serialVersionUID = 1L;
 	////////// Properties
-	private int userId;
 	@NotNull()
 	@Size(min=5, max=50)
 	private String firstName;
@@ -30,7 +33,6 @@ public class User {
 	
 	///////// Constructors
 	public User() {
-		this.userId = 0;
 		this.firstName = "";
 		this.lastName = "";
 		this.username = "";
@@ -38,8 +40,7 @@ public class User {
 		this.email = "";
 	}
 	
-	public User(int id, String fName, String lName, String uName, String pass, String email) {
-		this.userId = id;
+	public User(String fName, String lName, String uName, String pass, String email) {
 		this.firstName = fName;
 		this.lastName = lName;
 		this.username = uName;
@@ -48,14 +49,6 @@ public class User {
 	}
 
 	////////// Getters and Setters
-	public int getUserId() {
-		return userId;
-	}
-
-	public void setUserId(int userId) {
-		this.userId = userId;
-	}
-
 	public String getFirstName() {
 		return firstName;
 	}
@@ -99,7 +92,7 @@ public class User {
 	////////// ToString() method
 	@Override
 	public String toString() {
-		return "User [userId=" + userId + ", firstName=" + firstName + ", lastName=" + lastName + ", username="
+		return "User [userId=" + ", firstName=" + firstName + ", lastName=" + lastName + ", username="
 				+ username + ", password=" + password + ", email=" + email + "]";
 	}
 }
