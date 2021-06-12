@@ -24,18 +24,12 @@ public class Sensors {
 	
 	////////// Constructors
 	public Sensors() {
-
+		super();
 	}
 	
-<<<<<<< HEAD
-	public Sensors(int sensorId, String dtStamp, int temperature, int humidity, float pressure, int altitude,
-			String gpsLocation) {
-
-=======
 	public Sensors(int sensorId, String dtStamp, String temperature, String humidity, String pressure, String altitude,
 			String gpsLat, String gpsLatDir, String gpsLong, String gpsLongDir, String gpsAltitude, String gpsNumSat) {
 		super();
->>>>>>> branch 'TempTestBranch' of https://github.com/smoncavage/CLC361_IoT_Code.git
 		this.sensorId = sensorId;
 		this.dtStamp = dtStamp;
 		this.temperature = temperature;
