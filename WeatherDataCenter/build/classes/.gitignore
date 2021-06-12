@@ -1,2 +1,5 @@
-/data/
-/model/
+/beans/
+/business/
+/controllers/
+/dao/
+/utilities/

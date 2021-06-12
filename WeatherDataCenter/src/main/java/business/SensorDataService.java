@@ -1,16 +1,17 @@
-package data;
+package business;
 
 import java.util.ArrayList;
 import java.util.List;
-import javax.faces.bean.ManagedBean;
-import model.Sensor;
+
+import beans.Sensors;
+import dao.DataAccessInterface;
 
 public class SensorDataService implements DataAccessInterface{
 	Object t;
 	
 	@Override
-	public List<Sensor> findAll() {
-		List<Sensor> sensorData = new ArrayList<Sensor>();
+	public List<Sensors> findAll() {
+		List<Sensors> sensorData = new ArrayList<Sensors>();
 		return sensorData;
 	}
 
