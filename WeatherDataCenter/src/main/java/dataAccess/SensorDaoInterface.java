@@ -6,5 +6,5 @@ import beans.Sensors;
 
 public interface SensorDaoInterface {
 
-	public List<Sensors> create(Sensors record);
+	public List<Sensors> getAllSensorData(Sensors record);
 }

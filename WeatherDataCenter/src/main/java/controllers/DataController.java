@@ -20,14 +20,12 @@ public class DataController implements Serializable{
 	
 	public String handleSearch(Sensors record)
 	{
-		System.out.println("Handle Search Method is running =========================================");
-		
 		try 
 		{
 			
 			service = new WeatherBusinessClass();
 			
-			List<Sensors> results = service.searchForSensors(record);
+			List<Sensors> results = service.getAllSensorData(record);
 			if (results.size() > 0)
 			{
 				//LineChartBean lineChartBean = new LineChartBean(result);

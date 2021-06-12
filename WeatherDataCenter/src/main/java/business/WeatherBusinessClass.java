@@ -10,11 +10,11 @@ public class WeatherBusinessClass {
 	
 	DataWeatherService service;
 	
-	public List<Sensors> searchForSensors(Sensors record){
+	public List<Sensors> getAllSensorData(Sensors record){
 		
 		
 		 service = new DataWeatherService(); 
-		 return service.create(record);
+		 return service.getAllSensorData(record);
 		 
 	
 		

@@ -21,7 +21,7 @@ public class DataWeatherService implements SensorDaoInterface{
 	}
 
 	@Override
-	public List<Sensors> create(Sensors record) {
+	public List<Sensors> getAllSensorData(Sensors record) {
 		
 		Connection conn = null;
 		String url = "jdbc:mysql://webdisk.clc361gp.heliohost.us/clc361gp_clc361_group";
