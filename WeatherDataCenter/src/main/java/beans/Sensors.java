@@ -19,12 +19,12 @@ public class Sensors {
 	
 	////////// Constructors
 	public Sensors() {
-		super();
+
 	}
 	
 	public Sensors(int sensorId, String dtStamp, int temperature, int humidity, float pressure, int altitude,
 			String gpsLocation) {
-		super();
+
 		this.sensorId = sensorId;
 		this.dtStamp = dtStamp;
 		this.temperature = temperature;
