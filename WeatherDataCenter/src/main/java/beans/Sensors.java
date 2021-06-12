@@ -9,18 +9,19 @@ import javax.faces.bean.ViewScoped;
 public class Sensors {
 	
 	////////// Properties
-	private int sensorId;
-	private String dtStamp;
-	private String temperature;
-	private String humidity;
-	private String pressure;
-	private String altitude;
-	private String gpsLat;
-	private String gpsLatDir;
-	private String gpsLong;
-	private String gpsLongDir;
-	private String gpsAltitude;
-	private String gpsNumSat;
+	public int sensorId;
+	public String dtStamp;
+	public String temperature;
+	public String humidity;
+	public String pressure;
+	public String altitude;
+	public String gpsTimeStamp;
+	public String gpsLat;
+	public String gpsLatDir;
+	public String gpsLong;
+	public String gpsLongDir;
+	public String gpsAltitude;
+	public String gpsNumSat;
 	
 	////////// Constructors
 	public Sensors() {
@@ -82,6 +83,14 @@ public class Sensors {
 	public void setAltitude(String altitude) {
 		this.altitude = altitude;
 	}
+	public String getGpsTimeStamp() {
+		return gpsTimeStamp;
+	}
+
+	public void setGpsTimeStamp(String gpsTimeStamp) {
+		this.gpsTimeStamp = gpsTimeStamp;
+	}
+
 	public String getGpsLat() {
 		return gpsLat;
 	}

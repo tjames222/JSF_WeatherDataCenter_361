@@ -4,8 +4,74 @@
       xmlns:f="http://java.sun.com/jsf/core"
       xmlns:h="http://java.sun.com/jsf/html"> 
 
-<h:head></h:head> 
-<body> 
-
-</body> 
+<ui:composition template="layouts/layout.xhtml">
+	
+		<ui:define name="title">Login</ui:define>
+	
+		<ui:define name="header">
+			<div class="header">
+				
+				<h3>Weather Data</h3><br/><br/>
+			</div>
+		</ui:define>
+	
+		<ui:define name="content" align="center">
+			
+			<ui:insert name="content">
+             <h1>Search Results</h1>
+             <h:dataTable value = "#{results}" var = "data">
+                <h:column>    				
+			      <f:facet name = "header">Sensor ID</f:facet>    				
+			      #{data.sensorId}
+			   </h:column>
+			   <h:column>    				
+			      <f:facet name = "header">Date</f:facet>    				
+			      #{data.dtStamp}
+			   </h:column>
+			   <h:column>
+			      <f:facet name = "header">Temperature</f:facet>
+			      #{data.temperature}
+			   </h:column>
+			   <h:column>
+			      <f:facet name = "header">Humidity</f:facet>
+			      #{data.humidity}
+			   </h:column>
+			   <h:column>
+			      <f:facet name = "header">Pressure</f:facet>
+			      #{data.pressure}
+			   </h:column>
+			      <h:column>
+			      <f:facet name = "header">Pressure Based Altitude</f:facet>
+			      #{data.altitude}
+			   </h:column>
+			      <h:column>
+			      <f:facet name = "header">GPS Lattitude</f:facet>
+			      #{data.gpsLat}
+			   </h:column>
+			      <h:column>
+			      <f:facet name = "header">GPS Lattitude Direction</f:facet>
+			      #{data.gpsLatDir}
+			   </h:column>
+			      <h:column>
+			      <f:facet name = "header">GPS Longitude</f:facet>
+			      #{data.gpsLong}
+			   </h:column>
+			      <h:column>
+			      <f:facet name = "header">GPS Longitude Direction</f:facet>
+			      #{data.gpsLongDir}
+			   </h:column>
+			      <h:column>
+			      <f:facet name = "header">GPS Altitude</f:facet>
+			      #{data.gpsAlt}
+			   </h:column>
+			      <h:column>
+			      <f:facet name = "header">GPS Number of Sattellites</f:facet>
+			      #{data.gpsNumSat}
+			   </h:column>
+			</h:dataTable>
+			<!-- <h2>Graph view</h2>
+    		<p:chart type="line" model="#{lineChartBean.lineModel}" style="height:400px;width:600px"/> -->
+             </ui:insert>
+		</ui:define>
+	</ui:composition>
 </html>
