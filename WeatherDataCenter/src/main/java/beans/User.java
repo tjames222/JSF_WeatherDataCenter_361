@@ -14,7 +14,7 @@ public class User implements Serializable {
 	
 
 	private static final long serialVersionUID = 1L;
-	////////// Properties
+	/////////// Properties
 	@NotNull()
 	@Size(min=5, max=50)
 	private String firstName;
