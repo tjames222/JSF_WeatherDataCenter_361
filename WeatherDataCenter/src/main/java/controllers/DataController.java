@@ -9,6 +9,7 @@ import javax.faces.context.FacesContext;
 import beans.Sensors;
 import business.WeatherBusinessService;
 
+@SuppressWarnings("deprecation")
 @ManagedBean
 @ViewScoped
 public class DataController implements Serializable{
@@ -17,14 +18,14 @@ public class DataController implements Serializable{
 	private static final long serialVersionUID = 1L;
 	WeatherBusinessService service;
 	
-	public String handleSearch(Sensors record){
+	public String handleSearch(){
 		System.out.println("You have not reach try.");
 		try 
 		{
 			System.out.println("There is no try.");
 			service = new WeatherBusinessService();
 			
-			List<Sensors> results = service.getAllSensorData(record);
+			List<Sensors> results = service.getAllSensorData();
 			if (results.size() > 0)
 			{
 				//LineChartBean lineChartBean = new LineChartBean(result);

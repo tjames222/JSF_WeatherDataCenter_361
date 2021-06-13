@@ -8,8 +8,15 @@ import java.sql.Statement;
 import java.util.ArrayList;
 import java.util.List;
 
+
+import javax.faces.bean.ManagedBean;
+import javax.faces.bean.ViewScoped;
+
 import beans.Sensors;
 
+@SuppressWarnings("deprecation")
+@ManagedBean
+@ViewScoped
 public class DataWeatherService implements SensorDaoInterface{
 
 	// Connect
@@ -18,9 +25,11 @@ public class DataWeatherService implements SensorDaoInterface{
 	public DataWeatherService() {
 	
 	}
+	
+	List<Sensors> myList; 
 
 	@Override
-	public List<Sensors> getAllSensorData(Sensors record) {
+	public List<Sensors> getAllSensorData() {
 		
 		Connection conn = null;
 		String url = "jdbc:mysql://webdisk.clc361gp.heliohost.us/clc361gp_clc361_group";
@@ -28,9 +37,7 @@ public class DataWeatherService implements SensorDaoInterface{
 		String password = "Group_CLC361";
 		
 		String sql = "SELECT * FROM Sensors";
-		
-		List<Sensors> myList = new ArrayList<Sensors>();
-		
+			
 		try {
 			
 			conn = DriverManager.getConnection(url, username, password);
@@ -53,6 +60,7 @@ public class DataWeatherService implements SensorDaoInterface{
 		        sensorData.gpsLongDir=rs.getString("GPSLongDir");
 		        sensorData.gpsAltitude=rs.getString("GPSAltitude");
 		        sensorData.gpsNumSat=rs.getString("GPSNumSat");
+		        //sensorData.sensorData.add(sensorData);
 		        myList.add(sensorData);
 			}    
 			//Add Sensor Data to List
@@ -78,9 +86,5 @@ public class DataWeatherService implements SensorDaoInterface{
 			}
 		}
 		return myList;
-		
 	}
-	
-	
-	
 }

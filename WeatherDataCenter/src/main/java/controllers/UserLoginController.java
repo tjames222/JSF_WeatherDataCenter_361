@@ -9,6 +9,7 @@ import javax.inject.Inject;
 import beans.User;
 import business.UserAuthenticationInterface;
 
+@SuppressWarnings("deprecation")
 @ManagedBean
 @ViewScoped
 public class UserLoginController {

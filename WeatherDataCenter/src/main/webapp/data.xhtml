@@ -16,10 +16,36 @@
 		</ui:define>
 	
 		<ui:define name="content" align="center">
+			 hal<br/>
+			 #{sensorCreationController.init()}
+			 #{sensorCreationController.sensors.get(1).altitude.toString()}
+			 #{sensor.altitude}
+			 #{sensorCreationController.sensors.get(4).toString()}
+			 
+			<ul>
+    			<ui:repeat value="#{sensorCreationController.sensors}" var="sensors">
+        			<li>
+        				
+            			<h:button value="#{sensor.toString()}" outcome="data.xhtml?id=#{sensors.sensorId}"></h:button>
+        			</li>
+   				</ui:repeat>
+			</ul>
 			
 			
+			
+			#{dataWeatherService.allSensorData.get(1).toString()}
+			#{dataWeatherService.allSensorData.get(5)}
+			
+			
+			
+			
+			
+			
+			
+			
+			  
              <h1 align="center">Search Results</h1>
-             <h:dataTable value = "#{results}" var = "data">
+             <h:dataTable value = "#{dataWeatherService.allSensorData}" var = "data">
                 <h:column>    				
 			      <f:facet name = "header">Sensor ID</f:facet>    				
 			      #{data.sensorId}
@@ -69,8 +95,8 @@
 			      #{data.gpsNumSat}
 			   </h:column>
 			</h:dataTable>
-			<!-- <h2>Graph view</h2>
-    		<p:chart type="line" model="#{lineChartBean.lineModel}" style="height:400px;width:600px"/> -->
+			<h2>Graph view</h2>
+    		<!--  <p:chart type="line" model="#{lineChartBean.lineModel}" style="height:400px;width:600px"/>-->
              
 		</ui:define>
 	</ui:composition>

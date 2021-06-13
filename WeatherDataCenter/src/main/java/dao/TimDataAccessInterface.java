@@ -10,7 +10,7 @@ import javax.ejb.Local;
 @Local
 public interface TimDataAccessInterface<T> {
 	
-	public static final String dbURL = "webdisk.clc361gp.heliohost.us"; 
+	public static final String dbURL = "jdbc:mysql://webdisk.clc361gp.heliohost.us/clc361gp_clc361_group"; 
 	public static final String username = "clc361gp_group"; 
 	public static final String password = "Group_CLC361"; 
 			

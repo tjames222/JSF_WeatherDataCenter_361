@@ -11,8 +11,8 @@ public class WeatherBusinessService {
 	
 	DataWeatherService service;
 	
-	public List<Sensors> getAllSensorData(Sensors record){
+	public List<Sensors> getAllSensorData(){
 		 service = new DataWeatherService(); 
-		 return service.getAllSensorData(record);
+		 return service.getAllSensorData();
 	}
 }
