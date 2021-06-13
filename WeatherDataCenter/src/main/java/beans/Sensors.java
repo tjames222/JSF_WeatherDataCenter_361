@@ -29,7 +29,7 @@ public class Sensors {
 	}
 	
 	public Sensors(int sensorId, String dtStamp, String temperature, String humidity, String pressure, String altitude,
-			String gpsLat, String gpsLatDir, String gpsLong, String gpsLongDir, String gpsAltitude, String gpsNumSat) {
+			String gpstime, String gpsLat, String gpsLatDir, String gpsLong, String gpsLongDir, String gpsAltitude, String gpsNumSat) {
 		super();
 		this.sensorId = sensorId;
 		this.dtStamp = dtStamp;
@@ -37,6 +37,7 @@ public class Sensors {
 		this.humidity = humidity;
 		this.pressure = pressure;
 		this.altitude = altitude;
+		this.gpsTimeStamp = gpstime;
 		this.gpsLat = gpsLat;
 		this.gpsLatDir = gpsLatDir;
 		this.gpsLong = gpsLong;

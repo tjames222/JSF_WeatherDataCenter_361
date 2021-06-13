@@ -28,7 +28,7 @@ public class DataWeatherService implements SensorDaoInterface{
 		String password = "Group_CLC361";
 		
 		String sql = "SELECT * FROM Sensors";
-		Sensors sensorData = new Sensors();
+		
 		List<Sensors> myList = new ArrayList<Sensors>();
 		
 		try {
@@ -38,23 +38,27 @@ public class DataWeatherService implements SensorDaoInterface{
 			ResultSet rs = stmt.executeQuery(sql);
 			
 			while (rs.next()){
-		        int id = rs.getInt("Sensor_ID");
-		        sensorData.dtStamp = rs.getString("DTStamp");
-		        sensorData.temperature = rs.getString("Temperature");
-		        sensorData.humidity = rs.getString("Humidity");
-		        sensorData.pressure = rs.getString("Pressure");
-		        sensorData.altitude = rs.getString("Altitude");
-		        sensorData.gpsTimeStamp = rs.getString("GPSTimeStamp");
-		        sensorData.gpsLat = rs.getString("GPSLat");
-		        sensorData.gpsLatDir = rs.getString("GPSLatDir");
-		        sensorData.gpsLong = rs.getString("GPSLong");
-		        sensorData.gpsLongDir = rs.getString("GPSLongDir");
-		        sensorData.gpsAltitude = rs.getString("GPSAltitude");
-		        sensorData.gpsNumSat = rs.getString("GPSNumSat");
+				Sensors sensorData = new Sensors();
+		        //int id = rs.getInt("Sensor_ID");
+		        sensorData.sensorId=rs.getInt("Sensor_ID");
+		        sensorData.dtStamp=rs.getString("DTStamp");
+		        sensorData.temperature=rs.getString("Temperature");
+		        sensorData.humidity=rs.getString("Humidity");
+		        sensorData.pressure=rs.getString("Pressure");
+		        sensorData.altitude=rs.getString("Altitude");
+		        sensorData.gpsTimeStamp=rs.getString("GPSTimeStamp");
+		        sensorData.gpsLat=rs.getString("GPSLat");
+		        sensorData.gpsLatDir=rs.getString("GPSLatDir");
+		        sensorData.gpsLong=rs.getString("GPSLong");
+		        sensorData.gpsLongDir=rs.getString("GPSLongDir");
+		        sensorData.gpsAltitude=rs.getString("GPSAltitude");
+		        sensorData.gpsNumSat=rs.getString("GPSNumSat");
+		        myList.add(sensorData);
 			}    
 			//Add Sensor Data to List
-			myList.add(sensorData);
+			
 			rs.close();
+			return myList;
 		}
 		catch (SQLException e){
 			System.out.println("FAILED TO EXECUTE QUERY");
@@ -73,7 +77,7 @@ public class DataWeatherService implements SensorDaoInterface{
 				}
 			}
 		}
-		return null;
+		return myList;
 		
 	}
 	
