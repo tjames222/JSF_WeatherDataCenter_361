@@ -24,13 +24,8 @@ public class Sensors {
 	public String gpsLongDir;
 	public String gpsAltitude;
 	public String gpsNumSat;
-<<<<<<< Updated upstream
-	public List<Sensors> sensorData;
-	
-=======
-	//public List<Sensors> sensorData;
+	// public List<Sensors> sensorData;
 
->>>>>>> Stashed changes
 	////////// Constructors
 	public Sensors() {
 		super();
@@ -143,14 +138,6 @@ public class Sensors {
 		this.sensorData = sensorData;
 	}
 	*/
-	
-	public List<Sensors> getSensorData() {
-		return sensorData;
-	}
-
-	public void setSensorData(List<Sensors> sensorData) {
-		this.sensorData = sensorData;
-	}
 
 	///////// ToString() Method
 	@Override
