@@ -1,5 +1,7 @@
 package beans;
 
+import java.util.List;
+
 import javax.faces.bean.ManagedBean;
 import javax.faces.bean.ViewScoped;
 
@@ -22,6 +24,7 @@ public class Sensors {
 	public String gpsLongDir;
 	public String gpsAltitude;
 	public String gpsNumSat;
+	public List<Sensors> sensorData;
 	
 	////////// Constructors
 	public Sensors() {
@@ -129,6 +132,14 @@ public class Sensors {
 		this.gpsNumSat = gpsNumSat;
 	}
 	
+	public List<Sensors> getSensorData() {
+		return sensorData;
+	}
+
+	public void setSensorData(List<Sensors> sensorData) {
+		this.sensorData = sensorData;
+	}
+
 	///////// ToString() Method
 	@Override
 	public String toString() {
