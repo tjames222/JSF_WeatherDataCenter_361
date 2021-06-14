@@ -1,15 +1,25 @@
 package beans;
 
+import java.io.Serializable;
+import java.sql.PreparedStatement;
+import java.sql.ResultSet;
+import java.util.ArrayList;
 import java.util.List;
 
 import javax.faces.bean.ManagedBean;
-import javax.faces.bean.ViewScoped;
+import javax.faces.bean.SessionScoped;
+
+import dao.DBM;
 
 @SuppressWarnings("deprecation")
 @ManagedBean(name="sensor")
-@ViewScoped
-public class Sensors {
+@SessionScoped
+public class Sensors implements Serializable {
 	
+	/**
+	 * 
+	 */
+	private static final long serialVersionUID = -7046135272231648454L;
 	////////// Properties
 	public int sensorId;
 	public String dtStamp;
@@ -24,7 +34,7 @@ public class Sensors {
 	public String gpsLongDir;
 	public String gpsAltitude;
 	public String gpsNumSat;
-	// public List<Sensors> sensorData;
+	public List<Sensors> sensorData;
 
 	////////// Constructors
 	public Sensors() {
@@ -131,13 +141,35 @@ public class Sensors {
 	public void setGpsNumSat(String gpsNumSat) {
 		this.gpsNumSat = gpsNumSat;
 	}
-	/*public List<Sensors> getSensorData() {
+	public List<Sensors> getSensorData() throws Exception {
+		sensorData = new ArrayList<Sensors>();
+        PreparedStatement preState = null;
+        ResultSet resultSet        = null;
+        DBM dbm = new DBM();
+		try {
+            String sql = "SELECT * FROM Sensors";
+            preState   = dbm.initConnection().prepareStatement(sql); 
+            resultSet  = preState.executeQuery();
+            while (resultSet.next()) {
+                sensorData.add( new Sensors(resultSet.getInt(1),resultSet.getString(2),resultSet.getString(3), resultSet.getString(4),
+                		resultSet.getString(5), resultSet.getString(6), resultSet.getString(7), resultSet.getString(8), resultSet.getString(9), 
+                		resultSet.getString(10), resultSet.getString(11), resultSet.getString(12), resultSet.getString(13)) );                
+            }
+        }catch (Exception e) {
+            e.printStackTrace();
+        }finally{
+            if( preState != null )
+                preState.close();
+            if( dbm.connection != null )
+                dbm.connection.close();         
+        }
 		return sensorData;
 	}
 	public void setSensorData(List<Sensors> sensorData) {
+		sensorData.add(new Sensors(this.sensorId, this.dtStamp, this.temperature, this.humidity, this.pressure,
+				this.altitude, this.gpsTimeStamp, this.gpsLat, this.gpsLatDir, this.gpsLong, this.gpsLongDir, this.gpsAltitude, this.gpsNumSat));
 		this.sensorData = sensorData;
 	}
-	*/
 
 	///////// ToString() Method
 	@Override

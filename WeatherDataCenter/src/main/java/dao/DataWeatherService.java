@@ -28,18 +28,18 @@ public class DataWeatherService implements SensorDaoInterface{
 	
 	List<Sensors> myList; 
 
-	@Override
+
 	public List<Sensors> getAllSensorData() {
 		
 		Connection conn = null;
-		String url = "jdbc:mysql://webdisk.clc361gp.heliohost.us/clc361gp_clc361_group";
+		String url = "jdbc:mysql://webdisk.clc361gp.heliohost.us/clc361gp_clc361_java";
 		String username = "clc361gp_group";
 		String password = "Group_CLC361";
 		
 		String sql = "SELECT * FROM Sensors";
 			
 		try {
-			
+			Class.forName("com.mysql.cj.jdbc.Driver");
 			conn = DriverManager.getConnection(url, username, password);
 			Statement stmt = conn.createStatement();
 			ResultSet rs = stmt.executeQuery(sql);
@@ -68,7 +68,7 @@ public class DataWeatherService implements SensorDaoInterface{
 			rs.close();
 			return myList;
 		}
-		catch (SQLException e){
+		catch (SQLException | ClassNotFoundException e){
 			System.out.println("FAILED TO EXECUTE QUERY");
 			System.out.println(e);
 			e.printStackTrace();

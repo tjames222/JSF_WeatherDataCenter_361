@@ -6,8 +6,21 @@
     http://xmlns.jcp.org/xml/ns/javaee/web-facesconfig_2_3.xsd"
     version="2.3">
 	<managed-bean>
-		<managed-bean-name>DataController</managed-bean-name>
+		<managed-bean-name>dataController1</managed-bean-name>
 		<managed-bean-class>controllers.DataController</managed-bean-class>
-		<managed-bean-scope>view</managed-bean-scope>	
+		<managed-bean-scope>session</managed-bean-scope>
 	</managed-bean>
+	<managed-bean>
+		<managed-bean-name>sensorBean</managed-bean-name>
+		<managed-bean-class>beans.SensorBean</managed-bean-class>
+		<managed-bean-scope>request</managed-bean-scope>
+	</managed-bean>
+	<navigation-rule>
+		<from-view-id>/CurrentWeather.xhtml</from-view-id>
+		<navigation-case>
+			<from-action>#{dataController.handleSearch(record)}</from-action>
+			<from-outcome>success</from-outcome>
+			<to-view-id>/data.xhtml</to-view-id>
+		</navigation-case>
+	</navigation-rule>
 </faces-config>

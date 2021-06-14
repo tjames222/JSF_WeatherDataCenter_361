@@ -9,13 +9,13 @@ import javax.faces.context.FacesContext;
 import beans.Sensors;
 import business.WeatherBusinessService;
 
-@SuppressWarnings("deprecation")
+
 @ManagedBean
 @ViewScoped
-public class DataController implements Serializable{
+public class DataController{
 
 	
-	private static final long serialVersionUID = 1L;
+
 	WeatherBusinessService service;
 	
 	public String handleSearch(){
@@ -29,7 +29,7 @@ public class DataController implements Serializable{
 			if (results.size() > 0)
 			{
 				//LineChartBean lineChartBean = new LineChartBean(result);
-				FacesContext.getCurrentInstance().getExternalContext().getRequestMap().put("results", results);
+				FacesContext.getCurrentInstance().getExternalContext().getRequestMap().put("data", results);
 				
 				return "data.xhtml";
 			}
@@ -40,7 +40,7 @@ public class DataController implements Serializable{
 		}
 		catch (Exception e)
 		{
-			return "Error.xhtml";
+			return "ExceptionError.xhtml";
 		}
 	}
 }

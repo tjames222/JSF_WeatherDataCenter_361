@@ -10,6 +10,7 @@ import javax.inject.Inject;
 
 import beans.Sensors;
 import business.SensorBusinessInterface;
+import controllers.DataController;
 
 @SuppressWarnings("deprecation")
 @ManagedBean
