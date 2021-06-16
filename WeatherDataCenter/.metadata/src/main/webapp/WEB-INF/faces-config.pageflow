@@ -1,6 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<pageflow:Pageflow xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:pageflow="http://www.sybase.com/suade/pageflow" id="pf16235413803930" configfile="/WeatherDataCenter/src/main/webapp/WEB-INF/faces-config.xml">
-  <nodes xsi:type="pageflow:PFPage" name="CurrentWeather.xhtml" x="122" y="178" id="pf16236858435320" referenceLink="//@navigationRule.0/@fromViewId|" outlinks="pf16236858435321" path="/CurrentWeather.xhtml"/>
-  <nodes xsi:type="pageflow:PFPage" name="data.xhtml" x="338" y="178" id="pf16236858435322" referenceLink="//@navigationRule.0/@navigationCase.0/@toViewId|" inlinks="pf16236858435321" path="/data.xhtml"/>
-  <links id="pf16236858435321" target="pf16236858435322" source="pf16236858435320" outcome="success" fromaction="#{dataController.handleSearch(record)}"/>
-</pageflow:Pageflow>
