@@ -43,6 +43,11 @@
 	</natures>
 	<linkedResources>
 		<link>
+			<name>WebContent/WEB-INF/data.xhtml</name>
+			<type>1</type>
+			<location>C:/GitReps/CLC361_IoT_Code/WeatherDataCenter/WebContent/data.xhtml</location>
+		</link>
+		<link>
 			<name>WebContent/WEB-INF/lib/mysql-connector-java-8.0.25.jar</name>
 			<type>1</type>
 			<location>C:/Program Files/Java/mysql-connector-java-8.0.25.jar</location>

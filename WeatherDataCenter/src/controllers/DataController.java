@@ -22,7 +22,7 @@ public class DataController{
 		System.out.println("You have not reach try.");
 		try 
 		{
-			System.out.println("There is no try.");
+			System.out.println("There is no try. DataController.java");
 			service = new WeatherBusinessService();
 			
 			List<Sensors> results = service.getAllSensorData();

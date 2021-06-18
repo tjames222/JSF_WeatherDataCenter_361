@@ -28,11 +28,11 @@ public class DBM implements Serializable{
 
     private void init()throws Exception{
         FacesContext fc = FacesContext.getCurrentInstance();
-        db_server   = fc.getExternalContext().getInitParameter("DB-SERVER");
-        db_user     = fc.getExternalContext().getInitParameter("DB-USER");
-        db_password = fc.getExternalContext().getInitParameter("DB-PASSWORD");
+        db_server   = "jdbc:mysql://webdisk.clc361gp.heliohost.us/clc361gp_clc361_group?useSSL=false";
+        db_user     = "clc361gp_java";
+        db_password = "Group_CLC361";
         db_driver   = fc.getExternalContext().getInitParameter("JDBC-DRIVER");
-        Class.forName(db_driver);
+        //Class.forName(db_driver);
     }   
 
     public Connection initConnection() throws Exception{
