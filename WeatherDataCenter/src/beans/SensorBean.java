@@ -28,16 +28,17 @@ public class SensorBean implements Serializable{
 		String user = "clc361gp_java";
 	    String password = "Group_CLC361";
 	    
-	    //try {
-	    	System.out.println("inside of try portion of block in sensor bean.");
+	    try {
+	    	//System.out.println("inside of try portion of block in sensor bean.");
 	    	//Class.forName("com.mysql.jdbc.Driver");
 	    	
 	    	connect = DriverManager.getConnection(url, user, password);
-	    	System.out.println("Connection Established.");
-	    //} catch(SQLException ex) {
-	    //	System.out.println("in sql exception.");
-	    //	System.out.println(ex.getMessage());
-	   // }
+	    	//System.out.println("Connection Established.");
+	    } catch(SQLException ex) {
+	    	System.out.println("in sql exception.");
+	    	System.out.println(ex.getMessage());
+	    	ex.printStackTrace();
+	    }
 	    
 	    List<Sensor> sensorList = new ArrayList<Sensor>();
 	    String query = "SELECT * FROM Sensors";
@@ -66,12 +67,12 @@ public class SensorBean implements Serializable{
 	    	 sensor.setGpsNumSat(rs.getString("GPSNumSat"));
 	    	 sensorList.add(sensor);
 	     }
-	     for(int x = 0; x < sensorList.size(); x++) {
-	    	  System.out.format("%s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s\n", sensorList.get(x).getSensorId(), sensorList.get(x).getDtStamp(), 
-	    			  sensorList.get(x).getTemperature(), sensorList.get(x).getHumidity(), sensorList.get(x).getPressure(), sensorList.get(x).getAltitude(), 
-	    			  sensorList.get(x).getGpsTimeStamp(), sensorList.get(x).getGpsLat(), sensorList.get(x).getGpsLatDir(), sensorList.get(x).getGpsLong(), 
-	    			  sensorList.get(x).getGpsLongDir(), sensorList.get(x).getGpsAltitude(), sensorList.get(x).getGpsNumSat());
-	      }
+//	     for(int x = 0; x < sensorList.size(); x++) {
+//	    	  System.out.format("%s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s\n", sensorList.get(x).getSensorId(), sensorList.get(x).getDtStamp(), 
+//	    			  sensorList.get(x).getTemperature(), sensorList.get(x).getHumidity(), sensorList.get(x).getPressure(), sensorList.get(x).getAltitude(), 
+//	    			  sensorList.get(x).getGpsTimeStamp(), sensorList.get(x).getGpsLat(), sensorList.get(x).getGpsLatDir(), sensorList.get(x).getGpsLong(), 
+//	    			  sensorList.get(x).getGpsLongDir(), sensorList.get(x).getGpsAltitude(), sensorList.get(x).getGpsNumSat());
+//	      }
 	     rs.close();
 	     connect.close();
 	     return sensorList;

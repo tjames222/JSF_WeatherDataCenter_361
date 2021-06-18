@@ -1,5 +1,6 @@
 #Compiled Class Files
 *.class
+*.metadata
 
 # Log file
 *.log
