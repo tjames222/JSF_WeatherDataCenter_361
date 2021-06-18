@@ -29,7 +29,7 @@ public class DataController{
 			if (results.size() > 0)
 			{
 				//LineChartBean lineChartBean = new LineChartBean(result);
-				FacesContext.getCurrentInstance().getExternalContext().getRequestMap().put("data", results);
+				FacesContext.getCurrentInstance().getExternalContext().getRequestMap().put("results", results);
 				
 				return "data.xhtml";
 			}

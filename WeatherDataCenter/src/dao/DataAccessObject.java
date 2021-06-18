@@ -17,7 +17,7 @@ public class DataAccessObject {
 		boolean success = false;
 		try{
 	      // create our mysql database connection
-		  Class.forName("com.mysql.cj.jdbc.Driver");
+		  Class.forName("com.mysql.jdbc.Driver").newInstance();
 	      String host = "jdbc:mysql://webdisk.clc361gp.heliohost.us/clc361gp_clc361_group?useSSL=false";
 	      String user = "clc361gp_java";
 	      String password = "Group_CLC361";

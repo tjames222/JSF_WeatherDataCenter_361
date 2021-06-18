@@ -6,6 +6,7 @@ import java.sql.DriverManager;
 import java.sql.Statement;
 import java.sql.ResultSet;
 import java.sql.SQLException;
+import java.sql.JDBCType;
 import java.util.ArrayList;
 import java.util.List;
 import javax.faces.bean.ManagedBean;
@@ -24,12 +25,12 @@ public class SensorBean implements Serializable{
 		System.out.println("inside of get sensor list method in sensor bean.");
 		Connection connect = null;
 		String url = "jdbc:mysql://webdisk.clc361gp.heliohost.us/clc361gp_clc361_group?useSSL=false";
-		String user = "clc361gp_group";
+		String user = "clc361gp_java";
 	    String password = "Group_CLC361";
 	    
 	    //try {
 	    	System.out.println("inside of try portion of block in sensor bean.");
-	    	Class.forName("com.mysql.cj.jdbc.Driver");
+	    	//Class.forName("com.mysql.jdbc.Driver");
 	    	
 	    	connect = DriverManager.getConnection(url, user, password);
 	    	System.out.println("Connection Established.");

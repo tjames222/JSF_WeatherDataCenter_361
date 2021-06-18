@@ -5,6 +5,8 @@
 	xmlns:ui="http://xmlns.jcp.org/jsf/facelets"
 	xmlns:h="http://xmlns.jcp.org/jsf/html"
 	xmlns:f="http://xmlns.jcp.org/jsf/core">
+	
+	
 <h:head>
         <meta http-equiv="Content-Type" 
               content="text/html; charset=UTF-8" />
@@ -21,7 +23,7 @@
              <ui:insert name="content">
              <h1>See Current Weather Data</h1>
 	             <h:form>
-	             	<h:commandButton action="#{dataController.handleSearch(record)}" class = "button" value="Sign In" />
+	             	<h:commandButton value="Push ME!" action="#{dataController2.handleSearch()}" class="button" />
 	             </h:form><br/>
              </ui:insert>
         </div>
