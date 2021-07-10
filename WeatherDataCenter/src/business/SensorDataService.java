@@ -8,7 +8,7 @@ import beans.Sensors;
 import dao.DataAccessInterface;
 
 @LocalBean
-public class SensorDataService implements DataAccessInterface{
+public class SensorDataService implements DataAccessInterface<Object>{
 	Object t;
 	
 	@Override

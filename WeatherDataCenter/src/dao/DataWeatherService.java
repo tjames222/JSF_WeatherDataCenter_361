@@ -8,11 +8,12 @@ import java.sql.Statement;
 import java.util.ArrayList;
 import java.util.List;
 
-
+import javax.ejb.EJB;
 import javax.faces.bean.ManagedBean;
 import javax.faces.bean.ViewScoped;
 
 import beans.Sensors;
+import business.MyTimerService;
 
 @SuppressWarnings("deprecation")
 @ManagedBean
@@ -27,10 +28,14 @@ public class DataWeatherService implements SensorDaoInterface{
 	}
 	
 	List<Sensors> myList = new ArrayList<Sensors>(); 
-
+	
+	@EJB
+	MyTimerService timer;
+	
 	@Override
 	public List<Sensors> getAllSensorData() {
 		
+		timer.setTimer(10000);
 		Connection conn = null;
 		String url = "jdbc:mysql://webdisk.clc361gp.heliohost.us/clc361gp_clc361_group?useSSL=false";
 		String username = "clc361gp_java";

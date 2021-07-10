@@ -9,20 +9,26 @@ import java.sql.SQLException;
 import java.sql.JDBCType;
 import java.util.ArrayList;
 import java.util.List;
+
+import javax.ejb.EJB;
 import javax.faces.bean.ManagedBean;
 import javax.faces.bean.RequestScoped;
+
+import business.MyTimerService;
 
 @SuppressWarnings("deprecation")
 @ManagedBean
 @RequestScoped
 public class SensorBean implements Serializable{
-
+	@EJB
+	MyTimerService timer;
 	/**
 	 * 
 	 */
 	private static final long serialVersionUID = -769712151785853217L;
 	public List<Sensor> getSensorList() throws ClassNotFoundException, SQLException{
-		System.out.println("inside of get sensor list method in sensor bean.");
+		timer.setTimer(100);
+		//System.out.println("inside of get sensor list method in sensor bean.");
 		Connection connect = null;
 		String url = "jdbc:mysql://webdisk.clc361gp.heliohost.us/clc361gp_clc361_group?useSSL=false";
 		String user = "clc361gp_java";

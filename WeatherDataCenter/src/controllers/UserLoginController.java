@@ -1,20 +1,27 @@
 package controllers;
 
+import java.io.Serializable;
+
 import javax.faces.application.FacesMessage;
 import javax.faces.bean.ManagedBean;
 import javax.faces.bean.ViewScoped;
 import javax.faces.context.FacesContext;
 import javax.inject.Inject;
+import javax.inject.Named;
 
 import beans.User;
 import business.UserAuthenticationInterface;
 
 @SuppressWarnings("deprecation")
-@ManagedBean
+@Named
 @ViewScoped
-public class UserLoginController {
+public class UserLoginController implements Serializable {
 
-    @Inject
+    /**
+	 * 
+	 */
+	private static final long serialVersionUID = -6510937400108973938L;
+	@Inject
     private UserAuthenticationInterface auth;
    
 	public String onSubmit(User user) {

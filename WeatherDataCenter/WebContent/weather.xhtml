@@ -7,12 +7,15 @@
       xmlns:sql="http://java.sun.com/jsp/jstl/sql"
       xmlns:x="http://java.sun.com/jsp/jstl/xml"
       xmlns:permittedTaglibs="http://jakarta.apache.org/taglibs/standard/permittedTaglibs">
-	<h:head>
-        <meta http-equiv="Content-Type" 
-              content="text/html; charset=UTF-8" />
-        <h:outputStylesheet library="css" name="main.css"/>
-        <title>Weather App</title>
-    </h:head>
+<ui:composition template="layouts/layout.xhtml">
+	
+		<ui:define name="title">Weather</ui:define>
+	
+		<ui:define name="header">
+			<div class="header">
+				
+				<h3>Weather Data</h3><br/><br/>
+			
     <h:body>
     	<h2>Weather App</h2>
         <h:dataTable value="#{sensorBean.getSensorList()}" var="data" border="2">
@@ -66,5 +69,7 @@
 			   </h:column>
 			</h:dataTable>
     </h:body>
-
+	</div>
+		</ui:define>
+		</ui:composition>
 </html>
