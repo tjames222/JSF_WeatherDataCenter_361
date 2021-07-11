@@ -21,6 +21,7 @@ public class UserRegistrationController implements Serializable{
 	@Inject
 	UserAuthenticationInterface users;
 	
+	
 	public String onSubmit(User newUser) {
 		FacesContext fc = FacesContext.getCurrentInstance();
 
