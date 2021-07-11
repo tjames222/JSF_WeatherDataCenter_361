@@ -1,6 +1,7 @@
 #Compiled Class Files
 *.class
 *.metadata
+/.classpath
 
 # Log file
 *.log
@@ -19,3 +20,6 @@
 *.zip
 *.tar.gz
 *.rar
+
+# Build paths #
+/build/*
