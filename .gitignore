@@ -1,7 +1,6 @@
 #Compiled Class Files
 *.class
 *.metadata
-/.classpath
 
 # Log file
 *.log
@@ -24,3 +23,4 @@
 # Build paths #
 /build/*
 WeatherDataCenter/.classpath
+*/.classpath
