@@ -3,10 +3,12 @@ package business;
 import java.util.List;
 
 import javax.ejb.Local;
+import javax.inject.Named;
 
 import beans.User;
 
 @Local
+@Named
 public interface UserAuthenticationInterface {
 
 	public List<User> getUserList();
