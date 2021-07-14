@@ -1,10 +1,6 @@
 package business;
 
-import javax.ejb.EJB;
-import javax.ejb.Stateless;
-import javax.enterprise.context.RequestScoped;
 import javax.faces.bean.SessionScoped;
-import javax.interceptor.Interceptors;
 import javax.ws.rs.Consumes;
 import javax.ws.rs.GET;
 import javax.ws.rs.Path;
@@ -15,6 +11,7 @@ import javax.ws.rs.core.*;
 import beans.Sensor;
 import beans.ResponseDataModel;
 
+@SuppressWarnings("deprecation")
 @SessionScoped
 //@RequestScoped
 @Path("/music")

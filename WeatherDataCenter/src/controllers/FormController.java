@@ -3,8 +3,6 @@ package controllers;
 import javax.ejb.EJB;
 import javax.faces.bean.ManagedBean;
 import javax.faces.context.FacesContext;
-import javax.inject.Inject;
-
 import beans.User;
 import business.MyTimerService;
 import business.SensorBusinessInterface;

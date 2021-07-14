@@ -4,10 +4,6 @@ import java.util.List;
 
 import javax.ejb.Local;
 import javax.ejb.LocalBean;
-//import javax.ejb.Stateful;
-//import javax.ejb.Stateless;
-import javax.ejb.Stateful;
-
 import beans.User;
 import dao.UserDataAccessInterface;
 

@@ -6,7 +6,7 @@
 
 <ui:composition template="layouts/layout.xhtml">
 	
-		<ui:define name="title">Login</ui:define>
+		<ui:define name="title">Weather Data</ui:define>
 	
 		<ui:define name="header">
 			<div class="header">
@@ -17,7 +17,10 @@
 	
 		<ui:define name="content" align="center">
              <h1 align="center">Search Results</h1>
-             <h:dataTable value="#{sensor.sensorData}" var="results">
+             <h:dataTable value="#{sensor.sensorData}" var="results" 
+             	styleClass="dataTable"
+             	headerClass="dataTableHeader"
+             	rowClasses="dataTableOddRow,dataTableEvenRow">
                 <h:column>    				
 			      <f:facet name = "header">Sensor ID</f:facet>    				
 			      #{data.sensorId}

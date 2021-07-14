@@ -3,13 +3,7 @@ package dao;
 import java.io.Serializable;
 import java.sql.Connection;
 import java.sql.DriverManager;
-import java.sql.ResultSet;
 import java.sql.SQLException;
-import java.sql.Statement;
-import java.text.DecimalFormat;
-import java.util.ArrayList;
-import java.util.regex.Pattern;
-
 import javax.faces.context.FacesContext;
 
 
@@ -18,7 +12,8 @@ public class DBM implements Serializable{
     private String db_server   = "";
     private String db_user     = "";
     private String db_password = "";
-    private String db_driver   = "";
+    @SuppressWarnings("unused")
+	private String db_driver   = "";
 
     public Connection connection = null;
 

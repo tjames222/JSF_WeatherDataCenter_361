@@ -86,6 +86,29 @@ background-color: #808080;
   color: white;
 }
 
+/*Table Styling*/
+.dataTable {
+	border-collapse: collapse;
+	border: 1px solid #ff0000;
+}
+
+.dataTableHeader {
+	text-align:center;
+   	background:none repeat scroll 0 0 #B5B5B5;
+   	border-bottom:1px solid #000000;  
+   	padding:2px;
+}
+
+.dataTableOddRow {
+	text-align:center;
+   	background:none repeat scroll 0 0 #FFFFFF;
+}
+
+.dataTableEvenRow {
+	text-align:center;
+   	background:none repeat scroll 0 0 #D3D3D3;
+}
+
 /*Button styling*/
 .button {
 	background-color: #000000; /* Black */

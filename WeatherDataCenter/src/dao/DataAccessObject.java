@@ -21,7 +21,8 @@ public class DataAccessObject {
 	      String host = "jdbc:mysql://webdisk.clc361gp.heliohost.us/clc361gp_clc361_group?useSSL=false";
 	      String user = "clc361gp_java";
 	      String password = "Group_CLC361";
-	      String db = "clc361gp_clc361_group";
+	      @SuppressWarnings("unused")
+		String db = "clc361gp_clc361_group";
 	      Connection conn = DriverManager.getConnection(host, user, password);
 	      
 	      // our SQL SELECT query for testing. 

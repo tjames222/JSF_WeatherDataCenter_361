@@ -1,6 +1,5 @@
 package controllers;
 
-import java.io.Serializable;
 import java.util.List;
 
 import javax.faces.bean.ManagedBean;
@@ -10,6 +9,7 @@ import beans.Sensors;
 import business.WeatherBusinessService;
 
 
+@SuppressWarnings("deprecation")
 @ManagedBean
 @ViewScoped
 public class DataController{
