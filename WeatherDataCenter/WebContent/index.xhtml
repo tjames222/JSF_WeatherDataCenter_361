@@ -11,12 +11,30 @@
 		<ui:define name="header">
 			<div class="header">
 				
-				<h3>Home Page</h3><br/><br/>
+				<h3>Home Page</h3>
 			</div>
 		</ui:define>
 	
 		<ui:define name="content">
-		
+		<div class="formWrapper">
+			<div class="regBlock">
+				<div style="display: block; text-align: left">
+					<h2>FIND OUT WHO WE ARE</h2>
+				</div>
+			</div>
+			<a href="about.xhtml">
+				<h:graphicImage library="images" name="about.png" styleClass="cropped"/>
+			</a>
+			<br />
+			<div class="regBlock">
+				<div style="display: block">	
+           			<h:button value="CHECK WEATHER" outcome="weather.xhtml" styleClass="large"></h:button>	
+				</div>
+				<div style="display: block">
+					<h:button value="LOGIN" outcome="login.xhtml" styleClass="large"></h:button>
+				</div>
+			</div>
+		</div>
 			
 		</ui:define>
 	</ui:composition>
